@@ -5,6 +5,7 @@ from dash import dcc
 from dash import html
 from dash import Input, Output, State
 
+from dash_bootstrap_templates import load_figure_template
 import dash_bootstrap_components as dbc
 import plotly.express as px
 from dotenv import load_dotenv
@@ -54,7 +55,7 @@ df = pd.read_csv("./data/life_expectancy_years.csv")
 def create_dashapp(app):
     app = dash.Dash(
         server=app,
-        external_stylesheets=[dbc.themes.BOOTSTRAP],
+        external_stylesheets=[dbc.themes.MINTY],
         url_base_pathname='/dashapp/'
     )
     app.config['suppress_callback_exceptions'] = True
@@ -92,6 +93,7 @@ def create_dashapp(app):
         html.Div(id='page', hidden=True)
     ], fluid=True)
 
+    load_figure_template("minty")
 
     @app.callback(Output('page', 'children'),
                   [Input('b-prev', 'n_clicks'),
@@ -112,9 +114,9 @@ def create_dashapp(app):
         [Input('table', 'selected_columns')]
     )
     def select_year(selection):
-        if selection == None: fig = px.bar(df, x='1800', y='country', orientation='h')
+        if selection == None: fig = px.bar(df, template="minty", x='1800', y='country', orientation='h')
         else:
-            fig = px.bar(df, x=selection[0], y='country', orientation='h')
+            fig = px.bar(df, template="minty", x=selection[0], y='country', orientation='h')
         return fig
 
 
