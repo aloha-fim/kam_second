@@ -1,4 +1,4 @@
-﻿category,rang,full_name,age_year,location,total_time,run_link,run_year
+﻿id,category,rang,full_name,age_year,location,total_time,run_link,run_year
 0,m_30,89.,ann smith,34,metz,"2014-01-08 00:51.04",https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2014
 1,m_30,451.,abe joel,32,berlin,"2014-01-08 01:38.50",https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2014
 2,m_40,45.,abby adams,44,geneve,"2015-01-08 00:21.44",https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2015

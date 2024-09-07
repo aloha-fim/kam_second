@@ -1,8 +1,6 @@
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
-
-# Initialize Db
-Db = SQLAlchemy()
+from kam import Db
 
 class KamUser( Db.Model ):
 

@@ -2,9 +2,16 @@
 
 import psycopg2
 import pandas as pd
+from dotenv import load_dotenv
+from os import environ
+
+
+# Load environment
+load_dotenv('.env')
+
 
 # Update with your user name
-conn = psycopg2.connect("host=localhost dbname=kam_users_db user=postgres")
+conn = psycopg2.connect(environ.get("DATABASE_CRED"))
 cur = conn.cursor()
 
 cur.execute('DROP TABLE IF EXISTS kam_users;')
@@ -22,7 +29,7 @@ cur.execute('''CREATE TABLE kam_users (
 
 conn.commit()
 
-df_users = pd.read_csv('./data/predefined_users.csv', index_col=0)
+df_users = pd.read_csv('predefined_users.csv', index_col=0)
 for idx, u in df_users.iterrows():
     # Data cleaning
 
