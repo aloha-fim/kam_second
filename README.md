@@ -5,22 +5,22 @@
 - venv
 - requirements.txt
 
-
 ## Scrape Data
 - Use Beautiful Soup
 
-## Format Data
 
+## Format Data
+- Regex replace , for timestamp
+- Add Column age group
 
 ## Tranfer log files from csv into postgres database
 - seed_db.py schema data type
-- Schema PII in ETL
 
 ## API
-
+- Flask
 
 ## Visualize
-
+- Plotly
 
 ## LLM AI
 - Azure Cloud
