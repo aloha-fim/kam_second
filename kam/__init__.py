@@ -141,6 +141,46 @@ create_dashapp(app)
 
 
 
+
+def create_dashgraph(app):
+    app = dash.Dash(
+        server=app,
+        external_stylesheets=[dbc.themes.MINTY],
+        url_base_pathname='/dashgraph/'
+    )
+    app.config['suppress_callback_exceptions'] = True
+
+    app.layout = html.Div([
+    html.H4('Runner by Age Group'),
+    dcc.Dropdown(
+        id="dropdown",
+        options=["<20", "21-30", "31-40", "41-50", ">50"],
+        value="31-40",
+        clearable=False,
+    ),
+    dcc.Graph(id="graph"),
+    ])
+
+    @app.callback(
+        Output("graph", "figure"),
+        Input("dropdown", "value"))
+
+    def update_bar_chart(group):
+        df_graph = pd.read_csv("./data/postdefined_users.csv")
+        mask = df['age_group'] == group
+
+        fig = px.bar(df_graph[mask], x='run_year', y='age_year', color="minty", barmode="group")
+        return fig
+
+
+    return app
+
+
+# Initialize
+create_dashgraph(app)
+
+
+
 from kam.core.views import core
 from kam.graph.views import graph
 app.register_blueprint(core)

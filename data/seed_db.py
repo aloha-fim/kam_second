@@ -29,7 +29,7 @@ cur.execute('''CREATE TABLE kam_users (
 
 conn.commit()
 
-df_users = pd.read_csv('predefined_users.csv', index_col=0)
+df_users = pd.read_csv('postdefined_users.csv', index_col=0)
 for idx, u in df_users.iterrows():
     # Data cleaning
 

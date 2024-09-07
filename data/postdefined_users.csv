@@ -1,0 +1,8 @@
+category,rang,full_name,age_year,location,total_time,run_link,run_year,age_group,count
+0,m_30,89.0,ann smith,34,metz,2014-01-08 00:51.04,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2014,31-40,1
+1,m_30,451.0,abe joel,32,berlin,2014-01-08 01:38.50,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2014,31-40,1
+2,m_40,45.0,abby adams,44,geneve,2015-01-08 00:21.44,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2015,41-50,1
+3,m_45,23.0,amy phelps,47,baar,2016-01-08 00:46.35,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2016,41-50,1
+4,m_30,56.0,anne oakly,32,zurich,2017-01-08 00:34.25,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2017,31-40,1
+5,m_35,76.0,abagail williams,37,munich,2017-01-08 01:28.07,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2017,31-40,1
+6,m_45,33.0,andy johns,34,baar,2016-01-08 00:46.35,https://services.datasport.com/2014/lauf/zuerich/alfab.htm,2017,41-50,1
