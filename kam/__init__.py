@@ -142,4 +142,6 @@ create_dashapp(app)
 
 
 from kam.core.views import core
+from kam.graph.views import graph
 app.register_blueprint(core)
+app.register_blueprint(graph)

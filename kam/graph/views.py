@@ -1,9 +1,26 @@
-import plotly.express as px
-import pandas as pd
+from flask import Flask, request, render_template, jsonify, Response, Blueprint, redirect, url_for, flash
+#from werkzeug.utils import secure_filename
+import requests
+import json
 
-data = pd.read_csv("./data/life_expectancy_years.csv")
+#from flask_login import current_user, login_required
+from kam import Db
+from kam.models import KamUser
+#from kam.graph.forms import GraphPostForm
 
-long_df = px.data.medals_long()
+from dotenv import load_dotenv
 
-fig = px.bar(long_df, x="country", y="count", color="medal", title="Long-Form Input")
-fig.show()
+from os import environ
+
+
+load_dotenv(".env")
+
+graph = Blueprint('graph',__name__, template_folder="templates")
+
+# Define dashapp route
+@graph.route('/dashgraph/', methods=['GET','POST'])
+
+def redirect_to_dashgraph():
+    return redirect('/dashgraph/')
+
+
