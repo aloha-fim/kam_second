@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Kamuna</title>
+    <title>Kamuno Test</title>
 
     <!-- Styles -->
     {% block styles %}
@@ -38,13 +38,12 @@
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
     // Parse the Data
-    //d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv").then( function(data) {
     //d3.json('/load_data').then( function(data) {
     d3.csv('{{url_for('static', filename='data/predefined_users.csv')}}').then( function(data) {
     // X axis
     const x = d3.scaleBand()
       .range([ 0, width ])
-      .domain(data.map(d => d.category))
+      .domain(data.map(d => d.run_year))
       .padding(0.2);
     svg.append("g")
       .attr("transform", `translate(0,${height})`)
@@ -64,7 +63,7 @@
     svg.selectAll("mybar")
       .data(data)
       .join("rect")
-        .attr("x", d => x(d.category))
+        .attr("x", d => x(d.run_year))
         .attr("width", x.bandwidth())
         .attr("fill", "#69b3a2")
         // no bar at the beginning thus:
