@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 from os import environ
 from flask import Flask, render_template, jsonify, redirect
 from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
 
 import pandas as pd
 
@@ -25,9 +26,10 @@ load_dotenv('.env')
 
 # Initialize app
 app = Flask(__name__)
-
+CORS(app)
 
 app.secret_key = environ.get('SECRET_KEY')
+app.config['DEBUG'] = environ.get('FLASK_DEBUG')
 
 # Initialize DB
 Db = SQLAlchemy()
