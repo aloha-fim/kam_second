@@ -10,11 +10,18 @@
 
 
 ## Format Data
-- Regex replace , for timestamp
-- Add Column age group
 
 ## Tranfer log files from csv into postgres database
 - seed_db.py schema data type
+- python seed_db.py
+- Regex replace , for timestamp
+- dates
+
+# add to dataset - age group and count
+- python refine_seed.py
+- Add Column age group
+
+
 
 ## API
 - Flask

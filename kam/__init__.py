@@ -1,9 +1,10 @@
+import dash_ag_grid as dag # type: ignore
 import dash # type: ignore
 from dash import dash_table
 #import html
 from dash import dcc
 from dash import html
-from dash import Input, Output, State
+from dash import Dash, Input, Output, State, callback, Patch
 
 from dash_bootstrap_templates import load_figure_template
 import dash_bootstrap_components as dbc
@@ -15,9 +16,6 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 
 import pandas as pd
-
-
-
 
 
 
@@ -47,8 +45,6 @@ def create_app():
     Db.init_app(app)
 
     return app
-
-
 
 # Route to dashapp
 df = pd.read_csv("./data/life_expectancy_years.csv")
@@ -140,8 +136,6 @@ def create_dashapp(app):
 create_dashapp(app)
 
 
-
-
 def create_dashgraph(app):
     app = dash.Dash(
         server=app,
@@ -150,30 +144,36 @@ def create_dashgraph(app):
     )
     app.config['suppress_callback_exceptions'] = True
 
-    app.layout = html.Div([
-    html.H4('Runner by Age Group'),
-    dcc.Dropdown(
-        id="dropdown",
-        options=["<20", "21-30", "31-40", "41-50", ">50"],
-        value="31-40",
-        clearable=False,
-    ),
-    dcc.Graph(id="graph"),
-    ])
+    df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/ag-grid/olympic-winners.csv")
+
+    columnDefs = [{"field": col} for col in ['athlete', 'country', 'sport', 'age']]
+
+    app.layout = html.Div(
+        [
+            html.Div('Quick Filter:'),
+            dcc.Input(id="quick-filter-input", placeholder="filter..."),
+            dag.AgGrid(
+                id="quick-filter-simple",
+                rowData=df.to_dict("records"),
+                columnDefs=columnDefs,
+                defaultColDef={"flex": 1},
+                dashGridOptions={"animateRows": False}
+            ),
+        ]
+    )
+
 
     @app.callback(
-        Output("graph", "figure"),
-        Input("dropdown", "value"))
-
-    def update_bar_chart(group):
-        df_graph = pd.read_csv("./data/postdefined_users.csv")
-        mask = df['age_group'] == group
-
-        fig = px.bar(df_graph[mask], x='run_year', y='age_year', color="minty", barmode="group")
-        return fig
-
+        Output("quick-filter-simple", "dashGridOptions"),
+        Input("quick-filter-input", "value")
+    )
+    def update_filter(filter_value):
+        newFilter = Patch()
+        newFilter['quickFilterText'] = filter_value
+        return newFilter
 
     return app
+
 
 
 # Initialize
