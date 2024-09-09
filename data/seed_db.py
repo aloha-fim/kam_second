@@ -29,7 +29,18 @@ cur.execute('''CREATE TABLE kam_users (
 
 conn.commit()
 
-df_users = pd.read_csv('postdefined_users.csv', index_col=0)
+df_users = pd.read_csv('predefined_users_combined.csv', index_col=0, encoding = "ISO-8859-1")
+
+############# regex df ##############################
+df_users['total_time'] = df_users['total_time'].str.split(',').str[0]
+#df_users['total_time'].str.extract(r"(\w+)(?=\,)")
+
+# format to timestamp
+df_users['total_time'] = df_users['total_time'].str.replace('.',':')
+
+# format DQ to dummy variable
+#df_users['total_time'] = df_users['total_time'].str.replace('-----','00:00:01,1')
+
 for idx, u in df_users.iterrows():
     # Data cleaning
 
