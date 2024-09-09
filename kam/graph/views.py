@@ -10,3 +10,10 @@ def redirect_to_dashgraph():
     return redirect('/dashgraph/')
 
 
+# Define dashgraph route
+@graph.route('/dashboth/', methods=['GET','POST'])
+
+def redirect_to_dashboth():
+    return redirect('/dashboth/')
+
+

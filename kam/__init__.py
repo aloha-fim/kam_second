@@ -47,13 +47,13 @@ def create_app():
     return app
 
 # Route to dashapp
-df = pd.read_csv("./data/life_expectancy_years.csv")
+df = pd.read_csv("./data/postdefined_users_graph.csv")
 
 
 def create_dashapp(app):
     app = dash.Dash(
         server=app,
-        external_stylesheets=[dbc.themes.MINTY],
+        external_stylesheets=[dbc.themes.BOOTSTRAP],
         url_base_pathname='/dashapp/'
     )
     app.config['suppress_callback_exceptions'] = True
@@ -82,8 +82,12 @@ def create_dashapp(app):
                     id='table',
                     # columns=[{"name": i, "id": i} for i in df.columns[0:10]],
                     data=df.to_dict('records'),
-                    page_size=30,
+                    page_size=10,
                     column_selectable='single',
+                    style_data={
+                        'whiteSpace': 'normal',
+                        'height': 'auto',
+                    },
                 ), ]),
             dbc.Col([dcc.Graph(style={"height": "100%"}, id='year-bars')]),
         ]),
@@ -91,7 +95,7 @@ def create_dashapp(app):
         html.Div(id='page', hidden=True)
     ], fluid=True)
 
-    load_figure_template("minty")
+    load_figure_template("bootstrap")
 
     @app.callback(Output('page', 'children'),
                   [Input('b-prev', 'n_clicks'),
@@ -112,9 +116,11 @@ def create_dashapp(app):
         [Input('table', 'selected_columns')]
     )
     def select_year(selection):
-        if selection == None: fig = px.bar(df, template="minty", x='1800', y='country', orientation='h')
+        if selection == None: fig = px.bar(df, template="bootstrap", x='count', y='age_group', orientation='h')
+
         else:
-            fig = px.bar(df, template="minty", x=selection[0], y='country', orientation='h')
+            fig = px.bar(df, template="bootstrap", x=selection[0], y='age_group', orientation='h')
+            fig.update_xaxes(type='category')
         return fig
 
 
@@ -126,8 +132,6 @@ def create_dashapp(app):
         return [{"name": df.columns[0], "id": df.columns[0]}] + \
                [{"name": i, "id": i, "selectable": True} for i in df.columns[1 + page * 10:1 + (page + 1) * 10]]
 
-
-        # Register callbacks here if you want...
 
     return app
 
@@ -144,14 +148,18 @@ def create_dashgraph(app):
     )
     app.config['suppress_callback_exceptions'] = True
 
-    df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/ag-grid/olympic-winners.csv")
+    df = pd.read_csv("./data/postdefined_users.csv")
 
-    columnDefs = [{"field": col} for col in ['athlete', 'country', 'sport', 'age']]
+    columnDefs = [{"field": col} for col in ['category', 'full_name', 'age_year', 'location', 'run_year', 'age_group']]
+
+    spacer = html.H2("", className="bg-white text-white p-2 mb-3")
 
     app.layout = html.Div(
         [
-            html.Div('Quick Filter:'),
+            html.Div('Filter:'),
+
             dcc.Input(id="quick-filter-input", placeholder="filter..."),
+
             dag.AgGrid(
                 id="quick-filter-simple",
                 rowData=df.to_dict("records"),
@@ -178,6 +186,73 @@ def create_dashgraph(app):
 
 # Initialize
 create_dashgraph(app)
+
+
+
+
+def create_dashboth(app):
+    app = dash.Dash(
+        server=app,
+        external_stylesheets=[dbc.themes.MINTY],
+        url_base_pathname='/dashboth/'
+    )
+    app.config['suppress_callback_exceptions'] = True
+
+    df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/ag-grid/olympic-winners.csv")
+
+    columnDefs = [{"field": i} for i in ["country", "year", "athlete", "age", "sport", "total"]]
+
+    app.layout = html.Div(
+        [
+            dag.AgGrid(
+                id="row-selection-options",
+                columnDefs=columnDefs,
+                rowData=df.to_dict("records"),
+                columnSize="sizeToFit",
+                defaultColDef={"filter": False},
+                dashGridOptions={"animateRows": False, "rowSelection": 'single'}
+            ),
+            dcc.Graph(id='empty-graph', figure={})
+        ],
+    )
+
+
+    @app.callback(
+        Output("empty-graph", "figure"),
+        Input("row-selection-options", "cellClicked"),
+        prevent_initial_call=True
+    )
+    def disable__checkbox(cell_selected):
+        print(cell_selected)
+        cell_id = cell_selected['colId']
+        cell_value = cell_selected['value']
+        if cell_id== 'athlete':
+            dff = df[df.athlete == cell_value]
+            fig = px.histogram(dff, x='athlete', y='total', color='year')
+        elif cell_id == 'year':
+            dff = df[df.year == cell_value]
+            fig = px.bar(dff, x='country', y='total', title=f"{cell_value} Olympics")
+        elif cell_id == 'country':
+            dff = df[df.country == cell_value]
+            fig = px.bar(dff, x='sport', y='total')
+        elif cell_id == 'sport':
+            dff = df[df.sport == cell_value]
+            fig = px.bar(dff, x='country', y='total', title=f"{cell_value} in the Olympics")
+        elif cell_id == 'age':
+            dff = df[df.age == cell_value]
+            fig = px.bar(dff, x='athlete', y='total', title=f"{cell_value} year-olds with medals in the Olympics")
+        else:
+            fig = px.bar(df, x='country', y='total', title=f"{cell_value} Olympics")
+        return fig
+
+    return app
+
+
+
+# Initialize
+create_dashboth(app)
+
+
 
 
 
