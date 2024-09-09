@@ -1,0 +1,1197 @@
+category	rang	full_name	age_year	location	total_time	run_link	run_year
+10-M20	114	D'Alberto Marco	1987	Winterthur	"46.37,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	109	Dagli Mehmet	1985	Zürich	"46.02,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	206	Dal Santo Andreas	1989	Zürich	"57.19,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	96	Degiacomi Maurizio	1985	Zürich	"45.05,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	78	Dell Michael	1989	D-St. Ingbert	"44.10,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	139	Dittli Andreas	1986	Baar	"48.48,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	28	Dominik Kasper	1988	Zürich	"40.55,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	80	Dory Arnaud	1986	Lausanne	"44.13,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	84	Dosch Raphael	1989	Zürich	"44.20,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	6	Drescher Ivo	1993	Zürich	"35.09,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	170	Drews Sebastian	1987	Zürich	"52.45,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	162	Dündar Hüseyin	1992	Zürich	"51.25,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	48	Dütschler Joel	1985	Wetzikon ZH	"42.34,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M20	132	Duttweiler Loris	1994	Thalwil	"47.51,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	212	Dahinden Ralph	1981	Wallisellen	"46.47,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	455	Damle Nitin	1978	Winterthur	"1:01.06,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	467	De Bernard Arturo	1977	Luzern	"1:03.11,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	60	Decataldo Damiano	1980	Uznach	"40.42,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	27	Del Buono Luigi	1977	Glis	"38.38,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	445	Delso Gaspar	1975	Zumikon	"59.04,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	237	Devecseri Gabor	1982	Oberrieden	"47.26,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	438	Di Flaviano Fabio	1983	Zürich	"58.07,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	389	Di Santo Pasquale	1980	Zürich	"54.43,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	87	Diego Jaime	1981	Trimbach	"41.52,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	117	Dole Patrick	1978	Oberengstringen	"43.39,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	204	Donno Giuseppe	1983	Regensdorf	"46.33,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	81	Dorfmann Norbert	1983	Zürich	"41.38,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	372	Doyen Jean-Philippe	1977	Walenstadt	"54.00,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	54	Dubach Michael	1983	Aarberg	"40.27,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	126	Dübi Roland	1977	Zürich	"44.01,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	276	Düblin Raphael	1983	Allschwil	"49.16,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	2	Duft Silvan	1983	Zuzwil SG	"33.36,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	304	Düggelin Thomas	1982	Baden	"50.44,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	15	Dupont Emile	1982	Bern	"37.22,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	112	Dürr Matthias	1979	Zürich	"43.19,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M30	344	Dürsteler Daniel	1984	Uetikon am See	"52.30,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	248	D'Angelo Fausto	1970	Volketswil	"54.24,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	212	D'Oto Gregorio	1970	Hausen am Albis	"51.53,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	5	Dambach René	1969	Schöfflisdorf	"36.00,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	64	Daschmann Volker	1973	Winterthur	"42.32,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	203	Demè Carlo A.	1966	Esslingen	"51.34,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	321	Di Lauro Dani	1970	Volketswil	"1:03.00,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	241	Di Mauro Philipp	1971	Zürich	"53.42,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	325	Di Sandro Maurizio	1967	Wolfhausen	"1:07.00,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	243	Dicken Michael	1966	Uster	"54.02,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	205	Dönni Martin	1968	Uster	"51.36,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	314	Dörnberger Erich	1966	Buchs ZH	"1:01.35,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	193	Doswald Reto	1970	Jona	"50.55,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	185	Doukas Spiros	1973	Wolfhausen	"50.08,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M40	144	Ducommun Roland	1970	Bonstetten	"47.12,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	139	Däppen Bruno	1960	Zürich	"55.48,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	169	Davids Daniel	1956	Versoix	"1:06.54,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	48	De Wit Guido	1962	Schönenberg ZH	"46.06,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	32	Derron Marc	1961	Zürich	"43.58,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	172	Di Sandro Arnaldo	1963	Wolfhausen	"1:10.57,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M50	141	Döös Stefan	1961	Wetzikon ZH	"56.25,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M60	6	Di Giulio Umberto	1954	Baden	"45.57,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M60	22	Dreisbach Gerd	1954	D-Havixbeck	"51.25,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M70	7	Dünki Hans	1942	Zürich	"1:04.40,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W16	16	Dietschi Fanny	1997	Zürich	"51.26,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W16	12	Doubman Maggie	1999	Dübendorf	"49.21,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W18	26	Ducret Joséphine	1996	Zürich	"1:00.19,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	147	Dawid Friederike	1991	D-Bückeburg	"53.10,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	72	Decasper Flurina	1986	Zürich	"49.37,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	1	Derron Nina	1993	Zürich	"37.53,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	138	Di Maggio Stefania	1993	Zürich	"52.37,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	67	Dinkel Damaris	1988	Zürich	"49.17,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	252	Distel Isabel	1986	Zürich	"58.59,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	132	Dobitz Stefanie	1988	Schlieren	"52.21,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	262	Dobler Carole	1991	Appenzell	"59.55,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	209	Domingo Jennifer	1985	Rikon im Tösstal	"56.31,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W20	18	Dönni Mirjam	1989	Erlinsbach	"44.43,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	128	D'Angelo Jessica	1976	Volketswil	"52.54,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	184	De Nardo Sandra	1979	Zürich	"55.48,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	292	Del Canto Valerie	1982	Zürich	"1:02.44,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	158	Desapio Honey	1977	Schaffhausen	"54.32,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	327	Desaulniers Marie-Eve	1981	Zürich	"1:09.34,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	14	Digirolamo Monika	1975	Bäretswil	"43.06,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W30	169	Dübendorfer Janine	1983	Zürich	"55.09,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	53	Daldini Antonella	1968	Lugano	"48.17,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	130	Dauncey Shirley	1967	Jona	"55.45,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	159	De Lucia Rossana	1969	Zürich	"56.54,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	46	Dicken Sally	1970	Uster	"47.49,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	99	Dodgson Beatrix	1968	Horgen	"53.07,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	234	Dönni Carole	1966	Uster	"1:03.59,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	65	Duennhaupt Annemari	1972	Benglen	"49.32,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	152	Dupont Laurence	1972	Adlikon b. Regensdor	"56.35,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W40	10	Dusch Kerstin	1971	Baar	"42.36,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W50	19	D'Agostino Heidi	1963	Walenstadt	"47.15,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W50	72	Dessy Gisella	1956	Oberrieden	"56.40,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-W60	9	Davids Jean	1952	Versoix	"1:02.20,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M20	53	De Belsunce Henri	1988	D-München	"3:21.39,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M20	33	De Nicola Diego	1986	Zürich	"3:12.07,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M20	226	Diethelm Nathaniel	1993	Zufikon	"4:52.19,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M20	56	Dolezal Mischa	1987	Reitnau	"3:23.11,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	259	D'Agostini Loris	1981	Uster	"3:32.15,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	86	Da Costa Fernando	1976	Kloten	"3:04.14,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	530	Dalbert Adrian	1982	Zürich	"4:28.41,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	398	Dariz Michele	1980	Cugnasco	"3:51.35,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	116	Dawson Wayne	1982	D-Konstanz	"3:10.29,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	153	De Block Frederik	1975	Büttikon AG	"3:17.15,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	287	De Looff Patrick	1975	NL-Almere	"3:36.41,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	4	De Martin Marco	1979	Aadorf	"2:35.39,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	164	De Nardo Mikko	1981	Zürich	"3:19.24,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	200	Decker Timo	1981	D-Nürnberg	"3:26.14,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	142	Della Badia Antonio	1975	Stansstad	"3:15.00,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	364	Delort Jean-Yves	1976	Gockhausen	"3:47.36,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	449	Demko Laszlo	1979	Zürich	"3:58.27,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	475	Demoulin Thibault	1983	Turgi	"4:04.57,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	295	Di Giorgio Benedetto	1976	Zürich	"3:37.46,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	571	Di Matteo Roberto	1983	Zürich	"5:02.37,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	90	Diallo Ousmane	1980	Thalwil	"3:04.58,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	135	Dick Markus	1975	Lenzburg	"3:14.02,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	363	Dimitropoulos Georgios	1982	Lausanne	"3:47.29,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	383	Döbeli Jeremias	1983	Zürich	"3:50.10,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	561	Dolabella Bruno	1980	Lutry	"4:48.04,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	93	Dolev Tamuz	1976	ISR-Nestziona	"3:05.58,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	411	Dormann Constantin	1984	Zürich	"3:54.32,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	540	Dubach Philipp Alfred	1979	Engelburg	"4:34.45,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M30	507	Dymkowski Krzysztof	1984	Zürich ETH-Hönggerbe	"4:18.47,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	69	Da Silva Carlos	1972	Horw	"3:09.25,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	213	Date Simon	1972	Oberburg	"3:45.31,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	248	De Boni Oliver	1974	Horgen	"3:55.18,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	321	Deepu Sebastian	1974	Neuenhof	"4:38.38,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	33	Delémont Cédric	1972	Orbe	"2:58.39,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	345	Dietrich Jann	1970	Künten	"1:06.05,8 1/"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	32	Dillner Tomas	1970	Richterswil	"2:58.25,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	265	Dingeldey Alexander	1974	D-Regensburg	"3:59.38,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	41	Dirren Marco	1973	Brig	"3:01.48,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	70	Do Aido Carlos	1970	Oberbuchsiten	"3:09.53,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	132	Dober Meinrad	1971	Küssnacht am Rigi	"3:26.46,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	234	Dolic Dubravko	1972	D-Rosenheim	"3:51.42,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	199	Donatsch Christian	1970	Zufikon	"3:42.37,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	223	Dosedla Alex	1971	Hittnau	"3:48.43,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	242	Dreier Daniel	1970	Humlikon	"3:53.34,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	108	Drollinger Volker	1971	D-Neuweiler	"3:21.19,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M40	128	Duss Pierre	1973	Birmensdorf ZH	"3:25.59,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	189	D'Andrea Fabrizio	1966	I-Imola (BO)	"3:36.36,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	350	Dagga Andreas	1966	D-Kiel	"4:23.06,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	123	Dahinden Stefan	1967	Regensberg	"3:25.05,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	129	Darlix Frederic	1965	F-Annemasse	"3:26.39,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	104	Daum Martin	1967	D-Lörrach	"3:19.01,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	344	Davies Michael	1965	Zug	"4:20.04,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	232	Daxner Michael	1966	A-Kritzendorf	"3:45.11,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	151	De Filippo Enzo	1969	Bassersdorf	"3:28.37,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	154	De Sousa Luiz Carlos	1966	Greifensee	"3:29.22,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	122	Debrunner Roman	1967	Winterthur	"3:24.58,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	68	Dellmann Marc	1966	Herrliberg	"3:10.37,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	100	Dennhardt Thomas	1968	D-Frankfurt	"3:18.14,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	21	Dethier Bernd	1968	D-Kelkheim	"2:58.05,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	11	Devaux Jean-Pierre	1965	Scheuren	"2:51.38,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	163	Di Sevo Domenico	1968	Dietikon	"3:31.06,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	381	Dickmann Volker	1966	D-Wesel	"4:58.20,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	384	Donati Marco	1967	Nänikon	"5:07.36,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	12	Doppler Martin	1969	F-Wintzenheim	"2:52.54,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	170	Doveren Peter	1969	GR-Nea Erytraia	"3:33.03,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	320	Drawert Ralf	1969	D-Waiblingen	"4:09.42,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	216	Dreyer Holger	1965	D-Hamburg	"3:42.53,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	36	Dunskus Bertram	1968	Uerikon	"3:02.20,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	80	Dupraz Marc	1969	St-George	"3:13.24,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	264	Düringer Michael	1965	Stäfa	"3:52.33,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M45	1	Dussa Gunnar	1966	D-Weinolsheim	"2:41.36,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	231	Deck-Meier Felix	1963	Watt	"4:16.02,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	46	Desteffani Jörg	1964	Windisch	"3:15.00,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	28	Diener Erwin	1960	Zürich	"3:09.50,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	149	Doutney Christopher	1963	GB-London	"3:45.01,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	282	Dürrenberger Marcel	1961	Anwil	"1:44.23,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	72	Dussa Thorsten	1964	D-Maintal	"3:23.36,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M50	70	Dutli Markus	1961	Geroldswil	"3:22.37,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M55	140	Diethelm Karl	1957	Zufikon	"4:52.20,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M55	2	Dunlop Stephen	1957	Altendorf	"3:05.43,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M60	52	Daumberger Hans	1951	D-Würzburg	"4:12.41,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M60	58	Della Rossa Hanspeter	1954	Siebnen	"4:21.48,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M60	44	Dubaniowski Marek	1953	D-Köln	"4:03.17,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-M60	2	Dwyer Christopher	1951	AUS-Dundas Sydney	"3:07.30,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-MElit	27	Downs Fabian	1986	St. Gallen	"2:33.39,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-MElit	12	Duguma Abiyot Guta	1985	Äthiopien	"2:16.15,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	65	Beck Lea	1982	Zürich	"3:21.42,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	163	Beck Lea	1982	Zürich	"3:39.10,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	172	Bärlocher Patrick	1974	Flaach	"3:39.57,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	20	Busenhart Thomas	1976	Schaffhausen	"3:06.28,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	138	Furger Sandra	1982	Bassersdorf	"3:35.20,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	259	Kecskemeti Aniko	1982	Zürich	"3:56.32,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TFirm	108	Arnesson Jörgen	1957	Opfikon	"3:31.08,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	56	Jud Patrick	1980	St. Gallen	"3:27.50,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	30	Schmid Rino	1989	Zürich	"3:10.37,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	31	Hogenschurz Markus	1965	Urdorf	"3:11.53,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	48	Hueber Benjamin	1987	Binningen	"3:22.36,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	66	Rummenigge Marco	1988	Zürich	"3:34.53,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMen	95	Klein Tobias	1969	Meilen	"4:00.49,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	226	Keller Stefanie	1987	Volketswil	"3:46.59,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	317	Roth Daniel	1953	Mönchaltorf	"4:01.24,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	168	Borner Laura	1990	Adliswil	"3:37.39,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	344	Näf Astrid	1961	Bischofszell	"4:12.31,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	281	Arellano Rodolfo	1973	Baden	"3:55.36,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	92	Streit Simon	1988	Lostorf	"3:27.00,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	343	Schmauder Stephan	1971	Zürich	"4:12.19,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	99	Huber Beatrice	1966	Jonen	"3:27.19,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	361	Valencia Stella	1974	Winkel	"4:21.25,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	252	Morgenthaler Meret	1983	Zürich	"3:50.30,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	85	Jutzi Sabrina	1989	Grüningen	"3:26.06,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	257	Steinhauer Seraina	1987	Zürich	"3:51.10,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	273	Thörig Christian	1966	Zürich	"3:54.06,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	47	Koch Pascal	1985	Schlieren	"3:17.42,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	149	Landstedt Monica	1960	Nussbaumen AG	"3:34.52,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	173	Inderbitzin Kevin	1984	Baar	"3:38.19,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	214	Sigrist Sandra	1973	Wiesendangen	"3:45.26,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	109	Deflorin Manuela	1986	Chur	"3:28.34,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	65	Melber Veronika	1988	Luzern	"3:21.23,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	204	Schirmer Kristin	1967	Wallisellen	"3:43.01,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	229	Schirmer Sebastian	1976	Zürich	"3:47.14,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	44	Benech Carlo	1966	Oetwil am See	"3:15.46,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	30	Appelshäuser Oliver	1978	Zürich	"3:08.09,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TMix	91	Jaccard Christelle	1977	Uster	"3:26.52,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	21	Zaugg Lucia	1987	Basel	"3:39.34,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	1	Böllenrücher Melanie	1987	Zürich	"2:53.59,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	64	Krizmanic Monika	1988	Schaffhausen	"4:06.21,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	3	Thurnherr Barbara	1982	Hedingen	"3:22.06,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	40	Honegger Barbara	1966	Dürnten	"3:49.18,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-TWom	32	Honegger Barbara	1966	Dürnten	"3:43.35,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W20	80	De Looff-Landkroon San	1987	NL-Almere	"4:49.29,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W20	68	De Nicola Valeria	1988	Carona	"4:27.06,7"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W20	4	Delebecque Camille	1986	F-Poitiers	"3:13.38,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	122	Dambo Tanja	1981	Zug	"4:35.54,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	40	Deimel Meike	1977	Gossau SG	"3:44.52,8"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	84	Dellanoi Barbara	1981	A-Hohenems	"4:03.40,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	132	Descendre Josefina	1978	NL-Nijmegen	"4:57.17,6"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	118	Dittli Sue	1975	Ebikon	"4:30.57,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W30	89	Durand Amanda	1977	Genève	"4:08.23,1"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W40	27	Dollerup Brit	1974	Menzingen	"3:40.01,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W45	10	Dale Rachel	1969	Meilen	"3:26.50,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W45	97	Descoeudres Noémie	1969	Prilly	"2:37.11,3"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W45	34	Dörrer Barbara	1965	Wil SG	"3:48.15,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W45	28	Dünki Masami	1965	Dachsen	"3:43.20,4"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W45	78	Dür Ulrike	1967	A-Feldkirch	"4:15.02,0"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W50	49	Daumberger Christina	1961	D-Würzburg	"4:12.40,9"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-W50	29	Deck-Meier Rosie	1964	Watt	"3:52.33,2"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+42-WElit	9	Di Marco Magali	1971	Troistorrents	"2:43.59,5"	https://services.datasport.com/2014/lauf/zuerich/alfad.htm	2014
+10-M16	11	Dörnberger Nicolas	2001	Buchs ZH	"51.38,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M18	15	Diener Immanuel	1996	Wädenswil	"52.53,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	174	D'Alberto Manuel	1995	Neftenbach	"53.49,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	65	D'Alberto Marco	1987	Winterthur	"44.24,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	31	D'Halluin Florent	1988	Zürich	"41.01,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	160	De Maria Luca	1990	I-Grandola Ed Uniti	"51.42,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	127	Dettwiler Dominic	1986	Windisch	"47.56,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	129	Di Cristo Marco	1987	Dübendorf	"48.21,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	23	Dias Jeremy	1986	Dübendorf	"40.11,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	8	Dietzen Pablo	1991	Zürich	"37.58,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	59	Dillinger Philipp	1986	Zürich	"44.12,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	132	Dittli Andreas	1986	Baar	"48.28,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	126	Doggwiler Benjamin	1990	Zürich	"47.50,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	113	Dorner Kai	1986	Zürich	"46.51,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	122	Dübendorfer Marco	1989	Bülach	"47.33,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	197	Durante Maurizio	1986	Eschlikon TG	"1:00.04,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	151	Dagli Mehmet	1985	Zürich	"45.52,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	178	Dallatomasina Tim	1981	Zürich	"46.44,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	400	Damle Nitin	1978	Winterthur	"59.31,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	216	De Bernard Arturo	1977	Luzern	"48.30,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	201	De Franceschi Alberto	1978	I-Teolo (PD)	"48.01,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	86	De Rosa Davide	1980	Au ZH	"42.49,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	153	Decataldo Damiano	1980	Uznach	"46.04,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	339	Decourt Cédric	1979	Luzern	"54.37,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	412	Deepu Paul	1981	Zürich	"1:01.56,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	253	Delidimu Christos	1979	Urdorf	"49.40,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	306	Denneberg Reto	1983	Zürich	"52.28,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	320	Descoeudres Antoine	1978	Lausanne	"53.31,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	376	Di Cosmo Stefano	1983	Jona	"57.31,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	402	Di Santo Pasquale	1980	Zürich	"1:00.05,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	333	Diehl Waldemar	1976	Hünenberg See	"54.23,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	166	Dogan Aydn	1985	Winterthur	"46.20,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	260	Dolabella Bruno	1980	Lutry	"50.03,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	174	Dole Patrick	1978	Oberengstringen	"46.39,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	154	Donno Gabriele	1977	Agno	"46.05,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	88	Dübi Roland	1977	Zürich	"42.51,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M30	278	Dutler Pascal	1984	Zürich	"51.06,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	91	De Lapersonne Christop	1969	Winterthur	"44.59,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	227	Demè Carlo A.	1966	Zürich	"53.43,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	279	Demokan Suat	1970	Horgen	"1:00.53,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	278	Demokan Süha	1966	Horgen	"1:00.53,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	8	Denzler Marcel	1973	Andelfingen	"36.36,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	229	Di Mauro Philipp	1971	Zürich	"53.53,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	299	Di Sandro Maurizio	1967	Wolfhausen	"1:09.59,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	248	Diack Alistair	1966	Thalwil	"55.40,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	254	Dicken Michael	1966	Uster	"56.14,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	206	Dietrich Pascal	1968	Troinex	"51.41,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	202	Dönni Martin	1968	Uster	"51.21,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	251	Dörnberger Erich	1966	Buchs ZH	"55.54,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	50	Dos Santos Nelson	1973	D-Rielasingen-Worbli	"42.05,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M40	174	Doukas Spiros	1973	Wolfhausen	"49.44,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M50	85	Dangel Christian	1960	Zürich	"49.54,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M50	96	Di Maria Antonio	1964	Buchs SG	"50.36,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M50	170	Di Sandro Arnaldo	1963	Wolfhausen	"1:01.50,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M50	168	Dietrich Rolf	1960	D-Sinzheim	"1:01.00,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M50	133	Döös Stefan	1961	Wetzikon ZH	"54.54,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M60	52	De Sio Antonio	1953	I-Milano (MI)	"1:01.21,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M60	32	Dreisbach Gerd	1954	D-Havixbeck	"53.23,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M60	57	Dreitler Herbert	1955	A-Neukirchen an der	"1:05.03,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W16	15	Dahinden Tiya	2000	Au ZH	"57.22,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W18	9	Dietschi Fanny	1997	Zürich	"51.31,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	150	Dax Victoria	1994	Zürich	"53.51,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	184	De Lapersonne Daniela	1986	Winterthur	"55.06,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	154	De Ravallet Desiree	1988	Rapperswil SG	"53.54,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	304	De Thevenard Julia	1988	Zürich	"1:09.58,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	140	Di Iasio Anita	1987	Winterthur	"53.09,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	164	Dittadi Varinia	1987	Sevelen	"54.22,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W20	175	Droz Muriel	1988	Zürich	"54.36,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	285	De Montmollin Alexia	1985	Vevey	"59.01,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	183	De Nardo Sandra	1979	Zürich	"53.44,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	332	De Roo Naomi	1984	Zug	"1:05.34,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	200	Dell-Diehl Natalia	1979	Hünenberg See	"54.23,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	263	Diagne Fatou	1983	Zürich	"57.34,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	7	Dianoux Raphaelle	1977	Zürich	"40.27,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	84	Djukic Suzana	1977	D-Bad Säckingen	"49.20,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	98	Dubuis Evelyne	1984	Vevey	"50.06,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	262	Duch Fanny	1985	Zürich	"57.34,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	251	Duckworth Jamila	1978	Fällanden	"57.03,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	91	Duff Tanja	1977	Chur	"49.42,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W30	28	Düscher Karin	1985	Zürich	"45.05,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	44	Dannecker-Davatz Mirja	1974	Zollikon	"50.39,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	84	Descoeudres Bochmann S	1972	Areuse	"53.30,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	41	Dicken Sally	1970	Uster	"50.23,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	87	Dietrich Ines	1972	Troinex	"53.43,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	192	Dönni Carole	1966	Uster	"1:01.41,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	213	Duarte Marina	1970	D-Germering	"1:04.12,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	170	Dupont Laurence	1972	Adlikon b. Regensdor	"58.19,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W40	80	Dyrseth Marit	1971	Au ZH	"53.13,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-W50	26	Dessy Gisella	1956	Oberrieden	"52.58,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	58	Dantone Matthias	1986	Zürich	"3:22.38,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	201	Demuth Robin	1995	Hüntwangen	"4:26.44,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	95	Diethelm Nathanael	1993	Zufikon	"3:35.18,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	76	Dizhak Vasyl	1988	Zürich	"3:28.19,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	204	Dörfler Thomas	1988	D-Stuttgart	"4:28.50,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	102	Dreher Carsten	1990	D-Wildberg	"3:37.50,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	213	Dunin Dmitiry	1986	USA-Boston	"5:17.07,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	36	Dunne Matthew	1988	Zürich	"3:08.52,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M20	117	Dütschler Reto	1987	Horgen	"3:42.10,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	310	D'Agostini Loris	1981	Uster	"3:36.37,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	444	Dalla Palma Roby	1976	Bernex	"3:57.40,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	595	Danikas Antonios	1977	Zug	"5:23.22,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	383	Dariz Michele	1980	Cugnasco	"3:45.58,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	533	Dauenhauer Marcus	1983	D-Hilzingen	"4:23.15,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	63	De Acha Yon	1977	D-München	"2:59.10,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	55	De Martin Marco	1979	Aadorf	"2:58.44,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	348	De Vecchi Alessandro	1985	Zürich	"3:41.59,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	435	Dedeurwaerdere Hugo	1979	Zürich	"3:55.22,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	87	Delaporte Alexis	1984	Zürich	"3:04.41,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	340	Delort Jean-Yves	1976	Gockhausen	"3:41.05,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	387	Demko Laszlo	1979	Zürich	"3:46.49,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	305	Denasio Luca	1984	I-Pinerolo (TO)	"3:35.58,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	596	Deniz Mesut	1983	Kreuzlingen	"5:23.33,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	156	Denk Christoph	1984	A-Wien	"3:15.01,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	580	Desai Bhavani Prasad	1985	D-Langen	"4:55.32,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	270	Deska Jarek	1977	D-Warthausen	"3:31.20,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	314	Di Giorgio Benedetto	1976	Zürich	"3:37.00,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	562	Di Matteo Roberto	1983	Zürich	"4:33.37,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	162	Dietrich Christoph	1982	Bern	"3:16.53,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	378	Dietrich Stephan	1982	Zürich	"3:45.01,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	259	Dikk Stefan	1984	Ennetbaden	"3:30.03,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	516	Dima Petre	1978	GB-London	"4:16.44,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	DNF	Döhler Martin	1979	D-Ulm	"1:20.30,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	346	Dominguez Antoni	1976	Luzern	"3:41.39,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	28	Doetsch Joseph	1981	Zürich	"2:51.34,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	448	Dreier Matthias	1978	Zürich	"3:58.05,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	90	Dubuis Jonathan	1978	Biel/Bienne	"3:05.10,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	DNF	Dupont Emile	1982	Bern	"2:27.06,3 3/"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	288	Duschau-Wicke Alexande	1980	Zürich	"3:33.45,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	458	Dymkowski Krzysztof	1984	Zürich	"4:00.12,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M30	199	Dziedzic Pawel	1983	Bülach	"3:22.27,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	DNF	D'Angelantonio Domenic	1975	Affoltern am Albis	"3:16.02,8 3/"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	112	D'Eboli Giuseppe	1974	I-Potenza (PZ)	"3:20.26,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	199	Date Simon	1972	Oberburg	"3:35.46,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	171	De Pechy Arnaud	1973	Fällanden	"3:29.30,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	126	De Stefano Pietro	1974	I-Potenza (PZ)	"3:23.48,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	164	Delen Geert	1974	B-Putte	"3:28.39,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	90	Della Badia Antonio	1975	Stansstad	"3:15.18,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	356	Dessi Luca	1973	Wangen SZ	"5:21.03,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	255	Do Aido Paulo	1972	Oberbuchsiten	"3:48.33,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	122	Dober Meinrad	1971	Küssnacht am Rigi	"3:22.45,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	292	Dornis-König Stefan	1974	Meilen	"4:00.26,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	68	Drozda Christopher	1971	Basel	"3:09.40,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	244	Dudle Cornel	1975	Kilchberg ZH	"3:45.38,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	349	Dundjerski Duschko	1972	Wil ZH	"4:52.15,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	271	Dutczak Tomasz	1974	Adliswil	"3:55.47,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M40	177	Dutoit Maxime	1974	Bursins	"3:30.02,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	166	D'Andrea Fabrizio	1966	I-Imola (BO)	"3:36.34,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	188	D'Netto Philip	1968	GB-Wilmslow	"3:40.17,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	183	Dagostino Paolo	1969	I-Milano (MI)	"3:39.39,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	74	Daum Martin	1967	D-Lörrach	"3:13.13,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	176	De Konink Lucien	1968	NL-Delfgauw	"3:38.11,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	158	De Sousa Luiz Carlos	1966	Greifensee	"3:34.06,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	276	De Tommasi Riccardo	1968	I-Torino (TO)	"3:57.17,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	106	Debrunner Roman	1967	Winterthur	"3:23.19,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	352	Delamadeleine Cédric	1970	Epalinges	"4:46.55,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	35	Delorme Laurent	1968	Montherod	"3:04.57,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	243	Diedtmann Stefan	1968	D-Stuttgart	"3:49.21,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	237	Dietsche Roger	1967	Mörschwil	"3:47.56,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	20	Dillner Tomas	1970	Richterswil	"2:58.26,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	247	Dimitrijevic Aleksanda	1970	D-Tettnang	"3:50.11,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	297	Dioguardi Salvatore	1968	I-Brugherio (MB)	"4:05.58,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	46	Do Aido Carlos	1970	Oberbuchsiten	"3:08.15,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	122	Dreier Daniel	1970	Humlikon	"3:26.47,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	58	Ducarme Olivier	1969	B-Rhode-Saint-Genèse	"3:11.29,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	209	Duken Jan	1969	D-Hamburg	"3:43.27,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	141	Dupraz Marc	1969	St-George	"3:30.11,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M45	2	Dussa Gunnar	1966	D-Weinolsheim	"2:43.47,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	123	D'Angelo Paolo	1965	Wetzikon ZH	"3:38.54,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	83	Da Silva David	1965	F-Baltzenheim	"3:28.51,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	4	De Siebenthal Nicolas	1961	Grandvaux	"2:53.52,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	35	Deger Manfred	1965	D-Karlsruhe	"3:09.41,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	153	Delesalle Jean-Francoi	1961	F-Riedisheim	"3:46.58,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	218	Dorfstätter Michael	1963	A-Wien	"4:07.25,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	197	Dudkowiak Andrzej	1961	PL-Drzonkow	"3:58.26,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	187	Dullnigg Martin	1963	A-Wilhelmsburg an de	"3:57.16,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	169	Düringer Michael	1965	Stäfa	"3:51.22,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M50	150	Dutli Markus	1961	Geroldswil	"3:45.49,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M55	DSQ	Delgijer Marc	1960	NL-Prinsenbeek	-----	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M55	23	Di Carluccio Angelo	1957	I-Caserta (CE)	"3:24.04,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M55	9	Diener Erwin	1960	Zürich	"3:13.35,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M55	2	Dunlop Stephen	1957	Altendorf	"2:58.56,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M60	68	Dubach Hans	1952	Dachsen	"4:41.55,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-M60	11	Dwyer Chris	1951	AUS-Sydney	"3:25.53,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-MElit	DNF	Dadi Fikru Abera	1990	Äthiopien	"1:39.17,8 3/"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	170	Pedrini Claudio	1980	Opfikon	"3:40.41,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	41	Engelhard Marc	1986	Zürich	"3:16.38,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	151	Gautschi Nina	1989	Zürich	"3:36.51,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	307	Bader Walter	1965	Jonen	"4:20.28,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	171	Winiger Benjamin	1976	Hombrechtikon	"3:41.08,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	134	Tosun Atahan	1981	Zürich	"3:33.28,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	190	Franczyk Monika	1985	Zürich	"3:44.53,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	100	Franczyk Monika	1985	Zürich	"3:28.07,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	248	Zwettler Robert	1969	D-Stuttgart	"3:56.16,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	247	Zwettler Robert	1969	D-Stuttgart	"3:56.16,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-TFirm	59	Le Tennier Maxime	1988	Zürich	"3:20.09,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W20	15	Dahlkvist Johanna	1987	Zürich	"3:36.22,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W20	82	Dellion Lorraine	1991	St. Gallen	"4:36.06,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W20	33	Dierkesmann Anna	1992	D-Freiburg	"3:48.44,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W20	64	Dierks Raphaela Ml	1992	Zürich	"4:12.10,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	80	Dätwyler Claudia	1978	Wohlen AG	"3:58.57,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	136	De Kock-Cilliers Jacqu	1980	Küsnacht ZH	"4:40.02,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	146	Dell'Asin Giulia	1983	Liestal	"4:50.45,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	148	Dobrohorska Natalya	1978	Basel	"4:52.25,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	126	Dumitru Mihaela	1979	R-Bucharest	"4:27.00,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	142	Dundjerski Hortenzia	1977	Wil ZH	"4:46.14,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W30	112	Durand Melanie	1981	Ostermundigen	"4:16.06,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W40	66	Diethelm Bruhin Katja	1971	Teufen AR	"4:30.16,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W40	26	Dietrich Silvia	1973	Rorschacherberg	"3:47.40,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W40	10	Dober Karin	1973	Küssnacht am Rigi	"3:27.21,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W45	7	Dale Rachel	1969	Meilen	"3:29.39,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W45	47	De Cristofaro Teresa	1966	Wattwil	"4:14.34,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W45	37	Descoeudres Noémie	1969	Prilly	"4:01.00,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W50	23	Deck-Meier Rosie	1964	Watt	"3:49.38,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W50	57	Den Bouwmeester Anneke	1962	NL-Dalfsen	"4:25.56,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W50	13	Domdey Kirsten	1965	Bonstetten	"3:34.35,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W50	27	Dudkowiak Grazyna	1961	PL-Drzonkow	"3:53.40,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+42-W55	1	Devack-Reichel Carol	1960	D-Donaueschingen	"3:23.12,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	54	Maier Jürgen	1970	Alten	"3:29.03,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	88	Frank Gabriel	1990	Zürich	"3:54.55,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	42	Jud Patrick	1980	St. Gallen	"3:22.37,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	32	Näf Roman	1991	Bubikon	"3:19.53,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	13	Schwyter Dominik	1985	Zürich	"3:04.34,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	27	Graf Tobias	1989	Nänikon	"3:13.37,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	28	Heini Flurin	1986	Wettingen	"3:14.27,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMen	78	Schmied Axel	1970	D-Donaueschingen	"3:46.13,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	233	Eugster Stéphanie	1980	Zürich	"3:45.21,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	22	Kulier Nikolaus	1990	St. Gallen	"3:04.08,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	191	Borner Chiara	1993	Adliswil	"3:40.31,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	392	Näf Astrid	1961	Bischofszell	"4:42.05,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	399	Moscoso Edgar	1973	Brugg AG	"5:11.48,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	188	Sigillo Francesco	1982	Zürich	"3:39.53,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	366	Valencia Stella	1974	Winkel	"4:15.26,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	256	Zanetti Aldo	1977	Spreitenbach	"3:48.48,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	272	Zanetti Dominique	1978	Spreitenbach	"3:50.46,9"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	229	Oehl Moritz	1988	Kloten	"3:44.52,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	96	Schoch Sophia	1993	Winterthur	"3:26.16,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	102	Avet Marie	1980	Zürich	"3:27.12,4"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	223	Inderbitzin Kevin	1984	Baar	"3:44.02,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	168	Eisenring Seline	1987	Zürich	"3:37.18,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	52	Hogenschurz Markus	1965	Urdorf	"3:18.54,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	25	Mekni Sarah	1987	Lenzburg	"3:07.48,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	348	Metz Christiane	1965	D-Gießen	"4:06.32,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	274	Wilm Anna	1987	D-Regensburg	"3:51.11,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	394	Beltle Karin	1961	Rümlang	"4:49.14,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	123	Franczyk Monika	1985	Zürich	"3:30.37,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	293	Häussler Eva	1973	D-Pentling	"3:54.32,8"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	314	Grant Dylan	1972	Cham	"3:57.42,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	160	Jaccard Christelle	1977	Nyon	"3:35.57,5"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	138	Klein Tobias	1969	Meilen	"3:33.49,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TMix	147	von Allmen Rachel	1983	Gurmels	"3:34.48,1"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	9	Marti Monika	1985	Altendorf	"3:24.29,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	2	Beuchat Magali	1989	Zürich	"3:04.11,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	10	Dobitz Stefanie	1988	Zürich	"3:25.44,6"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	79	Schwarzenbach Judith	1970	Wädenswil	"4:09.15,0"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	80	Huser Nicole	1985	Horgen	"4:09.21,7"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	17	Miltenberger Gabriella	1988	Bubikon	"3:39.11,2"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	13	Beerli Elvira	1978	Eschlikon TG	"3:33.12,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+T-TWom	12	Thurnherr Barbara	1982	Hedingen	"3:30.43,3"	https://services.datasport.com/2015/lauf/zuerich/alfad.htm	2015
+10-M20	101	Dadachev Boris	1988	Zürich	"49.44,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	6	De Pizzol Stefan	1992	Jona	"35.48,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	36	Deplazes Silvio	1989	Basel	"43.17,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	107	Destraz Marcel	1993	Opfikon	"50.29,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	144	Diener Alex	1991	Samstagern	"56.51,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	24	Dietzen Pablo	1991	Zürich	"41.25,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	68	Dolge Lukas	1996	Hinwil	"46.23,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	94	Dominguez Hector	1988	Wettingen	"48.40,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	157	Dagli Mehmet	1985	Zürich	"48.34,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	237	Dahinden Ralph	1981	Wallisellen	"52.56,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	295	Damle Nitin	1978	Winterthur	"56.59,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	276	De Angelis Antonino	1980	Grand-Saconnex	"55.37,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	84	De Smedt Wim	1977	B-Erps-Kwerps	"44.48,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	62	Decataldo Damiano	1980	Uznach	"43.27,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	242	Del Gaudio Renato	1978	Zürich	"53.04,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	153	Devecseri Gabor	1982	Oberrieden	"48.18,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	333	Di Cosmo Stefano	1983	Jona	"1:01.25,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	72	Dias Jeremy	1986	Dübendorf	"43.50,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	122	Dittli Andreas	1986	Baar	"46.52,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	211	Dolansky Marcel	1978	Uster	"51.33,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M30	166	Drazza Ivan	1985	Zürich	"48.57,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	137	Dahinden Igor	1968	Au ZH	"51.04,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	171	Dahinden Oliver	1970	Zürich	"53.42,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	162	Das Indranil	1973	Zürich	"53.05,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	52	De Lapersonne Christop	1969	Winterthur	"44.50,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	216	De Marinis Francesco	1968	Dietikon	"56.56,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	22	Decker Stefan	1976	Zürich	"40.59,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	185	Degtyarev Vyacheslav	1976	Zürich	"54.30,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	19	Del Villano Roberto	1976	Zürich	"40.16,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	269	Demetriou Victor	1975	Zermatt	"1:04.20,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	181	Di Lauro Dani	1970	Volketswil	"54.15,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	201	Di Mauro Philipp	1971	Zürich	"56.10,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	198	Dönni Martin	1968	Uster	"55.51,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M40	18	Doser Gregor	1973	Kilchberg ZH	"39.34,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	23	D'Andrea Fabrizio	1966	I-Imola (BO)	"44.09,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	158	De Iasi Nello	1964	I-Viterbo	"1:07.22,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	80	De Wit Guido	1962	Schönenberg ZH	"51.39,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	121	Derrer Aldo	1959	Dübendorf	"56.48,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	164	Desteffani Jörg	1964	Windisch	"1:10.31,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	73	Dolan Michael	1959	Villeneuve VD	"50.54,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M50	55	Domberg Daniel	1964	Greifensee	"48.26,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M60	47	Doleschal Reinhard	1949	D-Hannover	"59.11,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M60	21	Dreisbach Gerd	1954	D-Havixbeck	"50.38,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W16	16	Dahinden Tiya	2000	Au ZH	"59.05,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W16	6	Dürst Michelle	2000	Kaltbrunn	"44.11,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W16	4	Dürst Nicole	2001	Kaltbrunn	"41.23,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W18	17	Dahinden Nina	1998	Au ZH	"1:02.39,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W18	7	Dedual Arianne	1997	Zürich	"53.51,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W18	9	Del Negro Lorena	1997	Zuoz	"54.28,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	252	Da Silva Marisa	1996	Zürich	"1:05.37,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	179	De Capitani Laura	1989	Zürich	"59.07,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	37	De Mezzo Anna	1990	Zürich	"49.49,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	86	Dedual Rea	1992	Zürich	"54.30,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	248	Demsash Miraf	1988	D-Mainz	"1:04.50,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	220	Diener Michelle	1989	Samstagern	"1:02.35,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	115	Douche Tiphaine	1992	F-Souffelweyersheim	"55.57,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	262	Dujic Svjetlana	1987	Adliswil	"1:06.46,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W20	242	Dumbraveanu Alexandra	1989	Zürich	"1:04.11,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	286	Daumann Lena	1983	D-Mannheim	"1:07.17,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	253	Davis Lizzie	1980	Herrliberg	"1:03.30,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	180	De Nardo Sandra	1979	Zürich	"58.00,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	309	Dematera Carla Angela	1984	Zürich	"1:16.35,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	188	Dias Céline	1985	Dübendorf	"58.38,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	27	Diethelm Christina	1979	Zürich	"46.47,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	288	Drescher Anja	1983	Zug	"1:07.26,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	68	Duff Tanja	1977	Chur	"51.30,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W30	272	Duppong Dana	1977	Zürich	"1:05.09,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	208	Dal Santo-Cammisa Anto	1976	Richterswil	"1:09.11,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	169	Danioth Yolanda	1967	Zürich	"1:03.12,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	206	De Carvalho Aquino Oli	1972	Gockhausen	"1:09.01,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	136	De Jeer Dorothea	1971	Adliswil	"58.51,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	69	Derivaz Murielle	1976	St-Gingolph	"54.26,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	195	Di Fante Monica	1972	Zürich	"1:06.43,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	88	Düggelin Susanne	1974	Zürich	"55.27,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W40	144	Dupont Laurence	1972	Adlikon b. Regensdor	"1:00.08,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	107	Diramerian Nora	1964	H-Budapest	"1:21.44,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	58	Dolan Geraldine	1960	Villeneuve VD	"59.09,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	102	Dönni Carole	1966	Uster	"1:09.45,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	88	Dotta Daniela	1964	Arnegg	"1:03.42,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	96	Dreher Frey Marina	1961	Uster	"1:06.24,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W50	106	Dudli Antoinette	1957	CAN-Powassan /	"1:17.05,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-W60	8	Dessy Gisella	1956	Oberrieden	"55.49,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M18	5	Davolio Noah	1997	Zürich	"4:12.01,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	102	Dagli Ahmet	1992	Zürich	"3:38.48,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	199	Dal Santo Andreas	1989	Zürich	"2:27.30,9 1/"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	157	Dedow Maximilian	1989	D-Ulm	"4:07.36,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	204	Defuns Raphael	1989	Schlieren	"2.52,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	80					https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	103	Di Cristo Marco	1987	Dübendorf	"3:39.04,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	94	Dillier Raphael	1992	Turgi	"3:36.28,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	45	Dizhak Vasyl	1988	Zürich	"3:16.03,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	48	Doll Christian	1991	Genève	"3:18.07,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	95	Dotterweich Harald	1995	D-München	"3:37.40,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	123	Dreher Carsten	1990	D-Magstadt	"3:46.34,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	176	Drevillon Matthieu	1987	Zürich	"4:30.59,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	37	Dunne Matthew	1988	Zürich	"3:12.49,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M20	72	Dütschler Reto	1987	Horgen	"3:29.16,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	350	D'Agostini Loris	1981	Uster	"3:43.34,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	474	Davies Bryn	1977	GB-Bakwell	"4:09.48,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	236	De Castelberg Sebastia	1981	Zürich	"3:29.43,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	58	De Martin Thomas	1978	Wängi	"3:00.15,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	61	De Nicola Diego	1986	Zürich	"3:01.55,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	377	De Rosa Davide	1980	Dietikon	"3:48.50,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	264	De Sousa Da Costa Jose	1980	Basel	"3:32.44,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	217	De Vecchi Alessandro	1985	Rüschlikon	"3:27.37,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	413	Debétaz Cédric	1981	Cossonay-Ville	"3:53.39,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	373	Delgado Raul	1978	E-Malaga	"3:48.13,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	362	Deller Claudio	1981	Zürich	"3:46.46,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	383	Demko Laszlo	1979	Zürich	"3:50.42,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	494	Deo Devdatta	1979	IND-Satara	"4:14.28,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	458	Di Matteo Roberto	1983	Zürich	"4:04.53,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	358	Dick Peter	1977	Würenlingen	"3:45.43,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	327	Dinga Florin	1982	Zürich	"3:42.11,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	579	Döhler Martin	1979	D-Neu-Ulm	"44.20,2 1/"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	26	Dreier Matthias	1978	Zürich	"2:51.21,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	140	Drewlies Daniel	1984	D-Weimar	"3:17.34,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	225	Dübi Roland	1977	Zürich	"3:27.56,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	239	Dusautoir Nicolas	1982	Zürich	"3:29.58,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	499	Dyson Richard	1977	GB-London	"4:16.19,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M30	34	Dziedzic Pawel	1983	Bülach	"2:54.06,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	117	Da Lio Enrico	1975	Davesco-Soragno	"3:23.52,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	151	Däbernitz Sven	1973	D-Berlin	"3:28.30,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	22	Davelaar Marco	1976	NL-Veenendaal	"2:59.50,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	354	Deepu Sebastian	1974	Neuenhof	"4:54.54,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	122	Demarosi Maurizio	1973	Zürich	"3:24.14,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	159	Derivaz Max-Alexandre	1974	St-Gingolph	"3:30.45,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	131	Di Giorgio Benedetto	1976	Zürich	"3:25.46,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	156	Do Aido Paulo	1972	Oberbuchsiten	"3:29.27,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	335	Dobrowolski Piotr	1972	PL-Warsaw	"4:28.42,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M40	317	Dominguez Javier	1974	E-Malaga	"4:19.24,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	69	D'Hauw Johan	1969	B-Berlare	"3:16.41,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	35	Dambach René	1969	Niederglatt ZH	"3:05.56,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	237	Danz Martin	1970	Zürich	"3:50.39,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	44	Debrunner Roman	1967	Winterthur	"3:09.41,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	230	Delestre Philippe	1971	Daillens	"3:48.28,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	315	Di Loreto Giuseppe	1971	I-Spinea (VE)	"4:28.32,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	105	Di Tommaso Dante	1967	Mariastein	"3:23.22,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	240	Diallo Elhadji	1967	Chavannes-de-Bogis	"3:51.40,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	185	Dijkstra Jeroen	1968	NL-Eerbeek	"3:39.48,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	22	Dillner Tomas	1970	Richterswil	"2:58.54,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	215	Disca Raffaele	1968	Muttenz	"3:44.51,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	88	Dober Meinrad	1971	Küssnacht am Rigi	"3:19.29,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M45	203	Dörig Adrian	1967	Zürich	"3:43.24,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	203	De Donno Gianni	1962	Tagelswangen	"4:03.41,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	97	De Sousa Luiz Carlos	1966	Greifensee	"3:34.48,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	188	De Vries Jan	1964	Arth	"3:56.29,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	167	Demeis Tony	1963	CAN-Milton	"3:53.33,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	125	Diethelm Adrian	1964	Büren an der Aare	"3:43.17,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	106	Dietrich Axel	1966	Möhlin	"3:37.21,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	224	Dilge Garbis	1963	Zürich	"4:16.32,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	170	Dreyer Holger	1965	D-Hamburg	"3:54.06,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	226	Dudek Rob	1966	D-Mörfelden-Walldorf	"4:18.00,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M50	212	Düringer Michael	1965	Stäfa	"4:09.10,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	58	Dell Aria Francesco	1960	Freienstein	"3:39.58,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	5	Diener Erwin	1960	Zürich	"3:07.36,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	129	Diethelm Karl	1957	Zufikon	"4:24.29,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	98	Dominguez Ignacio	1957	E-Llucmajor	"3:57.31,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	7	Dunlop Stephen	1957	Altendorf	"3:08.31,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M55	45	Dutli Markus	1961	Geroldswil	"3:34.04,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M60	57	Dedow Eike	1956	D-Küps	"4:27.08,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M60	29	Dieterich Jochen	1953	D-Tübingen	"3:52.33,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M65	16	Denneberg Jürg	1949	Herrliberg	"4:35.27,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-M65	13	Dolhaniuk Erhard	1951	D-Memmingen	"4:18.20,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-MElit	30	Downs Fabian	1986	St. Gallen	"1:07.17,8 1/"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	50	Beck Lea	1982	Zürich	"3:20.05,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	228	Beck Lea	1982	Zürich	"3:45.48,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	9	Beck Lea	1982	Zürich	"2:56.23,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	101	Beck Lea	1982	Zürich	"3:30.15,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	127	Gautschi Nina	1989	Zürich	"3:34.25,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	273	Gubler Matthias	1979	Rorbas-Freienstein	"3:53.27,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	22	Kilchhofer Severin	1995	Kilchberg ZH	"3:09.50,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	320	Kuster Fabienne	1995	Wangen b. Dübendorf	"4:03.30,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	133	Arnesson Jörgen	1957	Opfikon	"3:35.06,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-TFirm	231	Arnesson Jörgen	1957	Opfikon	"3:46.12,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W20	60	De-Vizzi Fiona	1992	Küsnacht ZH	"4:42.55,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W20	12	Dumetz Marion	1991	F-Paris	"3:35.48,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W30	63	Davies Kate	1977	GB-Bakwell	"3:50.32,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W30	150	De Lapersonne Daniela	1986	Winterthur	"4:53.35,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W30	148	Deo Ashwini	1978	IND-Satara	"4:51.50,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W40	15	Dober Karin	1973	Küssnacht am Rigi	"3:34.14,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W40	34	Dovlo Sarah	1975	Zürich	"3:56.13,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W45	56	Dale Rachel	1969	Meilen	"4:40.31,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W45	50	Damm Leuzinger Camilla	1968	Zürich	"4:31.29,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W45	4	Dusch Kerstin	1971	Baar	"3:11.03,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W50	20	De Gouveia Ana	1962	RSA-Johannesburg	"3:57.44,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W50	17	Deck-Meier Rosie	1964	Watt	"3:51.31,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W50	13	Domdey Kirsten	1965	Bonstetten	"3:47.40,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W55	22	Dedow Christina	1961	D-Küps	"4:27.08,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+42-W55	21	Dekhuyzen Rieneke	1958	NL-Ede	"4:22.46,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	44	Maier Jürgen	1970	Alten	"3:25.17,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	93	Chilcott Alexander	1974	D-Berlin	"3:53.32,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	32	Rohwer Nils	1984	Meilen	"3:18.49,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	77	Mausch Jürg	1986	Zürich	"3:42.34,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	39	Preid Stefan	1990	Bubikon	"3:22.06,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	83	Angelillo Mauro	1968	Affoltern am Albis	"3:46.49,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	5	Graf Tobias	1989	Nänikon	"2:56.04,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	84	Grimm Matthias	1984	Hendschiken	"3:46.53,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	3	Gorgone Giuseppe	1974	Pfungen	"2:47.41,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	74	Neuber Oliver	1967	Zürich	"3:41.00,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMen	57	Zopfi Peter	1970	Lindau	"3:30.40,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	348	Wey Andrea	1988	Eschenbach SG	"3:55.36,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	107	Borner Res	1960	Adliswil	"3:26.30,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	467	Näf Astrid	1961	Bischofszell	"4:41.30,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	337	Sigillo Francesco	1982	Zürich	"3:54.13,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	359	Valencia Stella	1974	Winkel	"3:57.23,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	343	Ronner Jennifer	1987	St. Gallen	"3:54.35,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	143	Stypinski Martin	1987	Binz	"3:31.18,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	244	Dörnberger Erich	1966	Buchs ZH	"3:44.10,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	159	Koch Pascal	1985	Oberhasli	"3:33.37,0"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	380	Dallmann Jens	1979	Zürich	"4:00.31,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	108	Steinmann Karin	1982	Zürich	"3:26.32,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	250	Farner René	1958	Wintersingen	"3:44.46,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	466	Wilkesmann Christine	1976	Zürich	"4:39.14,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	18	Türler Thomas	1967	Herrliberg	"3:04.30,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	175	Niedermann Daniel	1988	Glattbrugg	"3:35.36,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	345	Locher Kevin	1995	Kefikon ZH	"3:54.54,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	460	Matzer Tanja	1985	Zürich	"4:23.23,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	391	Koller Mirjam	1991	Zürich	"4:02.55,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	276	Wallmer David	1987	Wermatswil	"3:48.12,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	293	Koller Manuel	1996	Glattpark (Opfikon)	"3:49.38,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	9	Zweifel Sharon	1987	Zürich	"2:56.54,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	402	Eigenmann Annika	1992	Horgen	"4:05.43,9"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	127	Martin Kevin	1991	Thalwil	"3:29.07,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	340	Stewart-Smith Fiona	1996	Zürich	"3:54.27,6"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	451	Köhler Florian	1975	Zürich	"4:18.33,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	387	Sjöblom Henri	1981	St. Gallen	"4:01.54,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TMix	61	Drissen Maarten	1986	Uster	"3:17.33,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	14	Marti Monika	1985	Altendorf	"3:29.13,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	50	Schläpfer Bernadette	1963	Hinwil	"3:53.19,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	1	Böllenrücher Melanie	1987	Zürich	"3:02.12,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	22	Schaub Barbara	1996	Uster	"3:40.32,2"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	67	Jackwerth Janet	1978	Dübendorf	"3:59.40,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	51	Pieber Simone	1987	Baden	"3:53.23,3"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	71	Schwarzenbach Judith	1970	Wädenswil	"4:02.37,7"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	35	Van Wier Cornelia	1968	Tscherlach	"3:46.20,5"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	81	Müller Kimberly	1995	Stallikon	"4:08.44,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	89	Müller Kimberly	1995	Stallikon	"4:15.30,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	7	Thurnherr Barbara	1982	Hedingen	"3:19.45,4"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	37	Honegger Barbara	1966	Dürnten	"3:47.04,8"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+T-TWom	18	Honegger Barbara	1966	Dürnten	"3:38.16,1"	https://services.datasport.com/2016/lauf/zuerich/alfad.htm	2016
+10-M20	1	Dadi Fikru Abera	1990	Winterthur	"30.14,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	124	De Iasi Cristian	1997	I-Viterbo (VT)	"56.46,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	95	Della Giacoma Fabio	1990	Kappel SO	"51.53,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	141	Denzler Nico	1990	Zürich	"1:03.22,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	112	Di Natale Pedro	1989	Zürich	"54.04,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	53	Drescher Finn	1992	D-Herne	"46.27,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	40	Duhn Travis	1990	Erlinsbach	"44.14,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M20	8	Dupont Albert	1988	Lausanne	"38.36,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	68	D'Alberto Marco	1987	Winterthur	"44.21,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	212	Dacic Adnan	1987	Rotkreuz	"53.38,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	164	Dalton Sean	1984	Zürich	"50.24,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	229	Damle Nitin	1978	Winterthur	"54.28,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	137	De Poel Rutger	1987	Tagelswangen	"48.45,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	157	De Stefano Paolino	1978	Adliswil	"50.06,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	107	Debais Nathan	1985	Zürich	"46.59,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	35	Decurtins Nico	1984	Zürich	"40.45,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	127	Delaunay Jacques	1987	Cham	"48.12,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	267	Denzler Dario	1987	Winterthur	"57.02,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	26	Di Cristo Marco	1987	Dübendorf	"39.54,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	271	Diggelmann Mark	1978	Glattpark (Opfikon)	"57.14,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	119	Dittli Andreas	1986	Baar	"47.46,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	270	Dubach Thomas	1985	Zofingen	"57.14,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M30	81	Düzgün Ufuk	1986	Zürich	"45.14,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	154	Dafner Samuel	1973	Rorbas-Freienstein	"51.48,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	113	Dahinden Igor	1968	Au ZH	"48.50,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	198	De Bernardis Dani	1968	Volketswil	"55.18,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	49	De Col Alvise	1977	Zürich	"44.41,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	172	Di Lauro Dani	1970	Volketswil	"53.05,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	187	Di Mauro Philipp	1971	Zürich	"54.08,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	180	Disko Andreas	1976	Zürich	"53.40,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M40	17	Doser Gregor	1973	Kilchberg ZH	"39.44,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	122	De Iasi Nello	1964	I-Viterbo (VT)	"57.26,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	147	De Leonardis Pasquale	1965	Stäfa	"1:06.39,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	66	De Wit Guido	1962	Schönenberg ZH	"50.27,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	132	Derrer Aldo	1959	Dübendorf	"59.17,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	153	Dix Douglas	1959	USA-Cincinnati	"1:10.02,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	118	Dr. Liesner Carsten	1966	Zug	"56.59,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	83	Dresser Guy	1967	Fislisbach	"52.52,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M50	5	Düwel Matthias	1967	D-Norderstedt	"38.09,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M60	3	Dunlop Stephen	1957	Altendorf	"38.50,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	137	Da Silva Marisa	1996	Zürich	"57.06,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	84	De Kegel Christine	1994	Zürich	"53.57,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	23	Dettwiler Nadya	1995	Zürich	"47.36,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	139	Dettwiler Stephanie	1993	Oensingen	"57.16,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	53	Diaz Helen	1989	Zürich	"51.26,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	165	Dietler Sabeth	1989	Zürich	"59.32,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	82	Dietschi Fanny	1997	Zürich	"53.52,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	226	Domenig Seraina	1993	Dürnten	"1:05.32,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	12	Dürmüller Andrea	1992	Langnau am Albis	"44.32,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W20	242	Dürst Clarissa	1993	Gommiswald	"1:12.48,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	271	Daniel Lisa	1979	Zürich	"1:05.33,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	261	De Kock-Cilliers Jacqu	1980	Küsnacht ZH	"1:03.54,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	217	De Nardo Sandra	1979	Zürich	"1:00.07,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	38	Decurtins Livia	1987	Zürich	"48.45,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	224	Dell'Era Francesca	1981	Bern	"1:00.44,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	26	Denyer Wehrli Heaven	1982	Opfikon	"47.17,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	211	Diagne Fatou	1983	Meilen	"59.42,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	186	Diethelm Stephanie	1987	Zürich	"58.16,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	49	Dimova Diana	1982	Baar	"49.49,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	152	Ding Weili	1980	Zürich	"56.35,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	147	Drusc Alenka	1981	Reichenburg	"56.32,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	237	Duch-Tafakis Fanny	1985	Zürich	"1:02.05,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	88	Duff Adrienn	1984	Chur	"52.37,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W30	178	Dujic Svjetlana	1987	Adliswil	"57.54,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W40	90	Dietzsch Anja	1975	Wildberg	"57.01,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W40	124	Doppler Caroline	1975	Basel	"1:00.10,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W50	44	Danioth Yolanda	1967	Zürich	"55.08,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-W50	97	Dax Flavia	1966	Bäretswil	"1:05.55,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M20	156	Dalin Jeremie	1990	Marly	"4:15.35,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M20	94	Decurtins Ursin	1988	Zürich	"3:44.31,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M20	83	Del Curto Giacomo	1991	Chur	"3:39.32,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	273	D'Agostini Loris	1981	Uster	"3:43.47,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	294	Dariz Michele	1980	Cugnasco	"3:45.51,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	263	De Beer Alex	1980	Ecublens VD	"3:42.11,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	73	De Martin Thomas Toni	1978	Wängi	"3:04.01,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	447	Dedeurwaerdere Hugo	1979	Zürich	"4:28.37,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	467	Dehisselles Jan	1981	Küsnacht ZH	"4:42.50,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	319	Del Campo Hernandez Ja	1984	E-Zaragoza	"3:49.33,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	352	Delacour Arnaud	1987	Zürich	"3:53.53,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	416	Di Matteo Roberto	1983	Zürich	"4:12.02,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	75	Diallo Dennis	1980	Richterswil	"3:05.50,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	35	Dind Nicolas	1982	La Joux FR	"2:55.45,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	36	Dippong Matthias	1983	Tägerwilen	"2:55.46,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	17	Dreier Matthias	1978	Zürich	"2:46.52,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	484	Driessen Christian	1981	D-Frankfurt	"5:10.07,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	176	Dupont Emile	1982	Kehrsatz	"3:27.14,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	165	Dusina Dominic	1980	Wettswil	"3:25.08,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	91	Dütschler Mario	1983	Haag (Rheintal)	"3:09.07,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	379	Dütschler Reto	1987	Horgen	"4:01.21,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M30	433	Dzyakanchuk Andrei	1984	Bern	"4:18.40,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	272	Danner Marc	1973	Basel	"4:23.57,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	143	Daum Moritz	1973	Wermatswil	"3:36.30,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	50	Della Badia Antonio	1975	Stansstad	"3:11.28,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	299	Demiroglu Halil	1974	D-Raunheim	"5:10.44,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	106	Derivaz Max-Alexandre	1974	St-Gingolph	"3:26.28,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	278	Derungs Silvio	1975	Gossau SG	"4:29.17,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	301	Deshpande Paresh	1976	Basel	"5:40.48,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	147	Di Giorgio Benedetto	1976	Zürich	"3:37.54,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	63	Dias Ricardo	1977	Genève	"3:14.26,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	70	Dierolf Alexander	1976	Zürich	"3:16.37,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	149	Dignoes Beat	1975	Rheinfelden	"3:38.05,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	209	Dimov Ivan	1973	Winterthur	"3:53.23,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	251	Dobrowolski Dariusz	1976	PL-Gdansk	"4:10.15,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M40	192	Doukas Vaios	1974	Flawil	"3:49.35,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	140	Danielson Tomas	1970	Erlenbach ZH	"3:39.01,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	275	De Backer Philip	1972	B-Sint-Martens-Latem	"4:31.18,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	35	Delmenico Andreas	1970	Goldau	"3:05.52,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	205	Delquignies Marc	1968	F-Camphin en Pevele	"3:59.20,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	230	Dillier Daniel	1972	Magden	"4:06.57,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	20	Dillner Tomas	1970	Richterswil	"2:57.25,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	23	Do Aido Carlos	1970	Oberbuchsiten	"2:58.11,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	132	Do Aido Paulo	1972	Oberbuchsiten	"3:34.28,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	96	Dober Meinrad	1971	Küssnacht am Rigi	"3:23.36,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M45	164	Dreier Daniel	1970	Humlikon	"3:46.46,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	44	Davis Nigel	1966	Kilchberg ZH	"3:18.20,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	139	De Poortere Marc	1966	B-Melsele	"3:46.53,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	142	De Sousa Luiz Carlos	1966	Greifensee	"3:47.48,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	225	Dellenbach Jürg	1963	Goldiwil (Thun)	"4:18.22,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	221	Dilge Garbis	1963	Zürich	"4:15.11,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	248	Dill Peter	1967	Tenniken	"4:39.04,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M50	182	Drescher Manfred	1967	Zürich	"3:57.38,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M55	36	Dallheimer Gerhard	1958	D-Feucht	"3:28.08,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M55	11	De Bokx Jack	1960	GB-Daventry	"3:10.51,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M55	75	Dutli Markus	1961	Geroldswil	"3:48.09,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M60	43	Diethelm Karl	1957	Zufikon	"4:00.43,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M60	51	Dressler Ernst	1957	D-Bad Reichenhall	"4:11.07,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-M65	20	Danioth Franz	1948	Andermatt	"4:30.42,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	218	Comino Claudia	1968	Horgen	"3:38.55,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	45	Engelhard Marc	1986	Zürich	"3:16.14,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	24	Vorushin Roman	1981	Rüschlikon	"3:09.54,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	108	Beck Lea	1982	Zürich	"3:25.56,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	1	Beck Lea	1982	Zürich	"2:42.42,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	61	Conde Diego	1987	Zürich	"3:18.58,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	334	Keller Martin	1986	Bülach	"3:52.38,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	295	Lutz Stephan	1981	Bülach	"3:47.40,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	245	Kampf Sabine	1987	Zürich	"3:41.57,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	388	Marcilly Sandrine	1976	Zürich	"4:00.39,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	133	Sebek Zsolti	1979	Wangen b. Dübendorf	"3:30.15,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	466	Wolfisberg Rita	1960	Zürich	"4:58.26,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	298	Röhrl Caroline	1989	Büsserach	"3:47.54,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	10	Renaud Raphael	1985	Villmergen	"3:00.44,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	391	Renaud Raphael	1985	Villmergen	"4:01.20,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	17	Erni Reto	1982	Thalwil	"3:07.46,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	83	Boyer Elisa	1985	Gockhausen	"3:22.30,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	67	Rusterholz Stefan	1985	Berikon	"3:20.49,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	95	Ritzmann Niklaus	1983	Bubikon	"3:24.03,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	237	Arnesson Jörgen	1957	Opfikon	"3:41.02,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-TFirm	296	Arnesson Jörgen	1957	Opfikon	"3:47.45,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W20	52	Dobreva Denitsa	1990	Zürich	"4:37.45,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W20	15	Drummond Alice	1988	Zürich	"3:37.19,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W30	10	Den Otter Eef	1980	NL-Wassenaar	"3:24.10,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W30	36	Dubach Cristina	1986	Glattpark (Opfikon)	"3:39.34,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W40	19	Dauwalder Yvonne	1975	Thierachern	"3:42.04,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W40	17	Digirolamo Monika	1975	Bäretswil	"3:39.37,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W40	10	Dober Karin	1973	Küssnacht am Rigi	"3:34.04,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W45	12	Dale Rachel	1969	Meilen	"3:42.39,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W45	6	Dilge Martini Renata	1969	Zürich	"3:27.43,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W45	8	Dos Santos Regli Rosel	1970	Baden	"3:34.56,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+42-W55	DSQ	Dix Diane	1962	USA-Cincinnati Ohio	-----	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	69	Maier Jürgen	1970	Alten	"3:35.44,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	31	Preid Stefan	1990	Bubikon	"3:17.18,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	59	Eckard Christophe	1966	Zürich	"3:30.35,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	95	Wiederkehr Urs	1978	Spreitenbach	"3:57.02,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	7	Graf Tobias	1989	Volketswil	"2:53.56,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	2	Gorgone Giuseppe	1974	Pfungen	"2:44.21,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	10	Merz Tobias	1996	Winterthur	"2:59.37,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	53	Cruz Sergio	1985	Döttingen	"3:26.58,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	43	Cruz Sergio	1985	Döttingen	"3:24.05,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	50	Morger Mario	1969	Tscherlach	"3:26.22,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	90	Cherreck Juergen	1961	Meilen	"3:55.08,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMen	35	Läubli Philipp	1982	Zürich	"3:20.03,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	104	Borner Res	1960	Adliswil	"3:27.15,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	412	Näf Astrid	1961	Bischofszell	"4:45.55,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	190	Schrämli Valérie	1990	Zürich	"3:39.18,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	214	Landis Martina	1987	Adliswil	"3:43.30,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	391	Hildbrand Rosmarie	1986	Gossau ZH	"4:18.32,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	257	Anderegg Melanie	1996	Niederglatt ZH	"3:49.02,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	272	Valsecchi-Kölliker Dor	1983	Erlinsbach SO	"3:50.53,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	230	Schlumpf Ueli	1959	Forch	"3:45.59,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	20	Ferrer Oscar	1975	Wettswil	"3:07.12,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	82	Lang Kathrin	1976	D-München	"3:23.47,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	52	Lang Kathrin	1976	D-München	"3:17.22,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	409	Hugentobler Sabrina	1988	Bern	"4:37.45,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	115	Niedermann Daniel	1988	Glattbrugg	"3:28.19,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	198	Mehli Sergio	1950	St. Moritz	"3:40.37,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	343	Amstutz Sarah	1984	Dübendorf	"4:00.48,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	315	Locher Kevin	1995	Kefikon ZH	"3:56.42,1"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	13	Schäpper Regula	1986	Zürich	"3:00.41,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	408	Conrad Markus	1965	D-Waldshut-Tiengen	"4:37.38,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	220	Rayher Sandra	1982	Cham	"3:44.47,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	255	Mörgeli Christian	1957	Zollikon	"3:48.52,7"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	405	Lang Alexandra	1983	Zürich	"4:32.56,0"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	347	Wöhler Jens	1968	Luzern	"4:02.01,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	65	Dadier Janine	1980	Zürich	"3:20.11,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	151	Rieder Nicole	1978	Ebmatingen	"3:34.26,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	59	Bieler Patrick	1990	Zug	"3:19.26,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	387	La Tour Denys	1988	Schaffhausen	"4:16.39,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	336	Zimmermann Miriam	1980	Wil SG	"3:59.40,3"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	271	Läubli Philipp	1982	Zürich	"3:50.48,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	155	Waldburger Marnie	1994	Zollikon	"3:35.14,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TMix	76	Auderer Thomas	1982	Stäfa	"3:22.58,6"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	53	Sieber Jeannette	1968	Baden	"3:56.55,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	63	Bühler Brigitte	1965	Turbenthal	"4:03.39,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	12	Marti Monika	1985	Niederurnen	"3:26.54,4"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	1	Böllenrücher Melanie	1987	Zürich	"2:53.05,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	29	Hörterer Karin	1989	Siebnen	"3:45.32,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	8	Friedli Ladina	1994	La Punt-Chamues-ch	"3:25.41,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	94	Terim Meryem	1997	Zürich	"4:40.58,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	88	Schwarzenbach Judith	1970	Wädenswil	"4:24.23,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	61	Van Wier Cornelia	1968	Tscherlach	"4:00.14,9"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	37	Beerli Elvira	1978	Eschlikon TG	"3:48.57,2"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	4	Thurnherr Barbara	1982	Hedingen	"3:18.16,8"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+T-TWom	5	Schmid Scarlett	1972	Dürnten	"3:19.51,5"	https://services.datasport.com/2017/lauf/zuerich/alfad.htm	2017
+10-M16	6	Deiss Morris	2003	Hombrechtikon	"40.32,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M16	2	Deiss Yanik	2001	Hombrechtikon	"38.07,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M16	5	Delia James	2003	Kilchberg ZH	"40.25,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M16	41	Dörnberger Dominic	2004	Buchs ZH	"1:06.06,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	40	De Brabandere Felix	1990	Zug	"43.17,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	308	De La Torre Villazon A	1993	Rapperswil SG	"1:09.44,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	152	Degenhardt Jan	1992	Ilanz	"50.06,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	127	Demonti Samuel	1989	Uetikon am See	"48.33,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	96	Demyharang Nicolas	1990	Zürich	"47.00,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	197	Deshmukh Dhananjay	1993	Zürich	"53.11,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	39	Deuber Lars	1996	Dinhard	"43.16,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	122	Di Gallo Joel	1989	Wetzikon ZH	"48.24,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	93	Dietler Silas	1996	Duggingen	"46.52,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	31	Dietzsch Andi	1997	Langnau am Albis	"42.30,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	291	Dioszeghy Daniel	1992	Feusisberg	"1:02.05,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	234	Diz Roland	1989	Zürich	"55.29,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	272	Dobler Andreas	1994	Winterthur	"59.48,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	213	Dohmen Timo	1996	Mühlau	"53.54,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	34	Donner Silvan	1990	Siebnen	"42.44,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M20	1	Dörflinger Simon	1990	Zürich	"33.02,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	106	D'Alberto Marco	1987	Thalheim an der Thur	"45.22,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	379	Dagli Mehmet	1985	Zürich	"56.29,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	351	Dahinden Simon	1981	Wängi	"55.12,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	269	Dalton Sean	1984	Zürich	"52.11,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	393	Darlis Kevin	1987	Arbedo	"57.06,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	442	Davies Sam	1986	GB-Cheltenham	"1:00.09,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	490	De Jesus Alves Antonio	1980	Zürich	"1:05.45,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	187	De Poel Rutger	1987	Zürich	"49.01,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	123	De Savignac Martial	1981	Meilen	"46.13,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	182	De Verteuil Kevin	1979	Zürich	"48.54,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	57	Decurtins Nico	1984	Zürich	"42.35,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	171	Denninger Maximilian T	1979	Zürich	"48.25,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	223	Di Lernia Samuele	1980	Zürich	"50.17,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	494	Di Santo Pasquale	1980	Oetwil an der Limmat	"1:06.27,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	307	Dlaska Pierre-Hubert	1979	St. Gallen	"53.29,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	2	Downs Fabe	1986	St. Gallen	"32.12,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	469	Draper Trent	1982	Zug	"1:03.33,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	317	Dubach Thomas	1985	Zofingen	"53.48,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	385	Dupuis Aroun	1986	Zürich	"56.44,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	327	Duran Balsa Fernando	1982	Zürich	"54.18,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M30	114	Dürst Victor	1981	Zürich	"45.39,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	154	Dal Din Sandro	1972	Würenlingen	"51.28,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	333	Darvesh Dinesh	1976	Zürich	"1:13.12,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	186	Davidson Ian	1976	Unterägeri	"52.48,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	67	De Col Alvise	1977	Zürich	"46.15,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	177	De Martin Del Zotto Iv	1976	Zürich	"52.39,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	259	De Nieuwe Michael	1977	Baar	"57.58,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	306	Deck Beat	1976	Zürich	"1:03.36,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	36	Deiss Mischa	1969	Hombrechtikon	"43.17,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	74	Della Gatta Pierluigi	1978	St. Gallen	"46.33,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	139	Delle Donne Claudio	1969	Goldach	"50.25,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	41	Desfosses Jerome	1978	Zürich	"44.07,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	320	Di Iorio Justin	1977	Aarau	"1:07.37,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	184	Di Lauro Dani	1970	Volketswil	"52.48,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	85	Dias Michael	1972	Zürich	"47.32,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	44	Diserens Frédéric	1978	Pfaffhausen	"44.25,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	280	Disko Andreas	1976	Zürich	"59.48,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	219	Dizdarevic Senad	1977	Bilten	"55.00,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	104	Dornis-König Stefan	1974	Meilen	"48.31,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	26	Doser Gregor	1973	Kilchberg ZH	"41.35,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	338	Doubek Martin	1972	CZ-Prag	"1:14.13,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	316	Dreier Alain	1978	Rütihof	"1:05.47,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M40	282	Dressler Zsolti	1974	Männedorf	"1:00.00,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	210	Delet Christophe	1966	F-Fontenay sous Bois	"1:14.06,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	97	Dellamora Mello Jorge	1962	Zürich	"53.17,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	205	Deponti Paolo	1967	I-Arcore MB	"1:10.54,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	183	Derrer Aldo	1959	Dübendorf	"1:02.19,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	208	Dörnberger Erich	1966	Buchs ZH	"1:13.47,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M50	48	Dörr Marco	1968	Zollikerberg	"47.53,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-M60	2	Dunlop Stephen	1957	Altendorf	"39.10,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W16	1	Dürst Nicole	2001	Kaltbrunn	"40.28,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W18	11	Dahmani Amina	1999	Volketswil	"54.43,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W18	9	Diethelm Ronja	1999	Nesslau	"53.28,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	381	Da Cunha Katia	1995	Zürich	"1:06.20,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	304	Da Silva Marisa	1996	Zürich	"1:01.20,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	376	Dangelo Miriam	1997	Wetzikon ZH	"1:05.39,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	402	Déage Laetitia	1990	Zürich	"1:07.37,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	134	Del Negro Lorena	1997	Zuoz	"54.51,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	384	Demic Merjema	1993	Zürich	"1:06.43,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	150	Denzler Nora	1993	Uster	"55.23,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	315	Deplazes Tina	1996	Bubikon	"1:01.57,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	322	Di Vora Laura	1989	Zürich	"1:02.17,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	253	Dias Giselle	1990	Birmensdorf ZH	"59.12,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	370	Diedrich Anna	1991	Wetzikon ZH	"1:05.15,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	171	Dietler Sabeth	1989	Zürich	"56.19,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	307	Dijckmans Caroline	1992	Zug	"1:01.37,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W20	106	Dmitrichenko Ekaterina	1992	GB-London	"53.10,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	445	D'Urso Larissa	1987	Oberwil-Lieli	"1:07.05,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	329	Danelian Melanie	1979	Zürich	"1:01.51,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	132	Davoult Isabelle	1988	Schlieren	"54.48,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	240	De Nardo Sandra	1979	Zürich	"58.51,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	279	Dell Era Francesca	1981	Bern	"1:00.12,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	171	Derc-Fenske Katarzyna	1984	Adliswil	"56.14,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	303	Ding Weili	1980	Zürich	"1:01.00,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	568	Dirina Maria	1986	Zürich	"1:25.00,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	195	Dlugosz Sylwia	1984	Luzern	"57.11,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	466	Doan Kim Phuong	1983	Zürich	"1:08.27,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	231	Dokowicz Joanna	1988	Otelfingen	"58.37,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	185	Donat Mariya	1981	Kloten	"56.48,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	228	Donceva Sanja	1988	Zürich	"58.29,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	253	Dos Santos Helena	1983	Lausanne	"59.11,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	414	Dreier Nicole	1983	Rütihof	"1:05.44,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	152	Dreier Tatjana	1987	Waltenschwil	"55.31,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	398	Drew Maarit	1981	Wettswil	"1:04.48,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	521	Drzymalik Hanna	1986	Zürich	"1:12.46,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	134	Duflos Ania	1983	Kilchberg ZH	"54.53,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	251	Duelgeroglu Jacqueline	1987	Zürich	"59.04,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	227	Dwamena Gifty	1983	Aarburg	"58.29,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W30	383	Dylla Judith	1986	Zürich	"1:04.25,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	279	Da Silva Sandra	1973	Kilchberg ZH	"1:14.06,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	98	Dalla Lana Kaba	1972	Wetzikon ZH	"56.34,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	268	Dario Doris	1974	Zürich	"1:11.57,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	186	Dätwyler Beatrice	1976	Zürich	"1:02.02,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	20	Davidson Pauline	1978	Unterägeri	"49.58,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	63	De La Rosa Carmen	1972	Küsnacht ZH	"54.30,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	157	Dietzsch Anja	1975	Wildberg	"1:00.10,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	148	Doell Rachel	1972	Ebmatingen	"59.25,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W40	115	Dugonjic Milanka	1975	Zürich	"57.22,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W50	113	De Leur Marijke	1966	Schlieren	"1:10.40,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+10-W60	10	Dessy Gisella	1956	Oberrieden	"56.16,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M20	54	Derungs Cla Riet	1997	Aadorf	"3:38.34,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M20	70	Draskic Drasko	1992	Cham	"3:43.08,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M20	26	Dratva Eric	1997	Zürich	"3:24.07,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M20	150	Duffet Loïc	1995	F-Strasbourg	"4:18.28,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M20	2	Dürmüller Samuel	1991	Abtwil SG	"2:50.13,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	DSQ	D'Agostini Loris	1981	Uster	-----	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	457	Da Silva Filipe	1980	Fétigny	"4:30.22,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	476	De Robertis Giuseppe	1983	Zürich	"4:40.49,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	286	Deckwerth Ruben	1985	Benglen	"3:50.05,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	282	Declair Rene	1981	Lachen SZ	"3:49.23,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	274	Degen Patrick	1983	St. Gallen	"3:48.20,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	56	Deihle Arne	1988	Zürich	"3:04.32,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	227	Demko Laszlo	1979	Zürich	"3:42.11,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	346	Dettelbacher Tobias	1981	D-Kornwestheim	"3:59.26,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	244	Dietiker Benjamin	1987	Zürich	"3:44.12,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	277	Dietrich Marcel	1981	Zürich	"3:48.34,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	357	Dorner Mathias	1987	Zürich	"4:00.36,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	261	Doubek Milan	1987	CZ-Brno	"3:46.04,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	306	Du Jiaqing	1982	Zürich	"3:53.18,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	208	Dunne Matthew	1988	Zürich	"3:38.55,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	146	Dusina Dominic	1980	Wettswil	"3:25.58,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M30	347	Dütschler Reto	1987	Horgen	"3:59.34,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M40	93	Da Silva Gerheim Jayme	1978	Bern	"3:30.04,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M40	204	De Pablo Jaime	1977	UAE-Abu Dhabi	"4:05.30,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M40	178	Di Giorgio Benedetto	1976	Zürich	"3:55.53,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	257	Dastan Stephane	1973	F-Traitiefontaine	"4:21.00,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	253	De Felice Sandro	1970	Gockhausen	"4:19.09,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	208	De Loë Maurits	1972	Dietlikon	"4:01.17,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	11	Delmenico Andreas	1970	Goldau	"2:59.15,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	127	Dimitriadis Manolis	1973	GR-Heraklion	"3:39.39,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	48	Dirren Marco	1973	Brig	"3:13.10,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	106	Dober Meinrad	1971	Küssnacht am Rigi	"3:32.30,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	262	Doerig Thomas	1972	Dietlikon	"4:21.54,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	183	Dreier Daniel	1970	Humlikon	"3:55.48,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	146	Dreier Marcel	1972	Flawil	"3:44.39,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M45	25	Drilling Carsten	1972	Zürich	"3:04.58,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	197	Delpouy Jean-Jacques	1965	F-St Germain en Laye	"4:24.32,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	188	Denzel Wolfgang	1968	Zürich	"4:18.17,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	21	Deplazes Ciril	1965	Camischolas	"3:13.32,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	164	Dias Joao	1968	BR-Sao Paulo	"4:06.10,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	79	Dodgson Michael	1965	Horgen	"3:42.30,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	66	Dörig Adrian	1967	Zürich	"3:37.20,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M50	136	Drescher Manfred	1967	Zürich	"3:55.01,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M55	119	Deck-Meier Felix	1963	Watt	"4:49.39,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M55	115	Deporter Craig	1963	Lupsingen	"4:46.52,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M55	91	Dettwiler Andy	1962	Lauwil	"4:27.01,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M55	49	Dutli Markus	1961	Geroldswil	"3:55.03,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-M65	16	Dieterich Jochen	1953	D-Tübingen	"4:28.25,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	470	El Nadeim Nabil	1987	Zürich	"4:09.27,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	186	Fuchs David	1981	Pfäffikon SZ	"3:37.45,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	362	Fisch Gilbert	1957	Horgen	"3:53.41,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	130	Fisch Gilbert	1957	Horgen	"3:33.00,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	457	Fisch Gilbert	1957	Horgen	"4:07.09,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	486	Hahn Oliver	1967	Zürich	"4:12.17,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	243	Erni Nadine	1977	Zürich	"3:43.23,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	437	Kampf Sabine	1987	Zürich	"4:03.52,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	302	Kampf Sabine	1987	Zürich	"3:48.31,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	382	Clavuot Andri	1982	Zürich	"3:56.12,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	53	Brunner Matthias	1966	Zürich	"3:18.40,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	135	Wetzel Sabrina	????	Adliswil	"3:33.12,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	70	Thomas Alexandra	1983	Zürich	"3:23.38,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	194	Pfann Felicitas	1990	Zürich	"3:38.23,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	402	Pfann Felicitas	1990	Zürich	"3:58.40,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	58	Blaschke Andreas	1973	Dussnang	"3:19.24,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	266	Löpfe Robert	1961	Zürich	"3:45.15,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TFirm	59	Cirillo Davide	1984	Zürich	"3:20.04,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-TNwa!	7	Nonnenmacher Lara	1992	Zürich	"3:54.49,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W20	51	Dedial Hanna	1996	Winterthur	"4:21.01,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W20	1	Derron Nina	1993	Zürich	"3:04.21,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W30	28	Dettwiler Martina	1981	Basel	"3:34.02,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W30	55	Di Fazio Valentina	1985	Monte Carasso	"3:58.05,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W30	88	Dörig Lilian	1982	Gais	"4:16.48,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W30	38	Dubach Cristina	1986	Glattpark (Opfikon)	"3:44.34,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W40	17	De Almeida Taques Kari	1977	BR-Barueri	"3:48.40,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W40	28	Dyu Ekaterina	1976	RUS-Moscow	"4:00.23,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W45	11	Dale Rachel	1969	Meilen	"3:47.17,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W45	13	Delatreche Celine	1973	F-Neuvecelle	"3:50.07,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W45	8	Dober Karin	1973	Küssnacht am Rigi	"3:40.57,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W45	2	Dusch Kerstin	1971	Baar	"3:13.09,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W50	47	Daldini Antonella	1968	Lugano	"4:58.31,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W50	15	Deck-Meier Rosie	1964	Watt	"3:57.11,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-W50	37	Dodgson Beatrix	1968	Horgen	"4:27.51,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-WElit	5	Dietschi Evelyne	1996	Lugano	"2:57.42,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+42-WElit	8	Dürrenberger Andrea	1987	Binningen	"3:13.26,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	35	Maier Jürgen	1970	Alten	"3:23.33,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	52	Oberholzer Pascal	1993	Zürich	"3:40.48,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	26	Preid Stefan	1990	Bubikon	"3:16.27,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	47	Bachmann Reto	1974	Dietikon	"3:34.28,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	22	Durrer Damian	1992	Horw	"3:14.11,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	5	Graf Tobias	1989	Volketswil	"2:52.51,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	12	Gorgone Giuseppe	1974	Pfungen	"3:02.27,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	42	Heimgartner Pascal	1982	Burgdorf	"3:31.45,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	59	Hueber Benjamin	1987	Basel	"3:50.49,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMen	46	Berchtold Philipp	1975	Aathal-Seegräben	"3:34.15,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	34	Schätti Nic	1996	Zürich	"3:16.21,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	228	Borner Chiara	1993	Zürich	"3:52.02,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	443	Näf Astrid	1961	Bischofszell	"5:09.13,8"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	354	Dietrich Daniel	1983	Zürich	"4:11.10,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	230	Marti Sara	1992	Oberengstringen	"3:52.23,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	48	Blöchlinger Urs	1956	Eschenbach SG	"3:19.39,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	204	Hofmann Martin	1950	Windisch	"3:48.06,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	138	Koller Patrick	1988	Zürich	"3:37.24,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	346	Hartmann Christian	1991	Wallisellen	"4:09.10,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	154	Fankhauser Pascale	1969	Zug	"3:39.36,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	368	Inauen Carmen	1988	Bern	"4:13.03,1"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	371	Müller Julie	1989	Zürich	"4:13.55,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	199	Amstutz Sarah	1984	Dübendorf	"3:46.38,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	347	Gibel Ursina	1988	Uster	"4:09.17,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	289	Locher Kevin	1995	Kefikon ZH	"4:00.06,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	211	Schlegel Pascal	1994	Windisch	"3:49.40,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	340	Valsecchi-Kölliker Dor	1983	Erlinsbach SO	"4:07.42,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	299	Mörgeli Christian	1957	Zollikon	"4:00.59,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	416	Palenzona Marco	1965	Konolfingen	"4:30.25,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	266	Van Wier Cornelia	1968	Tscherlach	"3:57.15,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	215	Widmer Hösli Petra	1974	Rapperswil SG	"3:50.12,9"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	303	Brdar Ivana	1985	Schaffhausen	"4:01.37,5"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	255	Mengelt Daniel	1966	Affoltern am Albis	"3:55.53,7"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	179	Meyer Denise	1988	Volketswil	"3:43.45,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TMix	111	Duss Andrin	1997	Oberkirch LU	"3:31.54,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	78	van den Berg Gerdien	1969	Herrliberg	"4:09.12,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	29	Leimgruber Bettina	1995	Bauma	"3:49.59,3"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	2	Böllenrücher Melanie	1987	Zürich	"3:06.06,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	35	Lienhart Cindy	1990	Bülach	"3:54.22,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	105	Schwarzenbach Judith	1970	Wädenswil	"4:49.51,0"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	14	Beerli Elvira	1978	Eschlikon TG	"3:41.33,4"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	5	Thurnherr Barbara	1982	Hedingen	"3:28.56,6"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018
+T-TWom	30	Schmid Scarlett	1972	Dürnten	"3:51.25,2"	https://services.datasport.com/2018/lauf/zuerich/alfad.htm	2018

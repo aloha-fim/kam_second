@@ -1,0 +1,700 @@
+category,rang,full_name,age_year,location,total_time,run_link,run_year
+10-M20,101,Eggenberger Andreas,1988,Zürich,"45.24,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M20,24,Eggimann Adrian,1986,Effretikon,"40.07,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M20,202,Eigenmann Pavel,1990,Horgen,"56.22,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M20,123,Enk Martin,1989,Bremgarten AG,"47.20,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,68,Eder Philipp,1981,Hausen am Albis,"41.04,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,231,Egli Peter Z,1979,Zollikerberg,"47.21,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,230,Enderlin Andreas,1977,Zürich,"47.21,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,208,Engler Andreas,1981,Sennhof (Winterthur),"46.38,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,14,Engler Thomas,1977,Seuzach,"37.11,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,147,Escrigas Guillermo,1981,Horgen,"44.54,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M30,274,Espina Evan,1980,Uster,"49.09,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,133,Eichenberger Urs,1967,Zürich,"46.19,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,199,Eicher Jürg,1973,Uetliburg SG,"51.19,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,278,Eichner Bernd,1965,Dübendorf,"56.16,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,295,Ekmann Patrick,1968,Zollikon,"57.40,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,254,Ellenberger Marc,1968,Nürensdorf,"54.49,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,188,Engeler Andreas,1969,Wettswil,"50.33,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M40,145,Erdemir Hakan,1968,Zug,"47.39,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M50,9,Ebsworthy Martyn James,1960,Kilchberg ZH,"39.46,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M60,51,Enderli Edwin,1949,Birmensdorf ZH,"1:03.23,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W18,34,Eichenberger Annina,1995,Zollikon,"1:08.49,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,16,Eggerschwiler Laura,1993,Stans,"44.33,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,141,Eggimann Stephanie,1988,Wädenswil,"52.51,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,156,Ehrmann Felicia,1990,Herrliberg,"53.51,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,266,Eisenhart Anna,1994,Männedorf,"1:00.12,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,235,Emmelmann Sophia,1991,Interlaken,"57.56,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,34,Epprecht Susanne,1994,Zürich,"46.47,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,90,Eric Emilija,1988,Rapperswil SG,"50.38,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,104,Eric Katarina,1993,Rapperswil SG,"51.21,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,166,Ernst Nora,1986,Zürich,"54.27,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W20,295,Escudero Valeria,1986,Ebmatingen,"1:03.47,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W30,202,Eggenschwyler Brigitte,1984,Zürich,"57.06,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W30,12,Eisen Patricia,1984,D-Hamburg,"41.50,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W30,280,Erkel Marketa,1976,Pfaffhausen,"1:01.47,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W30,164,Erni Patricia,1975,Zürich,"54.54,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W30,93,Estevez Catalina,1982,Zürich,"50.45,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W40,232,Eberhard Christina,1971,Uster,"1:03.36,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W40,255,Endras Alessandra,1967,Zürich,"1:11.26,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W40,108,Epper Barbara,1970,Zürich,"53.57,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W40,88,Erenda Ivkica,1974,Zürich,"52.23,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W40,109,Eugster Judith,1969,Wettswil,"54.17,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W50,43,Espi Pilar,1964,Bellinzona,"51.54,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-W50,34,Etter Iris,1964,Gattikon,"50.16,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,78,Eberle Andreas,1985,Schönenberg ZH,"3:28.41,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,164,Ebnöther Tobias,1985,Zürich,"3:58.45,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,1,Eggenschwiler Bernhard,1985,Büsserach,"2:36.38,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,179,Egger Juri,1989,Zürich,"4:05.38,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,135,Eichin Fabian,1988,Zumikon,"3:49.56,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,145,Eisenegger Fabian,1986,Zürich,"3:52.48,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,8,Enz Daniel,1985,Bassersdorf,"2:45.07,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,113,Epstein Benny,1987,Zürich,"3:41.47,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M20,223,Ewers Simon,1987,Zürich,"4:50.54,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,38,Eggenschwiler Denis,1979,Solothurn,"2:54.42,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,237,Egger Ralph,1979,St. Gallen,"3:29.20,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,400,Ehrsam Andreas,1984,Ormalingen,"3:51.44,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,386,Elmiger Adrien,1977,Zollikon,"3:50.30,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,204,Emmenegger Rony,1983,Zürich,"3:26.40,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,457,Endacott Stephen,1980,Zürich,"3:58.54,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,555,Engeli Benjamin,1976,Niederweningen,"4:43.08,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,349,Enz Thomas,1976,Zürich,"3:45.03,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,587,Etter Thomas,1978,Zürich,"2:27.55,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,71,Eugster Lorenz,1975,Zürich,"2:59.38,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,482,Eugster Nicolas,1978,Zürich,"4:08.31,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,36,Eugster Olivier,1982,La Tour-de-Peilz,"2:54.20,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,595,Eugster Philippe,1980,Vevey,"1:20.36,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M30,326,Eversberg Marcel,1979,Marthalen,"3:42.09,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,288,Easwaran Ramani,1970,IND-Bangalore,"4:08.43,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,165,Edwards Tim,1974,Küsnacht ZH,"3:31.50,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,100,Egli Mathias,1973,Grüsch,"3:18.19,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,164,Ehrig Marc,1974,D-Harsum,"3:31.46,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,4,Eisenring René,1972,Oberuzwil,"2:42.24,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,12,Elmer Markus,1974,Worb,"2:49.20,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M40,244,Elmiger Markus,1972,Inwil,"3:53.45,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,373,Ebert Frank,1965,D-Wedel,"4:41.29,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,239,Eckard Christophe,1966,Zürich,"3:47.51,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,71,Egli Sven,1965,Cham,"3:11.02,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,166,Eibs Thomas,1967,Selzach,"3:32.27,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,316,Eichert Uwe,1965,I-Biella (BI),"4:08.20,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,118,Eschbach Lukas,1968,Büren an der Aare,"3:23.23,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,198,Esposito Stefano,1968,I-San Maurizio Canav,"3:39.13,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M45,237,Estermann Thomas,1968,Tann,"3:45.58,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,257,Egger Christian,1963,Arbon,"4:38.22,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,143,Egli Martin,1960,Schinznach Bad,"3:44.02,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,140,Ehrismann Martin,1960,Zürich,"3:42.47,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,199,Ehrlich Steffen,1962,D-Liebschützberg,"3:58.18,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,50,Eisenlohr Frank,1963,Zürich,"3:16.08,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,9,Elmer Beat,1961,Hombrechtikon,"2:52.57,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,253,Engeler Ruedi,1964,Bischofszell,"4:36.12,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,153,Erb Adrian,1964,Volken,"3:46.34,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M50,13,Ernst Thomas,1964,Winterthur,"2:58.40,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M55,114,El Saghe Mohammed,1955,Pfäffikon ZH,"4:10.40,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M55,78,Elster Dieter Max,1956,D-Bochum,"3:49.02,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M55,133,Erdmann Bernd,1958,D-Berlin,"4:38.36,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M60,56,Eiche Francis,1950,Meiringen,"4:20.13,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M60,24,Eichenberger Max,1954,Arbon,"3:38.23,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M60,59,Eicher Hermann,1952,Niederhasli,"4:26.11,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M60,25,Eigenmann Markus,1952,Horgen,"3:39.47,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-M65,5,Ehrhard Andre,1946,Wettingen,"3:43.46,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,239,Straub Patrick,1967,Glattzentrum b. Wall,"3:52.26,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,148,Sawaguchi Kristina,1982,Zürich,"3:36.52,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,150,Houstavova Vendula,1982,Glattbrugg,"3:37.47,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,68,Greile Daniela,1978,Forch,"3:22.18,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,320,Vollenweider Marcel,1961,Rüti ZH,"4:26.53,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,50,Vitali Markus,1969,Steffisburg,"3:18.02,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,278,Fuerst Angelica,1968,Effretikon,"4:04.10,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,144,Trappitsch Stefan,1965,Uetikon a.S.,"3:36.31,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,139,Long Andrea,1974,Bassersdorf,"3:35.28,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,191,Palmisano Frederic,1976,Dielsdorf,"3:42.28,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,64,Ibraimi Sefik,1981,Uster,"3:21.36,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,225,Blagojevic Rober,1977,Nussbaumen AG,"3:48.51,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,75,Mader Christoph,1958,Winterthur,"3:25.24,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,216,Jacober Daniel,1972,Winterthur,"3:45.52,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,106,Bethon Thibaut,1985,Zürich,"3:30.37,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,229,Gisler Stefan,1965,Buttwil,"3:49.15,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,213,Kesper Marcus,1968,Kleinandelfingen,"3:45.39,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,168,Aschmann Adrian,1970,Zürich,"3:39.37,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,314,Gisler Gabi,1985,Uetikon am See,"4:22.21,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,193,Winiger Benjamin,1976,Hombrechtikon,"3:42.42,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,153,Rüesch Franziska,1980,Freienbach,"3:38.11,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,268,Rüesch Franziska,1980,Freienbach,"3:58.34,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,93,Patak Sascha,????,Erlenbach ZH,"3:28.20,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,228,Lauener Nicole,1970,Erlenbach ZH,"3:49.13,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,77,Pfändler Jonas,1985,Baden,"3:26.25,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,2,Auf der Mauer Raphael,1980,Aarau,"2:41.48,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,236,Iselin David,1976,Zürich,"3:51.00,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,262,Meier Marc,1979,Wettingen,"3:56.57,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,186,Boos Philipp,1983,Zürich,"3:41.27,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,17,Feroce Adrian,1970,Aathal-Seegräben,"3:04.20,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,22,Walter Marcel,1981,Zürich,"3:07.22,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,32,Schwarz Andreas,1980,Buchs AG,"3:11.25,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,142,Bader Peter,1961,Adliswil,"3:35.55,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,6,Grätzer Peter,1963,Zürich,"2:56.02,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,190,Di Blasio Marco,1987,Zürich,"3:42.04,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,203,Di Blasio Marco,1987,Zürich,"3:44.24,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TFirm,79,Di Blasio Marco,1987,Zürich,"3:26.36,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,144,Roth Philipp,1976,Zürich,"3:34.23,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,10,Elmer Dieter,1960,Glarus,"2:56.31,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,314,Dimova Ruzica,1986,Rüschlikon,"4:00.57,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,304,Zweifel Denise,1975,Uznach,"3:59.13,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,196,Labèr Raffael,1987,Zürich,"3:41.36,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,305,Petersen Claus Gregers,1966,Zürich,"3:59.30,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,221,Petersen Claus Gregers,1966,Zürich,"3:46.31,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-TMix,72,Giese Christoph,1979,Zürich,"3:22.48,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W18,2,Einsele Semira,1995,Würenlos,"3:45.21,3",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,58,Ebermann Sabine,1985,D-Regensburg,"4:11.59,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,24,Edelmann Francesca,1985,Frauenfeld,"3:49.28,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,17,Eggleston Sarah,1986,Bern,"3:37.44,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,64,Egloff Kaja,1994,Adliswil,"4:23.44,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,75,Elssmann Alexis,1994,Lausanne,"4:45.48,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,70,Emery Lea,1987,GB-London,"4:33.21,2",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,29,Ernst Ursina,1987,Arisdorf,"3:52.28,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W20,7,Etter Franziska,1985,Zürich,"3:22.22,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W30,106,Eggenberger Noëmi,1984,Zürich,"4:19.38,0",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W30,11,Egli Gabriela,1977,St. Moritz,"3:13.10,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W30,35,Egli Karin,1982,St. Gallen,"3:43.26,6",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W40,60,Eder Angela,1972,D-Dettingen,"4:13.00,1",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W40,34,Egger Cristiane,1972,Niederhasli,"3:50.09,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W40,72,Engeler Ursi,1970,Langnau am Albis,"4:33.33,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,77,Eiermann Christine,1967,D-Reichenau,"4:14.45,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,55,Eisele Rickli Bea,1969,Herrliberg,"3:56.20,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,6,Ellwanger Sylvia,1969,D-Winterbach,"3:22.27,4",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,65,Engelhardt Cornelia,1965,D-Senden,"4:03.47,7",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,58,Esser Silke,1968,Rüti ZH,"3:57.26,5",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W45,69,Ettlin Maria,1968,Kerns,"4:09.02,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W50,2,Etter-Quabeck Karin,1964,Ins,"3:04.22,8",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+42-W70,1,Enderlin Michele,1944,Herrliberg,"4:53.55,9",https://services.datasport.com/2014/lauf/zuerich/alfae.htm,2014
+10-M16,13,Epprecht Daniel,1999,Zürich,"54.20,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,75,Eggenberger Andreas,1987,Horgen,"44.53,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,34,Eggimann Adrian,1986,Effretikon,"41.09,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,61,Eichholzer Dorian,1993,Schwerzenbach,"44.16,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,194,Elsener Nicola,1988,Horgen,"58.38,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,35,Enk Martin,1989,Bremgarten AG,"41.13,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M20,52,Ernst Nico,1994,Ermatingen,"43.56,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,123,Eckert Florian,1983,Horgen,"44.44,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,256,Eggmann Andrej,1982,Birrwil,"49.53,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,368,Eisenack Johannes,1979,Zürich,"56.38,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,215,Eisenhardt Alexander,1979,Zumikon,"48.29,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,326,Ellmann Markus,1983,Zürich,"53.54,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,283,Elsener Ricardo,1982,Bassersdorf,"51.22,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M30,74,Ewalds Ralph,1983,Zürich,"42.03,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,28,Eckert Maurus,1969,Chur,"39.50,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,137,Egresiits Jason,1974,Zürich,"47.26,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,183,Eicher Jürg,1973,Uetliburg SG,"50.24,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,52,Elsener Thomas,1975,Zug,"42.16,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,185,Engeler Andreas,1969,Wettswil,"50.28,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,6,Erat Pablo,1971,Thalwil,"35.53,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,119,Erdemir Hakan,1968,Zug,"46.35,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,193,Errico Charles,1966,Zürich,"51.04,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,246,Eulen Ingo,1966,Zürich,"55.17,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,138,Eusebio Marco,1972,Bauma,"47.28,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M40,267,Eyjolfsson Matthias,1973,ISL-Reykjavik,"58.03,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M50,11,Ebsworthy Martyn James,1960,Kilchberg ZH,"39.50,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M50,91,Eremia Radu,1965,Burgdorf,"50.19,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M50,99,Ernst Horst,1957,D-Sinzheim,"50.58,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W18,11,Egli Désirée,1996,Nürensdorf,"52.16,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W18,20,Enk Mirjam,1997,Bonstetten,"57.41,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,36,Ebneter Jacqueline,1989,Zürich,"46.19,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,10,Egloff Debora,1990,Gebenstorf,"41.56,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,283,Elliott Rhiannon,1995,Unterägeri,"1:02.33,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,163,Epprecht Susanne,1994,Zürich,"54.21,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,189,Eric Emilija,1988,Zürich,"55.14,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,188,Eric Katarina,1993,Rapperswil SG,"55.14,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,97,Erlacher Verena,1989,Zürich,"51.39,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,78,Ernst Fanny,1986,Zürich,"50.04,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,28,Ernst Svenja,1990,Zürich,"45.28,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W20,232,Escudero Valeria,1986,Ebmatingen,"57.59,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,44,Eggenschwiler Laura,1984,Zürich,"46.31,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,238,Egli Tanja,1985,Glattfelden,"56.35,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,109,Ehrhart Catherine,1984,F-St Louis,"50.44,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,4,Erat Lucia,1985,Thalwil,"37.57,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,176,Erb Leila,1982,Zürich,"53.29,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W30,19,Etienne Joane,1985,Thalwil,"43.07,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,92,Egger Angela,1966,Bassersdorf,"54.01,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,36,Egger Ludin Anita,1969,Oberwil BL,"49.39,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,166,Egli Irina,1975,Pfaffhausen,"58.10,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,202,Elliott Jacqueline,1967,Unterägeri,"1:02.45,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,50,Etter Claudia,1967,Stäfa,"50.52,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-W40,75,Eugster Judith,1969,Wettswil,"53.05,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M20,176,Egloff Philipp,1988,Dulliken,"4:00.59,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M20,37,Engl Markus,1986,I-Bolzano (BZ),"3:09.26,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,528,Ecsedi Andras,1985,Zürich,"4:21.59,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,11,Eggenberger Michael,1977,Zug,"2:40.11,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,3,Eggenschwiler Bernhard,1985,Büsserach,"2:35.07,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,15,Eggenschwiler Denis,1979,Solothurn,"2:44.13,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,56,Eggimann Reto,1982,Rothenburg,"2:58.50,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,467,Eisenegger Samuel,1981,Rüfenacht,"4:03.58,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,523,Elischer Jan,1982,Zürich,"4:20.45,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,584,Elsemann Manuel,1980,Uster,"5:00.31,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,391,Elsholz Benjamin,1982,Zürich,"3:48.03,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,183,Enderlin Andreas,1977,Zürich,"3:19.23,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,552,Engström Jon,1980,S-Linköping,"4:30.12,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,26,Enz Daniel,1985,Bassersdorf,"2:49.41,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,244,Enz Thomas,1976,Zürich,"3:28.58,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,57,Erian Tom,1979,Utzenstorf,"2:58.52,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M30,247,Eversberg Marcel,1979,Marthalen,"3:29.17,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M40,19,Elmer Markus,1974,Worb,"2:53.42,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M40,22,Epp Stefan,1974,Schattdorf,"2:54.01,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,37,Eberhard Urs,1968,Weinfelden,"3:05.12,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,260,Eberhart Andreas,1967,Zug,"3:53.28,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,DNF,Ebneter Georges,1968,Corminboeuf,"2:32.55,8 3/",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,87,Egger Philippe,1966,Wetzikon ZH,"3:18.13,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,289,Eichelberger Pascal,1966,Recherswil,"4:00.59,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,362,Erber Klaus,1966,Langnau am Albis,"4:58.22,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,253,Ernst Andreas,1966,Zeihen,"3:51.44,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M45,193,Eschbach Lukas,1968,Büren an der Aare,"3:40.43,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,287,Ebert Frank,1965,D-Wedel,"4:44.09,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,107,Egli Elmar,1961,Solothurn,"3:34.10,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,203,Ehrlich Steffen,1962,D-Liebschützberg,"3:58.48,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,264,Engeler Ruedi,1964,Bischofszell,"4:30.12,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,277,Enz Markus,1961,Rümlingen,"4:39.08,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,171,Erb Adrian,1964,Volken,"3:51.55,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,249,Ernst Peter,1965,Pfäffikon SZ,"4:23.01,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,7,Ernst Thomas,1964,Winterthur,"2:56.15,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M50,119,Esposito Antonio Alfon,1962,I-Potenza (PZ),"3:37.34,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M55,79,Egli Martin,1960,Schinznach Bad,"3:51.42,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M55,62,Ehrismann Martin,1960,Zürich,"3:44.18,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M55,61,Erb Peter,1958,Winterthur,"3:44.17,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M60,31,Eigenmann Markus,1952,Horgen,"3:43.21,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M65,9,Eberle Paul,1948,Degersheim,"3:44.23,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-M65,4,Ehrhard Andre,1946,Wettingen,"3:36.30,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-MElit,17,Epiney Lucien,1981,Vercorin,"2:27.58,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,86,Greile Daniela,1978,Forch,"3:25.48,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,229,Dähler Désirée,1985,Luzern,"3:51.43,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,153,Hagenbuch Silvana,1986,Buchs ZH,"3:37.04,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,198,Hagenbuch Silvana,1986,Buchs ZH,"3:46.13,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,101,Hagenbuch Silvana,1986,Buchs ZH,"3:28.18,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,136,Hagenbuch Silvana,1986,Buchs ZH,"3:34.07,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,206,Hagenbuch Silvana,1986,Buchs ZH,"3:47.12,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,36,Pfändler Jonas,1985,Baden,"3:15.47,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,172,Pfändler Jonas,1985,Baden,"3:41.09,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,78,Schwarz Andreas,1980,Uster,"3:24.41,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,82,Di Blasio Marco,1987,Zürich,"3:25.15,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,199,Di Blasio Marco,1987,Zürich,"3:46.24,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,64,Di Blasio Marco,1987,Zürich,"3:21.40,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-TFirm,315,Albisser Manuela,1982,Dübendorf,"4:41.19,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W20,88,Engel Katrin,1987,Volketswil,"5:04.15,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W20,54,Ernst Sabrina,1992,Zürich,"4:07.28,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W30,22,Eggel Deborah,1980,Brig,"3:31.48,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W30,30,Elisio Mirjam,1984,Lichtensteig,"3:41.13,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W40,71,Ecoffey Liliane,1973,Zürich,"4:43.25,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W40,22,Egger Cristiane,1972,Niederhasli,"3:46.03,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W40,80,End Petra,1971,Buttwil,"5:12.20,5",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W40,37,Erpen Ginette,1974,Granges VS,"3:56.45,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W45,60,Engeler Ursi,1970,Langnau am Albis,"4:39.47,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W45,25,Ettlin-Niederberger Ma,1968,Kerns,"3:53.31,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W50,DNF,Eckai-Nicolaus Susanne,1962,D-Krefeld,"5.22,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W55,13,Ernst Cornelia,1960,Winterthur,"4:07.29,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+42-W70,1,Enderlin Michele,1944,Herrliberg,"4:53.30,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMen,48,Schymik Tim,1981,Zürich,"3:27.09,7",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMen,56,Hueber Benjamin,1987,Binningen,"3:30.10,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,211,Eggenberger Kurt,1963,Herrliberg,"3:42.24,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,70,Buettikofer Melanie,1985,Zürich,"3:21.54,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,310,Dzepina Monika,1988,Zürich,"3:57.28,1",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,156,Kleiner Jan,1981,Zürich,"3:35.49,9",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,12,Edalini Vero,1966,Biberist,"2:56.51,2",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,289,Koller Mirjam,1991,Zürich,"3:54.07,6",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,129,Petersen Claus Gregers,1966,Zürich,"3:31.34,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,9,Eugster Olivier,1982,La Tour-de-Peilz,"2:56.14,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TMix,388,Kuchler Marie-Lisa,1987,Zürich,"4:29.19,4",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TWom,87,Reich Hannah,1991,Romanshorn,"4:16.08,3",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TWom,66,Ramsden Alma,1985,Zürich,"4:02.54,8",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+T-TWom,102,Myers Regan,1963,Forch,"4:35.57,0",https://services.datasport.com/2015/lauf/zuerich/alfae.htm,2015
+10-M18,6,Eggenberger David,1998,Volketswil,"42.42,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M20,118,Eberle Fabian,1989,Zürich,"51.50,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M20,89,Eigenmann Stefan,1987,Schaffhausen,"48.09,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M20,148,Etter Patrick,1988,Zürich,"58.05,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,92,Eckert Florian,1983,Horgen,"45.20,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,34,Eggimann Adrian,1986,Effretikon,"41.21,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,172,Egloff David,1983,St. Gallen,"49.09,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,179,Ehrbar Daniel,1978,Schwerzenbach,"49.44,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,165,Ellmann Markus,1983,Zürich,"48.56,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,334,Elsner Sascha,1985,D-Waltenhofen,"1:01.25,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M30,9,Engler Thomas,1977,Seuzach,"37.39,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,25,Eckert Maurus,1969,Chur,"41.16,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,84,Edwards Robert,1976,Zürich,"47.37,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,231,Eimers Thomas,1969,D-Waldkirch,"58.04,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,221,Ekmann Patrick R,1968,Herrliberg,"57.16,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,96,Esposito Sergio,1968,Wettingen,"48.44,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M40,82,Etterlin Paolo,1974,Rothrist,"47.26,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M50,14,Ebsworthy Martyn James,1960,Adliswil,"41.48,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M50,59,Eggenberger Kurt,1963,Herrliberg,"48.49,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M50,36,Erni Koni,1965,Wangen b. Olten,"45.28,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M50,95,Errico Charles,1966,Zürich,"53.20,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M60,25,Egger Urs,1955,Zürich,"51.51,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,21,Ebneter Jacqueline,1989,Zürich,"46.39,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,127,Edenhofer Mirjam,1990,Zürich,"56.37,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,59,Eggenberger Andrea,1988,Herrliberg,"52.15,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,22,Ehrenzeller Isabel,1987,Bern,"46.40,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,143,Erlacher Verena,1989,Zürich,"57.08,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W20,151,Eyring Jillianne,1988,Zürich,"57.30,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,170,Eberle Christina,1982,Oberhasli,"57.13,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,2,Egger Nicole,1985,Langenthal,"37.27,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,24,Eisen Patricia,1984,D-Hamburg,"46.09,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,145,Ellis-Follett Jen,1983,Cham,"55.53,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,85,Erni Antonia,1986,Steinhausen,"52.20,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W30,175,Essmann Sandra,1979,Urdorf,"57.35,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W40,73,Egger Barbara,1976,Regensdorf,"54.34,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W40,148,Egli Irina,1975,Pfaffhausen,"1:00.38,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W40,119,Erni Patricia,1975,Zürich,"57.55,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W40,100,Ernst Bettina,1968,Zürich,"56.33,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W40,79,Etter Claudia,1967,Stäfa,"54.59,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-W50,27,Ettlin Marie-Therese,1965,Uster,"53.21,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M20,173,Egloff Philipp,1988,Zuchwil,"4:26.55,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M20,84,Engel Cedric,1989,D-Köln,"3:33.30,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,564,Edelaar Daniel,1977,Uster,"2:18.16,3 3/",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,16,Eggenschwiler Denis,1979,Solothurn,"2:48.23,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,199,Egger Daniel,1980,Zürich,"3:26.03,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,253,Egli Marcel,1979,Thalwil,"3:32.04,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,198,Egli Philippe,1986,Starrkirch-Wil,"3:25.54,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,514,Egli Tobias,1979,Rudolfstetten,"4:25.11,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,213,Eichhorn Martin,1982,Ruswil,"3:27.16,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,375,Eigenheer Robert,1986,Zürich,"3:48.21,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,267,Eisenegger Samuel,1981,Rüfenacht BE,"3:33.09,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,6,Eith Raphael,1986,D-Oberndorf,"2:41.18,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,211,Elvedi Flavio,1983,Ettiswil,"3:27.07,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,148,Enderlin Andreas,1977,Zürich,"3:18.16,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,195,Endresz Frederik,1983,D-Burscheid,"3:25.47,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,74,Engeli Benjamin,1979,Elsau,"3:06.21,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,293,Engmann Robert,1981,Wallisellen,"3:37.15,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,45,Eugster Daniel,1986,Rümlang,"2:56.53,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,17,Eugster Olivier,1982,La Tour-de-Peilz,"2:48.27,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,531,Eugster Simeon,1986,Basel,"4:36.12,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,202,Evans Simon,1984,Zürich,"3:26.19,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M30,200,Eversberg Marcel,1979,Zürich,"3:26.16,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M40,141,Eckert Martin,1976,Adliswil,"3:27.19,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M40,233,Egeler Dominik,1975,Gutenswil,"3:45.17,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M40,277,Eigenmann Florian,1973,Meilen,"3:58.08,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M40,81,Erlah Jurij,1975,SLO-Krize,"3:16.03,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M40,204,Evans Matthew,1972,GB-Southampton,"3:39.23,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M45,70,Ebneter Georges,1968,Corminboeuf,"3:16.58,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M45,344,Egger Thomas,1969,Gossau SG,"5:17.39,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M45,177,Emmenegger Paul,1968,Hellbühl,"3:37.41,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M45,145,Erni Reto,1971,FL-Eschen,"3:31.31,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M45,180,Estermann Thomas,1968,Tann,"3:38.40,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M50,258,Engeler Ruedi,1964,Bischofszell,"4:48.08,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M50,206,Engels Stephan,1966,Untersiggenthal,"4:04.44,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M50,6,Eppler Beat,1965,Dübendorf,"2:57.09,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M50,136,Erb-Pfister Adrian,1964,Volken,"3:45.18,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M50,147,Eymond Alain,1962,F-Montesson,"3:48.56,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,32,Eggenschwiler Jean-Luc,1957,Vicques,"3:27.08,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,78,Ehrismann Martin,1960,Zürich,"3:49.49,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,146,Enz Markus,1961,Rümlingen,"4:43.25,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,97,Ertl Rudolf,1960,GB-Woking,"3:57.03,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,148,Escallon Juan Luis,1960,COL-Bogota,"4:49.44,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M55,42,Esteves Jose,1957,P-Chaves,"3:33.54,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M60,16,Eigenmann Markus,1952,Horgen,"3:41.03,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-M65,10,Erlah Pavel,1948,SLO-Krize,"4:07.43,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,117,Kappeler Stefan,1979,Zürich,"3:32.29,9",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,233,Kappeler Stefan,1979,Zürich,"3:46.18,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,96,Hagenbuch Silvana,1986,Buchs ZH,"3:29.06,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,255,Hagenbuch Silvana,1986,Buchs ZH,"3:49.22,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,212,Hagenbuch Silvana,1986,Buchs ZH,"3:43.49,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,287,Hagenbuch Silvana,1986,Buchs ZH,"3:55.21,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,217,Hagenbuch Silvana,1986,Buchs ZH,"3:44.10,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,222,Hagenbuch Silvana,1986,Buchs ZH,"3:44.59,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,167,Hagenbuch Silvana,1986,Buchs ZH,"3:39.51,4",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,372,Hagenbuch Silvana,1986,Buchs ZH,"4:08.04,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,164,Hagenbuch Silvana,1986,Buchs ZH,"3:39.26,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,358,Hagenbuch Silvana,1986,Buchs ZH,"4:22.58,2",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,74,Hagenbuch Silvana,1986,Buchs ZH,"3:25.13,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,153,Hagenbuch Silvana,1986,Buchs ZH,"3:37.49,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,61,Osterwalder Rahel,1991,Zürich,"3:21.48,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,262,Osterwalder Rahel,1991,Zürich,"3:50.17,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,45,Fehervary Philip,1981,Watt,"3:17.58,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,102,Pfändler Jonas,1985,Baden,"3:30.17,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,346,Pfändler Jonas,1985,Baden,"4:13.59,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,38,Schwarz Andreas,1980,Uster,"3:16.47,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,232,Petersen Claus Gregers,1966,Zürich,"3:46.17,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-TFirm,261,Petersen Claus Gregers,1966,Zürich,"3:50.10,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W20,17,Ehrenzeller Manon,1989,Bern,"3:43.38,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W20,46,Elmer Franziska,1988,Zürich,"4:13.16,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W20,47,Evain Agathe,1988,Lausanne,"4:14.26,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W30,17,Eggenschwiler Laura,1984,Basel,"3:25.53,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W30,12,Emmenegger Stephanie,1985,Luzern,"3:24.50,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W40,66,Ecoffey Liliane,1973,Weinfelden,"4:47.35,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W40,24,Egger Cristiane,1972,Niederhasli,"3:45.00,5",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W40,42,Erpen Ginette,1974,Granges VS,"4:09.43,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W40,41,Evans Sarah,1972,GB-Waltham Chase,"4:07.22,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W45,65,Egger Ludin Anita,1969,Oberwil BL,"2:04.08,7 1/",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W45,31,Esser Silke,1968,Rüti ZH,"4:03.43,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W50,28,Egger Angela,1966,Bassersdorf,"4:11.00,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W50,40,Eibl Birgit,1965,Wetzikon ZH,"4:34.03,1",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+42-W70,3,Enderlin Michele,1944,Herrliberg,"4:58.56,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMen,67,Kasiala Patrick,1991,Embrach,"3:38.17,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMen,78,Hueber Oliver,1989,Zwingen,"3:42.59,8",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMen,90,Gisler Frantz,1957,Zürich,"3:50.42,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,361,Lauener Nicole,1970,Erlenbach ZH,"3:57.41,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,455,Scheidegger Jakob,1965,Hettlingen,"4:21.44,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,10,Edalini Vero,1966,Biberist,"2:57.26,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,449,Grajz Vivien,1981,Zürich,"4:17.53,6",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,170,Orgusaar Märt,1968,EE-Tallinn,"3:35.14,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,180,Peter Beat,1987,Untervaz,"3:36.16,0",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,430,Albisser Manuela,1982,Dübendorf,"4:09.49,3",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TMix,439,Albisser Manuela,1982,Dübendorf,"4:14.02,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+T-TWom,57,Hörterer Karin,1989,Siebnen,"3:55.42,7",https://services.datasport.com/2016/lauf/zuerich/alfae.htm,2016
+10-M18,2,Eugster Robin,1999,Gossau SG,"36.10,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M20,80,Eirund Hannes,1996,D-Oldenburg,"49.36,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M20,56,Emmenegger Fabian,1988,Neuenkirch,"46.56,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M20,12,Enk Martin,1989,Zufikon,"39.10,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M30,289,Ebner Julian,1984,Zürich,"1:00.06,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M30,128,Edelmann René,1985,Berneck,"48.18,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M30,262,Egli André,1987,Rümlang,"56.49,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M30,215,Ellmann Markus,1983,Zürich,"53.47,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M30,48,Eversberg Marcel,1979,Zürich,"42.16,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M40,257,Ekmann Patrick,1968,Hildisrieden,"1:05.16,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M40,206,Engeler Andreas,1969,Wettswil,"56.05,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M40,112,Engeler Thomas,1971,Hedingen,"48.48,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M40,242,Ertekin Sedat,1969,Zürich,"1:01.21,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M50,11,Ebsworthy Martyn James,1960,Adliswil,"39.39,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M50,42,Eggenberger Kurt,1963,Herrliberg,"47.14,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M60,24,Eilinger Roland,1957,Seuzach,"50.48,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M70,3,Ehrhard Andre,1946,Wettingen,"50.06,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W20,223,Eichhorn Daniela,1988,Zürich,"1:04.41,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W20,96,Eirund Gesa,1989,Gockhausen,"54.49,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W20,73,Esch Annette,1990,Zürich,"52.47,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W30,128,Eberle Christina,1982,Oberhasli,"55.44,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W30,156,Egli Tanja,1985,Glattfelden,"56.49,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W30,183,Ernst Jana,1983,Watt,"58.14,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W40,144,Erni Rahel,1973,Zürich,"1:03.48,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W40,118,Ernst Bettina,1968,Zürich,"59.12,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-W40,121,Eugster Judith,1969,Wettswil,"59.25,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M20,106,Egli Sandro,1991,Zürich,"3:49.32,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M20,107,Egli Simon,1994,Zürich,"3:49.33,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M20,43,Ehrle Lukas,1990,Fehraltorf,"3:18.34,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M20,150,Eikevicius Adomas,1991,LT-Vilnius,"4:12.23,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M20,45,Erhart Raphael,1992,Zürich,"3:19.28,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,85,Eberle Hampi,1981,Eschlikon TG,"3:08.38,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,268,Eckert Marc,1982,Frutigen,"3:43.14,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,11,Eggenschwiler Bernhard,1985,Oberentfelden,"2:42.43,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,49,Eggenschwiler Denis,1979,Solothurn,"2:58.08,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,79,Eggimann Reto,1982,Rothenburg,"3:06.33,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,425,Eiger Tomer,1978,ISR-Har Adar,"4:15.17,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,155,El Fatouhi Moad,1987,GB-London,"3:23.02,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,260,El Semari Ziad,1984,Zürich,"3:42.01,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,99,Elsholz Benjamin,1982,Zürich,"3:10.30,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,42,Enters Christian,1979,D-Düsseldorf,"2:57.17,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,247,Epaillard Charles,1979,Horgen,"3:40.23,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,376,Erchov Alexej,1986,Volketswil,"4:00.49,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,299,Erk Ersin,1984,Thalwil,"3:46.39,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,124,Erne Dominik Kelsang,1981,Genève,"3:15.27,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,18,Eugster Daniel,1986,Rümlang,"2:47.54,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,200,Evangelisti Fabio,1986,Zürich,"3:29.35,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M30,31,Exner Christian,1985,D-Hamburg,"2:54.06,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M40,49,Ehrat Patrick,1975,Merishausen,"3:09.47,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M40,288,Eisenhut Roy,1974,Bauma,"4:43.56,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M40,165,Eklund Rasmus,1974,S-Malmö,"3:40.38,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M40,55,Ember Matthew,1974,Hagendorn,"3:12.04,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M40,255,Evangelisti Michele,1976,I-Pietrasanta (LU),"4:12.07,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M45,52,Eberhard Urs,1968,Weinfelden,"3:12.53,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M45,171,Eberle Pascal,1971,Oberhasli,"3:48.41,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M45,174,Ellenberger Marc,1968,Zürich,"3:49.09,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M45,182,Estermann Thomas,1968,Tann,"3:52.33,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M45,18,Etter Robert,1970,Schüpfen,"2:56.05,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,114,Egli Thomas,1964,Winterthur,"3:41.34,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,183,Eglinski Michael,1967,D-Stuttgart,"3:57.41,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,197,El Hammami Chaïd,1967,F-Montmorency,"4:04.19,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,253,Ellenberger Peter,1965,D-Niederaula,"4:43.17,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,229,Elsener Sepp,1963,Feusisberg,"4:22.24,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,213,Engels Stephan,1966,Untersiggenthal,"4:13.01,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,18,Eppler Beat,1965,Dübendorf,"3:06.11,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,231,Erb Adrian,1964,Volken,"4:25.02,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,173,Ernst Ruedi,1963,Winterthur,"3:55.46,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,85,Esposito Alessandro,1965,I-Chiaravalle (AN),"3:30.48,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M50,168,Etique Didier,1967,Courfaivre,"3:54.49,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M55,118,Ehrismann Martin,1960,Zürich,"4:25.10,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M55,77,Ehrlich Steffen,1962,D-Liebschützberg,"3:50.20,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M55,114,Emerson Neil,1960,GB-Notts,"4:18.20,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M55,68,Erb Peter,1958,Winterthur,"3:43.11,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M55,22,Ernst René,1960,Basel,"3:22.12,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M60,10,Eggenschwiler Jean-Luc,1957,Vicques,"3:28.49,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-M65,6,Eigenmann Markus,1952,Horgen,"3:44.22,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-MElit,10,Eggenberger Michael,1977,Zug,"2:35.35,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-MElit,2,Ereng Patrick Mugur,1987,Schweiz,"2:16.47,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,167,Meile Stefanie,1984,Wilchingen,"3:33.44,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,40,Meile Stefanie,1984,Wilchingen,"3:15.04,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,406,Müller Andrea,1979,Stallikon,"4:07.34,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,153,Winsa Johanna,1987,Luzern,"3:32.35,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,246,Kappeler Stefan,1979,Zürich,"3:41.58,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,371,Kappeler Stefan,1979,Zürich,"3:58.08,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,353,Büchi Tania,1990,Schindellegi,"3:54.48,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,455,Schlachter Kerstin Car,1963,Küsnacht ZH,"4:28.44,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,373,Patak Sascha,1972,Erlenbach ZH,"3:58.37,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,332,Bodenmann Markus,1969,Fehraltorf,"3:52.08,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,74,Fehervary Philip,1981,Watt,"3:21.48,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,243,Fehervary Philip,1981,Watt,"3:41.47,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,362,Fehervary Philip,1981,Watt,"3:56.47,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,331,Winiger Benjamin,1976,Hombrechtikon,"3:51.59,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,48,Schwarz Andreas,1980,Uster,"3:16.28,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-TFirm,247,Gäng Mathias,1980,Dachsen,"3:42.06,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W20,21,Elbourne Sarah,1995,Meilen,"3:45.15,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W30,141,Ebermann Sabine,1985,D-Schwaig,"5:02.56,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W30,130,Engel Katrin,1987,Zürich,"4:40.12,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W30,20,English Gwendolyn,1987,Zollikon,"3:31.57,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W30,97,Epaillard Sylvia,1980,Horgen,"4:10.28,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W30,12,Etter Manuela,1979,Wauwil,"3:26.58,0",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W40,28,Ebner Sissy,1976,A-Gmünd,"4:00.27,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W40,50,Ecoffey Liliane,1973,Weinfelden,"4:43.32,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W45,21,Einhorn Anja,1971,Küssnacht am Rigi,"3:56.25,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W45,27,Engeler Ursi,1970,Langnau am Albis,"4:06.15,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+42-W65,4,Enderlin Michele,1944,Herrliberg,"5:11.33,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMen,32,Kasiala Patrick,1991,Embrach,"3:19.01,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMen,83,Gisler Frantz,1957,Zürich,"3:49.37,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,226,Michel Alexandra,1994,Dozwil,"3:45.30,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,23,Naef Barbara,1976,Sursee,"3:07.41,1",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,372,Wormstetter Claudine,1992,Gränichen,"4:09.02,9",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,15,Staub Ralph,1986,Uster,"3:02.59,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,132,Kunz Roland,1974,Wald ZH,"3:32.10,7",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,56,Meier Jan,1988,Zürich,"3:18.22,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,84,Michel Nicolas,1994,Bätterkinden,"3:24.24,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,201,Reich Hannah,1991,Romanshorn,"3:41.01,3",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,170,Scheidegger Jakob,1965,Hettlingen,"3:36.53,4",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,364,Mijnssen Jessica,1981,Zürich,"4:06.17,2",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,10,Edalini Vero,1966,Biberist,"2:55.39,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,293,Renner Christian,1985,Zürich,"3:53.16,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,263,Gruber Beat,1975,Zollikon,"3:49.54,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,309,Weber Manuela,1982,Dübendorf,"3:56.06,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,393,Albisser Manuela,1982,Dübendorf,"4:19.58,5",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,154,Albisser Manuela,1982,Dübendorf,"3:35.06,8",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+T-TMix,311,Albisser Manuela,1982,Dübendorf,"3:56.12,6",https://services.datasport.com/2017/lauf/zuerich/alfae.htm,2017
+10-M16,30,Ebneter Oliver,2002,Egg b. Zürich,"50.59,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M18,10,Ebrahimi Jomah,2000,Glarus,"45.09,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M18,12,Elsener Silvio,2000,Adliswil,"47.33,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M20,137,Elzinga Erik Jan,1993,Bremgarten AG,"49.01,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M20,70,Engelrelst Gieljan,1989,Zürich,"45.37,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M20,106,Eppenberger Marco,1991,Zürich,"47.35,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M20,251,Eppler Tony,1993,Dübendorf,"57.09,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M20,192,Erdei Robèrto,1992,Effretikon,"52.55,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,396,Ebner Julian,1984,Zürich,"57.25,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,219,Ellis-Follett Edward,1983,Cham,"50.10,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,124,Encalada Dan Agustin,1988,Zug,"46.15,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,18,Epp Jonas,1981,Zug,"39.13,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,437,Erdin Dominik,1986,Pfäffikon ZH,"1:00.06,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,231,Eren Egemen,1987,Zürich,"50.36,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,113,Ernst Christophe,1986,Zürich,"45.38,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M30,141,Ewalds Ralph,1983,Zürich,"47.08,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,315,Ebneter Christian,1974,Egg b. Zürich,"1:05.40,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,281,Eektimmerman Marcel,1978,NL-Dieren,"59.55,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,325,Egger Marcel,1978,Gossau SG,"1:09.09,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,63,Egli Stephan,1970,Liestal,"45.48,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,29,Emelone Lucas,1975,Ramsen,"42.08,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M40,6,Engler Thomas,1977,Seuzach,"36.58,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M50,69,Eckard Christophe,1966,Zürich,"50.16,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-M50,137,El Mestrah Said,1965,Dietikon,"57.07,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,270,Edelman Ilana,1990,Kloten,"1:00.00,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,46,Egger Jasmin,1990,Zürich,"48.46,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,169,Ehrenberg Stephanie,1989,GB-London,"56.07,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,435,Eichenberger Annina,1995,Zollikon,"1:13.31,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,131,Eicher Regina,1989,Altendorf,"54.35,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,239,Eigen Annina,1996,Oberglatt ZH,"58.39,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,329,Elsenhans Mélanie,1991,Zürich,"1:02.34,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,218,Ernst Kim,1996,Kloten,"58.02,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W20,256,Ettlin Virginia,1993,Hombrechtikon,"59.15,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,249,Echevarria Sandra,1987,Zürich,"59.02,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,449,Edigarova Olga,1985,Zürich,"1:07.21,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,309,Egli Irene,1981,St. Gallen,"1:01.10,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,153,Eifert Eva,1981,Zürich,"55.33,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,510,Eisele Carolin,1985,D-Filderstadt,"1:11.20,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,430,Eisenbeis Annette,1984,Zürich,"1:06.13,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,460,Elharrar Jessuca,1987,Zürich,"1:07.58,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,469,Ercel Ece,1982,Zürich,"1:08.30,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,458,Ermidou Eleni,1984,Zürich,"1:07.53,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,461,Ernst Jana,1983,Adliswil,"1:07.59,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,456,Eshaya-Chauvin Margaux,1988,Zürich,"1:07.43,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W30,406,Evans Helen,1980,Basel,"1:05.06,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W40,168,Ebnöther Sabine,1974,Regensdorf,"1:00.52,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W40,223,Eckert Jacqueline,1974,Zürich,"1:05.19,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W40,24,Egger Dagmar,1969,Bäch SZ,"50.32,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W40,50,Elsener Gaynor Marie,1974,Adliswil,"53.16,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W40,12,Esnault Lydie,1978,F-Sonnay,"47.13,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+10-W50,116,Elliott Jacqueline,1967,Unterägeri,"1:12.38,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M20,29,Eisenhut Fabian,1992,Oberegg,"3:24.49,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,173,Eagan Daniel,1980,USA-Oceanside,"3:32.37,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,36,Eberle Hampi,1981,Eschlikon TG,"2:58.07,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,15,Eggenschwiler Bernhard,1985,Oberentfelden,"2:50.02,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,89,Eggenschwiler Denis,1979,Subingen,"3:14.25,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,112,Eilinger Roman,1979,Niederbüren,"3:19.12,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,412,Eisenegger Samuel,1981,Rüfenacht BE,"4:16.46,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,498,Elmer Marcel,1983,Dietlikon,"4:52.22,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,352,Elmiger Christoph,1987,Klingnau,"3:59.50,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,235,Enderli Chris,1988,Tann,"3:43.22,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,13,Enz Daniel,1985,Stäfa,"2:44.15,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,337,Epstein Benny,1987,Zürich,"3:58.33,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,445,Erchov Alexej,1986,Volketswil,"4:28.55,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,313,Escribano Hugo,1981,E-Leioa,"3:54.34,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,288,Eser Oktay,1983,Aesch BL,"3:50.12,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,46,Eugster Daniel,1986,Dielsdorf,"2:59.35,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M30,209,Eversberg Marcel,1979,Zürich,"3:39.02,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,1,Eggenberger Michael,1977,Hünenberg See,"2:38.12,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,218,Egloff Roger,1974,Kreuzlingen,"4:11.24,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,40,Ember Matthew,1974,Hagendorn,"3:09.45,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,74,Enrico Da Lio,1975,Davesco-Soragno,"3:25.47,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,110,Enz Thomas,1976,Zürich,"3:35.13,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,10,Epp Stefan,1974,Schattdorf,"2:50.35,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,103,Eremin Denis,1977,RUS-Protvino,"3:33.12,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,30,Esnault Julien,1976,F-Sonnay,"3:06.46,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,126,Eugster Lorenz,1975,Zürich,"3:38.28,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M40,145,Ewert Matthias,1977,Glattbrugg,"3:46.05,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M45,293,Eichenberg Marcus,1970,D-Bad Homburg,"4:36.53,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M45,225,Engmann Jonathan,1969,Winterthur,"4:08.40,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M45,286,Ensor Christopher,1972,Küsnacht ZH,"4:33.55,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M45,283,Ertekin Sedat,1969,Zürich,"4:31.07,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M45,188,Erzinger Philip,1972,Thalwil,"3:56.28,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,125,Eggli Chris,1968,Zürich,"3:52.49,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,152,Eglinski Michael,1967,D-Stuttgart,"3:59.48,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,247,Eichelberger Pascal,1966,Recherswil,"5:19.29,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,230,Ellenberger Peter,1965,D-Niederaula,"4:52.39,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,113,Emmenegger Paul,1968,Hellbühl,"3:51.00,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M50,139,Estermann Thomas,1968,Tann,"3:55.33,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M55,7,Ebsworthy Martyn James,1960,Adliswil,"3:09.19,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M55,112,Egli Roland,1959,Gossau SG,"4:44.38,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M55,99,Ehrismann Martin,1960,Zürich,"4:36.24,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M55,94,Ernst Ruedi,1963,Winterthur,"4:28.30,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M60,31,Eilinger Roland,1957,Seuzach,"4:24.00,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M60,13,Erb Peter,1958,Winterthur,"3:44.11,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M60,5,Etter Jakob,1954,Treiten,"3:33.12,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-M65,1,Etter Paul,1952,Tuggen,"3:22.59,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-MElit,2,Ereng Patrick,1987,Schweiz,"2:14.43,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,165,Whymark Casey,1976,Uitikon Waldegg,"3:36.07,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,448,Kappeler Stefan,1979,Zürich,"4:05.49,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,202,Kappeler Stefan,1979,Zürich,"3:39.19,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,146,Alpiger Patrick Michae,1968,Zürich,"3:34.13,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,83,Lüthi Yves,1980,Jona,"3:26.18,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,85,Schoenenberger Reto,1981,Zürich,"3:26.41,7",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,391,Patak Sascha,1972,Erlenbach ZH,"3:57.20,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,63,Bertschinger Tobias,1989,Zürich,"3:21.25,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,207,Fehervary Philip,1981,Watt,"3:39.58,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,397,Fehervary Philip,1981,Watt,"3:58.00,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,481,Flegel Aylin,1982,Rüdlingen,"4:10.58,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,472,Gobeljic Denis,1988,Wetzikon ZH,"4:09.33,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,86,Schwarz Andreas,1980,Uster,"3:26.41,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,541,Rudolph Frank,1969,Rapperswil SG,"4:32.59,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-TFirm,475,Müller Lea,1986,Küsnacht ZH,"4:09.50,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W20,19,Erdmenger Gutierrez Ch,1991,Zürich,"3:45.59,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W30,31,Eggleston Sarah,1986,Zürich,"3:37.58,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W30,127,Engel Katrin,1987,Gossau ZH,"4:53.45,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W30,2,Erat Lucia,1985,Thalwil,"2:52.00,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W45,51,Eichelhardt Anke,1969,D-Michelbach,"4:55.05,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-W45,26,Estermann Christina,1971,Hildisrieden,"4:05.49,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+42-WElit,4,Eshetu Deme Abiyot,1990,Äthiopien,"2:45.28,9",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMen,49,Mostert Cyrill,1986,Zürich,"3:36.00,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMen,64,Kälin Patrick,1986,Bennau,"3:57.09,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMen,15,Vetterli Samir,1991,Bex,"3:04.15,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,74,Zibung Claudine,1994,Dürnten,"3:24.13,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,45,Bossart Christian,1986,Düdingen,"3:19.02,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,242,Fisch Gilbert,1957,Horgen,"3:53.51,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,59,Mostert Cyrill,1986,Zürich,"3:21.37,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,273,Mostert Cyrill,1986,Zürich,"3:58.09,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,285,Mostert Cyrill,1986,Zürich,"3:59.51,4",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,81,Gassmann Rolf,1965,Worblaufen,"3:26.15,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,258,Kiessling Monika,1985,Zürich,"3:56.17,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,181,Gomez Dominic,1990,Zürich,"3:43.53,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,324,Zimmermann Miriam,1980,Wil SG,"4:04.23,0",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,8,Walss Manuel,1997,Zürich,"2:55.16,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,331,Hochuli Oliver,1989,Thalwil,"4:05.33,6",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,256,Gisler Frantz,1957,Zürich,"3:56.00,5",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TMix,96,Brülisauer Laura,1998,Rapperswil SG,"3:28.47,3",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TWom,20,Lossin Dorothee,1970,Oberwil BL,"3:45.31,1",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TWom,54,Mostert Cyrill,1986,Zürich,"4:00.28,8",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
+T-TWom,96,Ruholl Daniela,1979,Zürich,"4:27.37,2",https://services.datasport.com/2018/lauf/zuerich/alfae.htm,2018
