@@ -56,6 +56,7 @@
 
 ![alt text](dash_filter_image.jpg)
 
+![alt text](simple_graph_image.jpg)
 
 ## LLM AI
 - Azure Cloud
