@@ -1,12 +1,12 @@
 {% include "layouts/header.html" %}
-
+{% extends "layout.html" %}
 {% block content %}
 <body>
 
 {% include "layouts/navigation.html" %}
 
 
-<section class="position-relative py-5 py-lg-5" style="background-image:url(static/assets/images/bg/20.jpg); background-position: center left; background-size: cover;">
+<section class="position-relative py-5 py-lg-5" style="background-image:url(static/assets/images/bg/08.jpg); background-position: center left; background-size: cover;">
 	<!-- Background dark overlay -->
 	<div class="bg-overlay bg-dark opacity-8"></div>
 	<div class="container z-index-9 position-relative">
@@ -17,14 +17,7 @@
 				<br>
 				<h1 class="display-6 text-white mb-0">Kamuno Demo</h1>
 					<h6 class="text-white fw-normal mb-3"></h6>
-						<!-- SVG START -->
-						<span class="text-white fw-normal mb-3">
-							<svg width="390.5px" height="21.5px" viewBox="0 0 445.5 21.5">
-								<path class="fill-primary opacity-7" d="M409.9,2.6c-9.7-0.6-19.5-1-29.2-1.5c-3.2-0.2-6.4-0.2-9.7-0.3c-7-0.2-14-0.4-20.9-0.5 c-3.9-0.1-7.8-0.2-11.7-0.3c-1.1,0-2.3,0-3.4,0c-2.5,0-5.1,0-7.6,0c-11.5,0-23,0-34.5,0c-2.7,0-5.5,0.1-8.2,0.1 c-6.8,0.1-13.6,0.2-20.3,0.3c-7.7,0.1-15.3,0.1-23,0.3c-12.4,0.3-24.8,0.6-37.1,0.9c-7.2,0.2-14.3,0.3-21.5,0.6 c-12.3,0.5-24.7,1-37,1.5c-6.7,0.3-13.5,0.5-20.2,0.9C112.7,5.3,99.9,6,87.1,6.7C80.3,7.1,73.5,7.4,66.7,8 C54,9.1,41.3,10.1,28.5,11.2c-2.7,0.2-5.5,0.5-8.2,0.7c-5.5,0.5-11,1.2-16.4,1.8c-0.3,0-0.7,0.1-1,0.1c-0.7,0.2-1.2,0.5-1.7,1 C0.4,15.6,0,16.6,0,17.6c0,1,0.4,2,1.1,2.7c0.7,0.7,1.8,1.2,2.7,1.1c6.6-0.7,13.2-1.5,19.8-2.1c6.1-0.5,12.3-1,18.4-1.6 c6.7-0.6,13.4-1.1,20.1-1.7c2.7-0.2,5.4-0.5,8.1-0.7c10.4-0.6,20.9-1.1,31.3-1.7c6.5-0.4,13-0.7,19.5-1.1c2.7-0.1,5.4-0.3,8.1-0.4 c10.3-0.4,20.7-0.8,31-1.2c6.3-0.2,12.5-0.5,18.8-0.7c2.1-0.1,4.2-0.2,6.3-0.2c11.2-0.3,22.3-0.5,33.5-0.8 c6.2-0.1,12.5-0.3,18.7-0.4c2.2-0.1,4.4-0.1,6.7-0.1c11.5-0.1,23-0.2,34.6-0.4c7.2-0.1,14.4-0.1,21.6-0.1c12.2,0,24.5,0.1,36.7,0.1 c2.4,0,4.8,0.1,7.2,0.2c6.8,0.2,13.5,0.4,20.3,0.6c5.1,0.2,10.1,0.3,15.2,0.4c3.6,0.1,7.2,0.4,10.8,0.6c10.6,0.6,21.1,1.2,31.7,1.8 c2.7,0.2,5.4,0.4,8,0.6c2.9,0.2,5.8,0.4,8.6,0.7c0.4,0.1,0.9,0.2,1.3,0.3c1.1,0.2,2.2,0.2,3.2-0.4c0.9-0.5,1.6-1.5,1.9-2.5 c0.6-2.2-0.7-4.5-2.9-5.2c-1.9-0.5-3.9-0.7-5.9-0.9c-1.4-0.1-2.7-0.3-4.1-0.4c-2.6-0.3-5.2-0.4-7.9-0.6 C419.7,3.1,414.8,2.9,409.9,2.6z"/>
-							</svg>
-						</span>
-						<!-- SVG END -->
-					</span>
+
 			</div>
 		</div> <!-- Row END -->
 	</div>
@@ -37,7 +30,7 @@ Listing START -->
 		<!-- Title -->
 		<div class="row mb-4 mb-sm-5">
 			<div class="col-12 text-center">
-				<h3 class="mb-0">Kamuno Analytics Demo</h3><br>
+				<h3 class="mb-0">Kamuno Analytics</h3><br>
 				<p class="mb-0">clickable data to visualization</p>
 			</div>
 		</div>
@@ -48,11 +41,10 @@ Listing START -->
 				<div class="card shadow h-100">
 					<div class="position-relative">
 						<!-- Image -->
-						<img src="{{url_for('static', filename='assets/images/category/directory/08.jpg')}}" class="card-img-top" alt="Card image">
+						<img src="{{url_for('static', filename='assets/images/touch_filter.jpg')}}" class="card-img-top" alt="Card image">
 						<!-- Overlay -->
 						<div class="card-img-overlay p-3 z-index-1">
-							<div class="badge text-bg-dark"><i class="fa-solid fa-bag-shopping fa-fw text-warning"></i>farm it</div>
-							<div class="badge text-bg-success">Open</div>
+							<div class="badge text-bg-success">Live</div>
 						</div>
 					</div>
 
@@ -60,10 +52,10 @@ Listing START -->
 					<div class="card-body">
 
 						<!-- Title -->
-						<h5 class="card-title me-2"><a href="#">Fresh Ginger</a></h5>
+						<h5 class="card-title me-2"><a href="{{ url_for('graph.redirect_to_dashboth') }}">Touch Filter</a></h5>
 
 						<!-- Content -->
-						<p class="mb-0">Stay <span class="text-success">grounded</span> to land</p>
+						<p class="mb-0"><span class="text-success">Click</span> on the records to filter</p>
 					</div>
 					<!-- Card body END -->
 
@@ -75,25 +67,19 @@ Listing START -->
 				<div class="card shadow h-100">
 					<div class="position-relative">
 						<!-- Image -->
-						<img src="{{url_for('static', filename='assets/images/category/directory/01.jpg')}}" class="card-img-top" alt="Card image">
+						<img src="{{url_for('static', filename='assets/images/input_filter.jpg')}}" class="card-img-top" alt="Card image">
 						<!-- Overlay -->
 						<div class="card-img-overlay p-3 z-index-1">
-							<div class="badge text-bg-dark"><i class="fa-solid fa-building-columns fa-fw text-warning"></i> farm it</div>
-							<div class="badge text-bg-success">Open</div>
+							<div class="badge text-bg-success">Live</div>
 						</div>
 					</div>
 
 					<!-- Card body START -->
 					<div class="card-body">
 						<!-- Title -->
-						<h5 class="card-title me-2"><a href="#">Grow Cacao</a></h5>
+						<h5 class="card-title me-2"><a href="{{ url_for('graph.redirect_to_dashgraph') }}">Input Filter</a></h5>
 
-						<!-- Address and Contact -->
-						<ul class="list-group list-group-borderless mb-0">
-							<li class="list-group-item small pb-0">
-								<i class="bi bi-pin-map-fill fa-fw h6 small mb-0"></i> farm Chocolate
-							</li>
-						</ul>
+						<p class="mb-0"><span class="text-success">Type</span> record to filter</p>
 					</div>
 					<!-- Card body END -->
 
@@ -105,25 +91,19 @@ Listing START -->
 				<div class="card shadow h-100">
 					<div class="position-relative">
 						<!-- Image -->
-						<img src="{{url_for('static', filename='assets/images/category/directory/03.jpg')}}" class="card-img-top" alt="Card image">
+						<img src="{{url_for('static', filename='assets/images/image_graph.jpg')}}" class="card-img-top" alt="Card image">
 						<!-- Overlay -->
 						<div class="card-img-overlay p-3 z-index-1">
-							<div class="badge text-bg-dark"><i class="fa-solid fa-hotel fa-fw text-warning"></i> farm it</div>
-							<div class="badge text-bg-success">Open</div>
+							<div class="badge text-bg-success">Live</div>
 						</div>
 					</div>
 
 					<!-- Card body START -->
 					<div class="card-body">
 						<!-- Title -->
-						<h5 class="card-title me-2"><a href="#">Ice Cream Bean</a></h5>
+						<h5 class="card-title me-2"><a href="{{ url_for('graph.redirect_to_dashintro') }}">Graph</a></h5>
 
-						<!-- Address and Contact -->
-						<ul class="list-group list-group-borderless mb-0">
-							<li class="list-group-item small pb-0">
-								<i class="bi bi-pin-map-fill fa-fw h6 small mb-0"></i> make an orchard & sell seeds
-							</li>
-						</ul>
+						<p class="mb-0"><span class="text-success">See</span> simple graph</p>
 					</div>
 					<!-- Card body END -->
 
@@ -136,25 +116,19 @@ Listing START -->
 				<div class="card shadow h-100">
 					<div class="position-relative">
 						<!-- Image -->
-						<img src="{{url_for('static', filename='assets/images/category/directory/05.jpg')}}" class="card-img-top" alt="Card image">
+						<img src="{{url_for('static', filename='assets/images/other_graph.jpg')}}" class="card-img-top" alt="Card image">
 						<!-- Overlay -->
 						<div class="card-img-overlay p-3 z-index-1">
-							<div class="badge text-bg-dark"><i class="fa-solid fa-dumbbell fa-fw text-warning"></i> eat it</div>
-							<div class="badge text-bg-success">Open</div>
+							<div class="badge text-bg-success">Live</div>
 						</div>
 					</div>
 
 					<!-- Card body START -->
 					<div class="card-body">
 						<!-- Title -->
-						<h5 class="card-title me-2"><a href="#">the Mango Tree</a></h5>
+						<h5 class="card-title me-2"><a href="{{ url_for('core.redirect_to_dashapp') }}">Test</a></h5>
 
-						<!-- Address and Contact -->
-						<ul class="list-group list-group-borderless mb-0">
-							<li class="list-group-item small pb-0">
-								<i class="bi bi-pin-map-fill fa-fw h6 small mb-0"></i> Pick and Pay
-							</li>
-						</ul>
+						<p class="mb-0"><span class="text-success">Testing</span> other views</p>
 					</div>
 					<!-- Card body END -->
 
@@ -165,6 +139,27 @@ Listing START -->
 	</div>
 </section>
 
+
+
+<!-- D3 example -->
+
+{% block styles %}
+{% endblock %}
+
+
+{% block scripts %}
+<script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+<script defer type="module" src="{{ url_for('static', filename='js/main.js') }}"></script>
+{% endblock %}
+
+<!--
+<center>
+    <h1>API Runners</h1>
+
+<div id="my_dataviz"></div>
+<center>
+
+-->
 
 
 <!-- Back to top -->

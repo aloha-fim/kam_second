@@ -16,6 +16,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 
 import pandas as pd
+import requests
 
 
 
@@ -58,7 +59,7 @@ def create_dashapp(app):
     )
     app.config['suppress_callback_exceptions'] = True
 
-    heading = html.Div("Runner Demo Analytics", className="bg-success text-white p-2 mb-3")
+    heading = html.Div("Runner Demo Analytics (click on icons for visualization)", className="bg-success text-white p-2 mb-3")
 
     spacer = html.H2("", className="bg-white text-white p-2 mb-3")
 
@@ -75,15 +76,12 @@ def create_dashapp(app):
         dbc.Row([
             dbc.Col([
                 heading,
-                #dbc.Button("Previous", color="secondary", className="mr-1", id="b-prev"),
-                #dbc.Button("Next", color="secondary", className="mr-1", id="b-next"),
                 button,
                 spacer,
                 dash_table.DataTable(
                     id='table',
-                    # columns=[{"name": i, "id": i} for i in df.columns[0:10]],
                     data=df.to_dict('records'),
-                    page_size=10,
+                    page_size=5,
                     column_selectable='single',
                     style_data={
                         'whiteSpace': 'normal',
@@ -151,6 +149,10 @@ def create_dashgraph(app):
 
     df = pd.read_csv("./data/postdefined_users.csv")
 
+    #api_url = "http://localhost:5000/load_data"
+    #response = requests.get(api_url)
+    #df = response.json()
+
     columnDefs = [{"field": col} for col in ['category', 'full_name', 'age_year', 'location', 'run_year', 'age_group']]
 
     app.layout = html.Div(
@@ -207,7 +209,7 @@ def create_dashboth(app):
     app.layout = html.Div(
         [
 
-            html.Div('Runner Demo Touch Filter', className="bg-success text-white p-2 mb-3"),
+            html.Div('Runner Demo Touch Filter (click on records for visualization)', className="bg-success text-white p-2 mb-3"),
             html.H2("", className="bg-white text-white p-2 mb-3"),
 
             dag.AgGrid(
@@ -259,6 +261,35 @@ def create_dashboth(app):
 # Initialize
 create_dashboth(app)
 
+
+
+def create_dashintro(app):
+    app = dash.Dash(
+        server=app,
+        external_stylesheets=[dbc.themes.MINTY],
+        url_base_pathname='/dashintro/'
+    )
+    app.config['suppress_callback_exceptions'] = True
+
+
+    df = pd.read_csv('./data/postdefined_users.csv')
+
+    fig = px.histogram(df, x='run_year', color="age_group")
+    fig.update_xaxes(type='category')
+
+
+    app.layout = html.Div([
+        html.Div('Runner Graph', className="bg-success text-white p-2 mb-3"),
+        html.H2("", className="bg-white text-white p-2 mb-3"),
+        dcc.Graph(figure=fig)
+    ])
+
+    return app
+
+
+
+# Initialize
+create_dashintro(app)
 
 
 
