@@ -44,7 +44,8 @@
 - connect to Postgres SQL database
 ```
 
-![alt text](psql_records.jpg)
+![alt text](psql_records-2.jpg)
+
 
 ## Visualize
 - Plotly and Dash
