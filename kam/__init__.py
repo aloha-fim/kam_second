@@ -58,7 +58,8 @@ def create_dashapp(app):
     )
     app.config['suppress_callback_exceptions'] = True
 
-    heading = html.H2("Runner Demo", className="bg-success text-white p-2 mb-3")
+    heading = html.Div("Runner Demo Analytics", className="bg-success text-white p-2 mb-3")
+
     spacer = html.H2("", className="bg-white text-white p-2 mb-3")
 
     button = html.Div(
@@ -152,13 +153,14 @@ def create_dashgraph(app):
 
     columnDefs = [{"field": col} for col in ['category', 'full_name', 'age_year', 'location', 'run_year', 'age_group']]
 
-    spacer = html.H2("", className="bg-white text-white p-2 mb-3")
-
     app.layout = html.Div(
         [
-            html.Div('Filter:'),
 
-            dcc.Input(id="quick-filter-input", placeholder="filter..."),
+            html.Div('Runner Demo Input Filter', className="bg-success text-white p-2 mb-3"),
+            html.H2("", className="bg-white text-white p-2 mb-3"),
+
+            dcc.Input(id="quick-filter-input", placeholder="  filter here..."),
+            html.H2("", className="bg-white text-white p-2 mb-3"),
 
             dag.AgGrid(
                 id="quick-filter-simple",
@@ -198,12 +200,16 @@ def create_dashboth(app):
     )
     app.config['suppress_callback_exceptions'] = True
 
-    df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/ag-grid/olympic-winners.csv")
+    df = pd.read_csv("./data/postdefined_users_graph.csv")
 
-    columnDefs = [{"field": i} for i in ["country", "year", "athlete", "age", "sport", "total"]]
+    columnDefs = [{"field": i} for i in ["category", "age_year", "full_name", "run_year", "age_group", "count"]]
 
     app.layout = html.Div(
         [
+
+            html.Div('Runner Demo Touch Filter', className="bg-success text-white p-2 mb-3"),
+            html.H2("", className="bg-white text-white p-2 mb-3"),
+
             dag.AgGrid(
                 id="row-selection-options",
                 columnDefs=columnDefs,
@@ -226,23 +232,24 @@ def create_dashboth(app):
         print(cell_selected)
         cell_id = cell_selected['colId']
         cell_value = cell_selected['value']
-        if cell_id== 'athlete':
-            dff = df[df.athlete == cell_value]
-            fig = px.histogram(dff, x='athlete', y='total', color='year')
-        elif cell_id == 'year':
-            dff = df[df.year == cell_value]
-            fig = px.bar(dff, x='country', y='total', title=f"{cell_value} Olympics")
-        elif cell_id == 'country':
-            dff = df[df.country == cell_value]
-            fig = px.bar(dff, x='sport', y='total')
-        elif cell_id == 'sport':
-            dff = df[df.sport == cell_value]
-            fig = px.bar(dff, x='country', y='total', title=f"{cell_value} in the Olympics")
-        elif cell_id == 'age':
-            dff = df[df.age == cell_value]
-            fig = px.bar(dff, x='athlete', y='total', title=f"{cell_value} year-olds with medals in the Olympics")
+        if cell_id== 'full_name':
+            dff = df[df.full_name == cell_value]
+            fig = px.histogram(dff, x='full_name', y='count', color='age_year')
+        elif cell_id == 'age_year':
+            dff = df[df.age_year == cell_value]
+            fig = px.bar(dff, x='category', y='count', title=f"{cell_value} categories")
+        elif cell_id == 'category':
+            dff = df[df.category == cell_value]
+            fig = px.bar(dff, x='age_group', y='count')
+        elif cell_id == 'age_group':
+            dff = df[df.age_group == cell_value]
+            fig = px.bar(dff, x='run_year', y='count', title=f"{cell_value} age groups")
+        elif cell_id == 'run_year':
+            dff = df[df.run_year == cell_value]
+            fig = px.bar(dff, x='category', y='count', title=f"{cell_value} at run year")
+            fig.update_xaxes(type='category')
         else:
-            fig = px.bar(df, x='country', y='total', title=f"{cell_value} Olympics")
+            fig = px.bar(df, x='category', y='count', title=f"{cell_value} categories")
         return fig
 
     return app
