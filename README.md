@@ -40,6 +40,9 @@
 ![alt text](api_route.jpg)
 
 ## Postgres
+```
+- connect to Postgres SQL database
+```
 
 ![alt text](psql_records.jpg)
 
