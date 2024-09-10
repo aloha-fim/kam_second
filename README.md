@@ -1,33 +1,50 @@
-# kam_second
+# Kamuno Analytics
 
-## Config
-- pip install libs
-- venv
-- requirements.txt
+## Configuration
+- command: pip freeze > requirements.txt
+- activate virtual environment
+- command: python app.py
+
+![alt text](python_app.jpg)
 
 ## Scrape Data
-- Use Beautiful Soup
+- Use Beautiful Soup into txt / csv
 
 
-## Format Data
+# Format Data
 
-## Tranfer log files from csv into postgres database
-- seed_db.py schema data type
-- python seed_db.py
-- Regex replace , for timestamp
+## Tranfer csv files from csv into postgres database
+```
+- seed_db.py to adhere with schema data types
+- command: python seed_db.py
+- Regex replace characters after "," for timestamp validation
 - dates
+```
 
-# add to dataset - age group and count
-- python refine_seed.py
-- Add Column age group
+![alt text](code_seed.jpg)
 
 
+## add to the dataset - age group and count
+```
+- command: python refine_seed.py
+- Create age group attribute
+```
 
 ## API
+```
 - Flask
+- seed_db.py validated by Flask forms into Postgres
+- API route /load_data created to output records
+```
+
+![alt text](api_route.jpg)
+
+## Postgres
+
+![alt text](psql_records.jpg)
 
 ## Visualize
-- Plotly
+- Plotly and Dash
 
 ## LLM AI
 - Azure Cloud
