@@ -46,7 +46,7 @@ for idx, u in df_users.iterrows():
 
     q = cur.execute(
         '''INSERT INTO kam_users (category, rang, full_name, age_year, location, total_time, run_link, run_year) VALUES (%s,%s,%s,%s,%s,%s,%s,%s)''',
-        (u.category, u.rang, u.full_name, u.age_year, u.location, u.total_time, u.run_link, u.run_year)
+        (u.category, u.rang, u.full_name, u.original_age_year, u.location, u.total_time, u.run_link, u.run_year)
     )
     conn.commit()
 
