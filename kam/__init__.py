@@ -286,7 +286,7 @@ def create_dashintro(app):
         dcc.Graph(figure=fig),
         dcc.Textarea(
             id='textarea-example',
-            value='\tFootnotes: \n\t- Age Group of missing dates are runners who refused to provide birthdates.\n\n\tCaveats: \n\t- Duplicates of runner with different total times within same race.\n\t- Criteria of source by first letter of last name not strict with randon runner records.\n\n\tSource Error: \n\t- Runners have choice to opt-out of racing records to remain private, affecting sample size.\n\t- Additional records outside of scope of source due to process error.\n\t(i.e. https://services.datasport.com/2014/lauf/zuerich/landaus.htm of Australians not having Swiss phone number to register)',
+            value='\tFootnotes: \n\t- Age Group of missing data are runners who refused to provide their birth date year.\n\n\tCaveats: \n\t- Duplicates of runner with different total times within same race.\n\t- Criteria of source by first letter of last name not strict with random runner records.\n\t(i.e. https://services.datasport.com/2014/lauf/zuerich/landb.htm has record for runner Frei Daniel who does not have last name starting with "b")\n\n\tSource Error: \n\t- Runners have choice to opt-out of racing records for privacy, affecting sample size for analysis.\n\t- Additional records outside of scope of source requirements taking only records for a to z.\n\t(i.e. https://services.datasport.com/2014/lauf/zuerich/landaus.htm of Australians not having Swiss phone number to register)',
             style={'width': '100%', 'height': 300},
         ),
         html.Div(id='textarea-example-output', style={'whiteSpace': 'pre-line'})
