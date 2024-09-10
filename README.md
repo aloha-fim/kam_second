@@ -1,5 +1,7 @@
 # Kamuno Analytics
 
+![alt text](cover_page.jpg)
+
 ## Configuration
 - command: pip freeze > requirements.txt
 - activate virtual environment
@@ -49,6 +51,11 @@
 
 ## Visualize
 - Plotly and Dash
+
+![alt text](dash_touch_image.jpg)
+
+![alt text](dash_filter_image.jpg)
+
 
 ## LLM AI
 - Azure Cloud
