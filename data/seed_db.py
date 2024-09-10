@@ -11,7 +11,7 @@ load_dotenv('.env')
 
 
 # Update with your user name
-conn = psycopg2.connect("host=dpg-crgcigrv2p9s73ab12ng-a dbname=kamuno_postgresql user=kamuno_postgresql_user password=2DNIRs5rTKyWAWXmIO6GIUz97Kt9NxJl")
+conn = psycopg2.connect("PROD_DATABASE_CRED")
 cur = conn.cursor()
 
 cur.execute('DROP TABLE IF EXISTS kam_users;')
