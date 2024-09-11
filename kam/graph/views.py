@@ -39,3 +39,6 @@ def redirect_to_dashboth():
 
 def redirect_to_dashintro():
     return redirect('/dashintro/')
+
+
+

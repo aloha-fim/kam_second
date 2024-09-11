@@ -7,6 +7,7 @@ import json
 from kam import Db
 from kam.models import KamUser
 #from kam.core.forms import KamPostForm
+from kam.pdf_processor import process_json_magic
 
 from dotenv import load_dotenv
 
@@ -23,11 +24,7 @@ def index():
 
 	return render_template("index.html")
 
-@core.route('/show_data', methods=['GET','POST'])
-def show_data():
-
-	return render_template("show.html")
-
+# API endpoint of JSON data
 @core.route('/load_data', methods=['GET'])
 def load_data():
 	users_json = {'users': []}
@@ -37,6 +34,22 @@ def load_data():
 		del user_info['_sa_instance_state']
 		users_json['users'].append(user_info)
 	return jsonify(users_json)
+
+
+# GPT RAG prompt input, using LangChain to link with json route /load_data.
+@core.route('/gpt_more', methods=['GET','POST'])
+def gpt_more():
+
+    if request.method == 'POST':
+
+        question = request.form['question']
+
+        response = process_json_magic(question)
+
+        return render_template('upload_gpt_more.html', response=response)
+
+    return render_template('upload_gpt_more.html')
+
 
 
 # Define dashapp route
