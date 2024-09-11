@@ -281,12 +281,12 @@ def create_dashintro(app):
 
 
     app.layout = html.Div([
-        html.Div('Runner Graph (graphs can pulled from API endpoint /load_data (i.e. http://localhost:5000/load_data))', className="bg-success text-white p-2 mb-3"),
+        html.Div('Runner Graph (graphs can pulled from API endpoint /load_data (i.e. https://kam-second.onrender.com/load_data))', className="bg-success text-white p-2 mb-3"),
         html.H2("", className="bg-white text-white p-2 mb-3"),
         dcc.Graph(figure=fig),
         dcc.Textarea(
             id='textarea-example',
-            value='\tFootnotes: \n\t- Age Group of missing data are runners who refused to provide their birth date year.\n\n\tCaveats: \n\t- Duplicates of runner with different total times within same race.\n\t- Criteria of source by first letter of last name not strict with random runner records.\n\t(i.e. https://services.datasport.com/2014/lauf/zuerich/landb.htm has record for runner Frei Daniel who does not have last name starting with "b")\n\n\tSource Error: \n\t- Runners have choice to opt-out of racing records for privacy, affecting sample size for analysis.\n\t- Additional records outside of scope of source requirements taking only records for a to z.\n\t(i.e. https://services.datasport.com/2014/lauf/zuerich/landaus.htm of Australians not having Swiss phone number to register)',
+            value='\tFootnotes: \n\t* Missing age data are from runners who declined to provide their birth year.\n\n\tCaveats: \n\t* Duplicate entries exist for runners with different total times in the same race.\n\t* The source organization does not consistently adhere to the criteria of sorting records by the first letter of the last name.\n\t(For example, the record for "Frei Daniel" on this page https://services.datasport.com/2014/lauf/zuerich/landb.htm does not match the expected initial "b")\n\n\tSource Errors: \n\t* Runners have the option to opt out of having their race records published, which impacts the sample size available for analysis.\n\t* Some records fall outside the scope of the source requirements, which include records only from A to Z. \n\t(For instance, this page https://services.datasport.com/2014/lauf/zuerich/landaus.htm under initial "aus" lists Australians running the race under separate registration)',
             style={'width': '100%', 'height': 300},
         ),
         html.Div(id='textarea-example-output', style={'whiteSpace': 'pre-line'})
