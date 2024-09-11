@@ -43,15 +43,15 @@ def read_json_chat():
 
     response = requests.get(api_url)
 
-    #data = response.json()
+    data = response.json()
 
     # Convert data to dict
     # data = json.loads(response.text)
 
     # Convert dict to string
-    data = json.dumps(response)
+    json_data = json.dumps(data)
 
-    return data
+    return json_data
 
 
 def process_json_query(query):
