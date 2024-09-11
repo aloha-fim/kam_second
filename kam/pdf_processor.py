@@ -46,7 +46,7 @@ def read_json_chat():
     data = response.json()
 
     # Convert data to dict
-    # data = json.loads(response.text)
+    # json_data = json.loads(response.text)
 
     # Convert dict to string
     json_data = json.dumps(data)
@@ -58,13 +58,13 @@ def process_json_query(query):
     text = read_json_chat()
     #print(text)
     # split into chunks
-    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
-                                               chunk_overlap=200, length_function=len)
+    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
+                                               chunk_overlap=25, length_function=len)
 
     text_chunks = char_text_splitter.split_text(text)
 
     # create embeddings
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
     docsearch = FAISS.from_texts(text_chunks, embeddings)
 
     llm = OpenAI()
