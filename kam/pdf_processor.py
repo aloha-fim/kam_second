@@ -4,6 +4,7 @@ import os
 #import docx
 import json
 import requests
+import pandas as pd
 
 from langchain.text_splitter import CharacterTextSplitter
 # [deprecared] from langchain.embeddings.openai import OpenAIEmbeddings
@@ -55,8 +56,11 @@ def read_json_chat():
 
 
 def process_json_query(query):
-    text = read_json_chat()
+    #text = read_json_chat()
     #print(text)
+
+    text = pd.read_csv("./data/postdefined_users.csv")
+
     # split into chunks
     char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
                                                chunk_overlap=25, length_function=len)
@@ -83,6 +87,7 @@ def process_json_query(query):
     response = chain.invoke(input=input_data)
     #response = chain.invoke(question=query, input_documents=docs)
     return response
+
 
 def process_pdf_query(pdf_path, query):
     text_pdf = read_pdf(pdf_path)
