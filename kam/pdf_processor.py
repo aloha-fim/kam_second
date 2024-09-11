@@ -18,6 +18,7 @@ from langchain_openai import OpenAI
 # [deprecated] from langchain.callbacks import get_openai_callback
 from langchain_community.callbacks import get_openai_callback
 from langchain_community.document_loaders import JSONLoader
+from langchain.document_loaders.csv_loader import CSVLoader
 
 # chroma
 from langchain.schema import Document
@@ -59,7 +60,7 @@ def process_json_query(query):
     #text = read_json_chat()
     #print(text)
 
-    text = pd.read_csv("./data/postdefined_users.csv")
+    text = pd.read_csv("./data/postdefined_users.csv", index_col=0)
 
     # split into chunks
     char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
@@ -123,16 +124,20 @@ def process_pdf_query(pdf_path, query):
 
 
 def process_json_magic(query):
-    text = read_json_chat()
+    #text = read_json_chat()
     #print(text)
+
+    loader = CSVLoader(file_path="./data/postdefined_users.csv")
+    text = loader.load()
+
     # split into chunks
-    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
-                                               chunk_overlap=200, length_function=len)
+    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
+                                               chunk_overlap=25, length_function=len)
 
     text_chunks = char_text_splitter.split_text(text)
 
     # create embeddings
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
     docsearch = FAISS.from_texts(text_chunks, embeddings)
 
     llm = OpenAI()
