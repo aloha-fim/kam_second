@@ -10,7 +10,7 @@ from langchain.text_splitter import CharacterTextSplitter
 # [deprecared] from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
 # [deprecated] from langchain.vectorstores import FAISS
-from langchain_community.vectorstores import FAISS, Chroma
+from langchain_community.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 # [deprecated] from langchain.llms import OpenAI
 # from langchain_community.llms import OpenAI
