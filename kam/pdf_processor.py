@@ -152,7 +152,7 @@ def process_json_magic(query):
         text_reader = list(reader)
 
     # gpt rate limit of token
-        text_limit = text_reader[:3000]
+        text_limit = text_reader[:1000]
 
     # turn list into string
         for t in text_limit:
@@ -162,8 +162,8 @@ def process_json_magic(query):
             text = text.replace(" ", " | ")
 
     # split into chunks
-    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
-                                               chunk_overlap=200, length_function=len)
+    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=200,
+                                               chunk_overlap=10, length_function=len)
 
     text_chunks = char_text_splitter.split_text(text)
 
