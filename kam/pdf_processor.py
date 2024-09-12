@@ -142,6 +142,10 @@ def process_json_magic(query):
     # Read the CSV file into a pandas DataFrame
     #df = pd.read_csv("./data/gpt_postdefined_users.csv")
 
+
+    # reading csv file
+    #text = open("./data/postdefined_users_gpt.csv", "r")
+
     ##### Microsoft ######
     with open("./data/postdefined_users_gpt.csv", encoding = "ISO-8859-1") as file:
         reader = csv.reader(file, delimiter=",")
@@ -150,16 +154,12 @@ def process_json_magic(query):
     # gpt rate limit of token
         text_limit = text_reader[:3000]
 
-    # reading csv file
-    #text = open("./data/postdefined_users_gpt.csv", "r")
-
     # turn list into string
-    #    text = ' '.join([i for i in text])
-        text = ' '.join(str(x) for x in text_limit)
+        for t in text_limit:
+            text = ' '.join(str(x) for x in t)
 
     # replacing ',' by | for GPT
-        text = text.replace(" ", " | ")
-
+            text = text.replace(" ", " | ")
 
     # split into chunks
     char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
