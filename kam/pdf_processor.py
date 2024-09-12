@@ -143,7 +143,7 @@ def process_json_magic(query):
     #df = pd.read_csv("./data/gpt_postdefined_users.csv")
 
     ##### Microsoft ######
-    with open("./data/gpt_postdefined_users.csv") as file:
+    with open("./data/postdefined_users_gpt.csv", encoding = "ISO-8859-1") as file:
         reader = csv.reader(file, delimiter=",")
         text = list(reader)
 
