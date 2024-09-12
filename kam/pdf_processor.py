@@ -5,6 +5,7 @@ import os
 import json
 import requests
 import pandas as pd
+import csv
 
 from langchain.text_splitter import CharacterTextSplitter
 # [deprecared] from langchain.embeddings.openai import OpenAIEmbeddings
@@ -142,15 +143,15 @@ def process_json_magic(query):
     #df = pd.read_csv("./data/gpt_postdefined_users.csv")
 
     ##### Microsoft ######
-    #with open("./data/gpt_postdefined_users.csv") as file:
-    #    reader = csv.reader(file)
-    #    text = list(reader)
+    with open("./data/gpt_postdefined_users.csv") as file:
+        reader = csv.reader(file, delimiter=",")
+        text = list(reader)
 
     # reading csv file
-    text = open("./data/postdefined_users_gpt.csv", "r")
+    #text = open("./data/postdefined_users_gpt.csv", "r")
 
     # joining with space content of text
-    text = ' '.join([i for i in text])
+    #text = ' '.join([i for i in text])
 
     # replacing ',' by | for GPT
     text = text.replace(",", " | ")
