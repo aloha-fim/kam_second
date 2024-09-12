@@ -138,13 +138,16 @@ def process_json_magic(query):
 
     ##### pandas #####
     # Read the CSV file into a pandas DataFrame
-    df = pd.read_csv("./data/gpt_postdefined_users.csv")
+    #df = pd.read_csv("./data/gpt_postdefined_users.csv")
 
-    # Convert all columns to text Series
-    text_series_list = [df[col].astype(str) for col in df.columns]
+    # reading csv file
+    text = open("./data/gpt_postdefined_users.csv", "r")
 
-    # Join each text Series into a single string
-    text = [' '.join(text_series) for text_series in text_series_list]
+    # joining with space content of text
+    text = ' '.join([i for i in text])
+
+    # replacing ',' by | for GPT
+    text = text.replace(",", "|")
 
 
     # split into chunks
