@@ -141,13 +141,13 @@ def process_json_magic(query):
     #df = pd.read_csv("./data/gpt_postdefined_users.csv")
 
     # reading csv file
-    text = open("./data/gpt_postdefined_users.csv", "r")
+    text = open("./data/postdefined_users_gpt.csv", "r")
 
     # joining with space content of text
     text = ' '.join([i for i in text])
 
     # replacing ',' by | for GPT
-    text = text.replace(",", "|")
+    text = text.replace(",", " | ")
 
 
     # split into chunks
