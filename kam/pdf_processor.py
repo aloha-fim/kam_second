@@ -124,11 +124,28 @@ def process_pdf_query(pdf_path, query):
 
 
 def process_json_magic(query):
+    ##### API route #####
     #text = read_json_chat()
     #print(text)
 
-    loader = CSVLoader(file_path="./data/postdefined_users.csv", encoding = 'UTF-8')
-    text = loader.load()
+    ##### Langchain ######
+    #loader = CSVLoader(file_path="./data/gpt_postdefined_users.csv", encoding = 'UTF-8')
+    #text = loader.load()
+
+    ##### Langchain output #####
+    #text_load = loader.load()
+    #text = text_load.page_content
+
+    ##### pandas #####
+    # Read the CSV file into a pandas DataFrame
+    df = pd.read_csv("./data/gpt_postdefined_users.csv")
+
+    # Convert all columns to text Series
+    text_series_list = [df[col].astype(str) for col in df.columns]
+
+    # Join each text Series into a single string
+    text = [' '.join(text_series) for text_series in text_series_list]
+
 
     # split into chunks
     char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
