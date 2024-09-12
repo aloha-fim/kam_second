@@ -145,10 +145,7 @@ def process_json_magic(query):
     ##### Microsoft ######
     with open("./data/postdefined_users_gpt.csv", encoding = "ISO-8859-1") as file:
         reader = csv.reader(file, delimiter=",")
-        text_reader = list(reader)
-        # iterate
-        text = [i.replace(",", " | ") for i in text_reader]
-
+        text = list(reader)
 
     # reading csv file
     #text = open("./data/postdefined_users_gpt.csv", "r")
