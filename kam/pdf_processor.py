@@ -154,7 +154,7 @@ def process_json_magic(query):
         text = ' '.join([i for i in text])
 
     # replacing ',' by | for GPT
-        text = text.replace(",", " | ")
+        text = text.replace(" ", " | ")
 
 
     # split into chunks
