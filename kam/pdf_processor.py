@@ -127,7 +127,7 @@ def process_json_magic(query):
     #text = read_json_chat()
     #print(text)
 
-    loader = CSVLoader(file_path="./data/postdefined_users.csv")
+    loader = CSVLoader(file_path="./data/postdefined_users.csv", encoding = 'UTF-8')
     text = loader.load()
 
     # split into chunks
