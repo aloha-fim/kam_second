@@ -17,8 +17,9 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_openai import OpenAI
 # [deprecated] from langchain.callbacks import get_openai_callback
 from langchain_community.callbacks import get_openai_callback
-from langchain_community.document_loaders import JSONLoader
-from langchain.document_loaders.csv_loader import CSVLoader
+from langchain_community.document_loaders import JSONLoader, CSVLoader
+# [deprecated] from langchain.document_loaders.csv_loader import CSVLoader
+# from langchain_community.document_loaders import CSVLoader
 
 # chroma
 from langchain.schema import Document
@@ -139,6 +140,11 @@ def process_json_magic(query):
     ##### pandas #####
     # Read the CSV file into a pandas DataFrame
     #df = pd.read_csv("./data/gpt_postdefined_users.csv")
+
+    ##### Microsoft ######
+    #with open("./data/gpt_postdefined_users.csv") as file:
+    #    reader = csv.reader(file)
+    #    text = list(reader)
 
     # reading csv file
     text = open("./data/postdefined_users_gpt.csv", "r")
