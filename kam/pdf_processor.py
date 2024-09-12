@@ -147,20 +147,23 @@ def process_json_magic(query):
         reader = csv.reader(file, delimiter=",")
         text_reader = list(reader)
 
+    # gpt rate limit of token
+        text = text_reader[:3000]
+
     # reading csv file
     #text = open("./data/postdefined_users_gpt.csv", "r")
 
     # turn list into string
     #    text = ' '.join([i for i in text])
-        text = ''.join(str(x) for x in text_reader)
+        text = ' '.join(str(x) for x in text_reader)
 
     # replacing ',' by | for GPT
         text = text.replace(" ", " | ")
 
 
     # split into chunks
-    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=256,
-                                               chunk_overlap=25, length_function=len)
+    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
+                                               chunk_overlap=200, length_function=len)
 
     text_chunks = char_text_splitter.split_text(text)
 
