@@ -40,18 +40,16 @@ def load_data():
 @core.route('/gpt_more', methods=['GET','POST'])
 def gpt_more():
 
-
-    if request.method == 'POST':
-
-        question = request.form['question']
+	if request.method == 'POST':
+		question = request.form['question']
 
 		answer = process_json_magic(question)
 
 		response = answer.get('output_text')
 
-        return render_template('upload_gpt_more.html', response=response)
+		return render_template('upload_gpt_more.html', response=response)
 
-    return render_template('upload_gpt_more.html')
+	return render_template('upload_gpt_more.html')
 
 
 
