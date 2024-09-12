@@ -146,16 +146,18 @@ def process_json_magic(query):
     with open("./data/postdefined_users_gpt.csv", encoding = "ISO-8859-1") as file:
         reader = csv.reader(file, delimiter=",")
         text = list(reader)
+    # iterate
+    test = [i.replace(",", " | ") for i in test]
 
 
     # reading csv file
     #text = open("./data/postdefined_users_gpt.csv", "r")
 
-    # joining with space content of text
-    text = ' '.join([i for i in text])
+    # joining with space content of text, only if csv is formatted with space
+    # text = ' '.join([i for i in text])
 
     # replacing ',' by | for GPT
-    text = text.replace(",", " | ")
+    # text = text.replace(",", " | ")
 
 
     # split into chunks
