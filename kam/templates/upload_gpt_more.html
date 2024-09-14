@@ -15,7 +15,7 @@
 
 <div class="container">
   <br>
-  <h5>Kamuno GPT</h5>
+  <h5>Kamuno GPT (Demo)</h5>
   <form class="form-horizontal" action="{{ url_for('core.gpt_more') }}" method="POST" enctype="multipart/form-data">
     <br>
     <div class="form-group">
@@ -45,8 +45,13 @@
     </div>
   </div>
   {% else %}
-    <p>
-    <img src="{{url_for('static', filename='assets/images/gpt-4.jpg')}}" alt="KamunoAI" class="form-control">
+  <p>
+    <div class="col-lg-4 col-sm-6 mb-4">
+    <!-- Portfolio item 3-->
+      <div class="portfolio-item">
+        <img src="{{url_for('static', filename='assets/images/gpt-4.jpg')}}" alt="KamunoAI" class="form-control">
+      </div>
+    </div>
   {% endif %}
 </div>
 

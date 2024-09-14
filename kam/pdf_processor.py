@@ -152,7 +152,7 @@ def process_json_magic(query):
         text_reader = list(reader)
 
     # gpt rate limit of token
-        text_limit = text_reader[:50000]
+        text_limit = text_reader[:]
 
     # turn list into string
         for t in text_limit:
