@@ -1,13 +1,13 @@
 # Kamuno Analytics
 
-![alt text](cover_page.jpg)
+![alt text](./kam/static/assets/images/cover_page.jpg)
 
 ## Configuration
 - command: pip freeze > requirements.txt
 - activate virtual environment
 - command: python app.py
 
-![alt text](python_app.jpg)
+![alt text](./kam/static/assets/images/python_app.jpg)
 
 ## Scrape Data
 - Use Beautiful Soup into txt / csv
@@ -23,7 +23,7 @@
 - dates
 ```
 
-![alt text](code_seed.jpg)
+![alt text](./kam/static/assets/images/code_seed.jpg)
 
 
 ## add to the dataset - age group and count
@@ -39,24 +39,24 @@
 - API route /load_data created to output records
 ```
 
-![alt text](api_route.jpg)
+![alt text](./kam/static/assets/images/api_route.jpg)
 
 ## Postgres
 ```
 - connect to Postgres SQL database
 ```
 
-![alt text](psql_records-2.jpg)
+![alt text](./kam/static/assets/images/psql_records-2.jpg)
 
 
 ## Visualize
 - Plotly and Dash
 
-![alt text](dash_touch_image.jpg)
+![alt text](./kam/static/assets/images/dash_touch_image.jpg)
 
-![alt text](dash_filter_image.jpg)
+![alt text]./kam/static/assets/images/(dash_filter_image.jpg)
 
-![alt text](simple_graph_image.jpg)
+![alt text]./kam/static/assets/images/(simple_graph_image.jpg)
 
 ## LLM AI
 - Azure Cloud

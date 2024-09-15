@@ -274,7 +274,7 @@ def create_dashintro(app):
     app.config['suppress_callback_exceptions'] = True
 
 
-    df = pd.read_csv('./data/postdefined_users.csv')
+    df = pd.read_csv('./data/postdefined_users_gpt.csv')
 
     fig = px.histogram(df, x='run_year', color="age_group")
     fig.update_xaxes(type='category')
@@ -286,7 +286,7 @@ def create_dashintro(app):
         dcc.Graph(figure=fig),
         dcc.Textarea(
             id='textarea-example',
-            value='\tFootnotes: \n\t* Missing age data are from runners who declined to provide their birth year.\n\n\tCaveats: \n\t* Duplicate entries exist for runners with different total times in the same race.\n\t* The source organization does not consistently adhere to the criteria of sorting records by the first letter of the last name.\n\t(For example, the record for "Frei Daniel" on this page https://services.datasport.com/2014/lauf/zuerich/landb.htm does not match the expected initial "b")\n\n\tSource Errors: \n\t* Runners have the option to opt out of having their race records published, which impacts the sample size available for analysis.\n\t* Some records fall outside the scope of the source requirements, which include records only from A to Z. \n\t(For instance, this page https://services.datasport.com/2014/lauf/zuerich/landaus.htm with initials "aus" lists Australians running the race under separate registration)',
+            value='\tFootnotes: \n\t* Deleted missing age data from runners who declined to provide their birth year.\n\n\tCaveats: \n\t* Duplicate entries exist for runners with different total times in the same race.\n\t* The source organization does not consistently adhere to the criteria of sorting records by the first letter of the last name.\n\t(For example, the record for "Frei Daniel" on this page https://services.datasport.com/2014/lauf/zuerich/landb.htm does not match the expected initial "b")\n\n\tSource Errors: \n\t* Runners have the option to opt out of having their race records published, which impacts the sample size available for analysis.\n\t* Some records fall outside the scope of the source requirements, which include records only from A to Z. \n\t(For instance, this page https://services.datasport.com/2014/lauf/zuerich/landaus.htm with initials "aus" lists Australians running the race under separate registration)',
             style={'width': '100%', 'height': 300},
         ),
         html.Div(id='textarea-example-output', style={'whiteSpace': 'pre-line'})
