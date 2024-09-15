@@ -3,7 +3,7 @@ import plotly.express as px
 
 import pandas as pd
 
-df = pd.read_csv('postdefined_users.csv')
+df = pd.read_csv('postdefined_users_gpt.csv')
 
 
 
