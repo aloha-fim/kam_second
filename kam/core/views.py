@@ -80,11 +80,14 @@ def azure_refactor():
 	#df = joblib.load(file)
 	#file.close()
 
-	df = pd.read_csv("./data/postdefined_users_azure_data.csv", encoding = "utf-8")
+	df = pd.read_csv("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1")
 
 	if request.method == 'POST':
 
-		question = request.form['question']
+		#question = request.form['question']
+
+		# hack
+		question = "Can you find inspiration advice to get over my accident?"
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=10)
 
