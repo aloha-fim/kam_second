@@ -6,11 +6,11 @@
 - Azure Cloud
 
 ```
-"The marathon is not really about the marathon - it's about the shared struggle. And it's not only the marathon but the training."
+"The marathon is not really about the marathon - it's about the shared struggle.
+ And it's not only the marathon but the training."
 -Bill Buffum, Boulder Road Runners
 
-- App to show more than just records of running times of the Zurich marathon.
-
+- The App shows more than just running time records of the Zurich marathon.
 - Azure AI is introduced to improve the "mental" aspect of running a marathon.
 
 - A feature of uplifting and inspiration quotes is attached to the original dataset, on how each runner provides their reason for running the race.
@@ -18,13 +18,16 @@
 - This feature was embedded with Azure AI in python and postgres to provide recommendations
 for current and potential runners on how to succeed.
 
-- Runners can query what in their mind is causing a roadblock.
+- Runners can query what on their mind is causing a roadblock.
 Azure AI will recommend runners who feel the same way
 and share their guidance to push through the mental challenge.
+```
 
 # Motivation for App
 
-- 2 days ago I was involved in a bicycle accident and it put me in a tough spot.
+```
+- 2 days ago I was involved in a serious bicycle accident that cracked my helmet.
+ It put me in a tough spot.
 
 - I needed a reason to Motivate and push through the challenges of doubt and injury.
 
@@ -35,16 +38,18 @@ and share their guidance to push through the mental challenge.
 
 ```
 - First, I tried to hack the embeddings with Langchain.
-- However, recommendations were sparse and even unavailable with the LLM.
+- However, recommendations were sparse and even unavailable from the LLM.
 ```
 
 ![alt text](./kam/static/assets/images/recommend_azure.jpg)
 
 ```
 - Then I made improvements using Azure AI.
-- I took in advice from the Microsoft RAGHack sessions such how adding markdowns to csv
-can have an affect with LLM's and learned the limitations of my app to make future improvements
-such as how Flask does not the async functionality of FastAPI for faster processing.
+- I took in advice from the Microsoft RAGHack livestreams such how adding markdowns to csv
+can have an affect with LLM's and learned the limitations of my app to make future improvements.
+I am now aware Flask does not the async functionality of FastAPI for faster processing of LLM.
+I understand the importance of providing sources to LLM results and have them
+in my dataset.
 
 ```
 
@@ -56,12 +61,13 @@ For instance, I asked "Can you provide inspirational quotes to get over my accid
 
 - Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick. Don't lose faith."
 and "You may find your exasperation turns to inspiration", respectively.
+I actually feel better reading these positive thoughts.
 
 - I hope to continue improving the app so that runners can focus on their perspective to transform
 challenges into growth.
 
--Maybe runners with like-minded reasons for getting through the marathon
-could run together as a group.  This would be something cool to build upon.
+- In the future, runners with like-minded reasons for getting through the
+marathon could run together as a group. This would be something cool to build upon.
 ```
 
 - app has bugs, but ipynb (graphs_azure.ipynb) shows working example of Azure AI.
