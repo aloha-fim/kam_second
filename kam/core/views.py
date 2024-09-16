@@ -61,7 +61,7 @@ def gpt_more():
 def azure_more():
 
     ##### Microsoft ######
-	with open("../data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
+	with open("/kam_second/data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
 		reader = csv.reader(file)
 		response = list(reader)
 
@@ -81,7 +81,7 @@ def azure_refactor():
 	#file.close()
 
     ##### Microsoft ######
-	df = pd.read_csv('../data/postdefined_users_azure_data.csv', index_col=0, encoding = "ISO-8859-1")
+	df = pd.read_csv('/kam_second/data/postdefined_users_azure_data.csv', index_col=0, encoding = "ISO-8859-1")
 
 	if request.method == 'POST':
 
