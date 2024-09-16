@@ -6,17 +6,24 @@
 - Azure Cloud
 
 ```
-- App to show records of the Zurich marathon, showing running times as measure to improve performance.
+"The marathon is not really about the marathon - it's about the shared struggle. And it's not only the marathon but the training."
+-Bill Buffum, Boulder Road Runners
+
+- App to show more than just records of running times of the Zurich marathon.
 
 - Azure AI is introduced to improve the "mental" aspect of running a marathon.
-- A feature of uplifting and inspiration quotes was attached to the original dataset,
-as an example on how each runner could provide a reason for running the race.
+- A feature of uplifting and inspiration quotes is attached to the original dataset, on how each runner provides their reason for running the race.
+
 - This feature was embedded with Azure AI in python and postgres to provide recommendations
-for potential runners on how to succeed.
+for current and potential runners on how to succeed.
+
+- Runners can query what in their mind is causing a roadblock.
+Azure AI will recommend runners who feel the same way
+and share their guidance to push through the mental challenge.
 
 # Motivation for App
 
-- 2 days ago I was involved in a bicycle accident and it me in a tough spot.
+- 2 days ago I was involved in a bicycle accident and it put me in a tough spot.
 
 - I needed a reason to Motivate and push through the challenges of doubt and injury.
 
@@ -56,6 +63,7 @@ challenges into growth.
 could run together as a group.  This would be something cool to build upon.
 ```
 
+- app has bugs, but ipynb (graphs_azure.ipynb) shows working example of Azure AI.
 <video controls src="kam/static/raghack.mp4" title="Title"></video>
 - Video: https://drive.google.com/file/d/1803szzAFOaZnbmmcTiGDK0iUmWEitYHW/view?usp=drive_link
 
