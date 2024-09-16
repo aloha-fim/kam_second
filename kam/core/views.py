@@ -61,7 +61,7 @@ def gpt_more():
 def azure_more():
 
     ##### Microsoft ######
-	with open("/kam_second/data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
+	with open("./kam_second/data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
 		reader = csv.reader(file)
 		response = list(reader)
 
