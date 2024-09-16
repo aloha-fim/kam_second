@@ -9,8 +9,10 @@
 - App to show records of the Zurich marathon, showing running times as measure to improve performance.
 
 - Azure AI is introduced to improve the "mental" aspect of running a marathon.
-- A feature of uplifting and inspiration quotes was attached to the original dataset, as an example on how each runner could provide a reason for running the race.
-- This feature was embedded with Azure AI in python and postgres to provide recommendations for potential runners on how to succeed.
+- A feature of uplifting and inspiration quotes was attached to the original dataset,
+as an example on how each runner could provide a reason for running the race.
+- This feature was embedded with Azure AI in python and postgres to provide recommendations
+for potential runners on how to succeed.
 
 # Motivation for App
 
@@ -32,21 +34,30 @@
 
 ```
 - Then I made improvements using Azure AI.
-- I took in advice from the Microsoft RAGHack sessions such how adding markdowns to csv can have an affect with LLM's and learned the limitations of my app to make future improvements such as how Flask does not the async functionality of FastAPI for faster processing.
+- I took in advice from the Microsoft RAGHack sessions such how adding markdowns to csv
+can have an affect with LLM's and learned the limitations of my app to make future improvements
+such as how Flask does not the async functionality of FastAPI for faster processing.
 
 ```
 
 ![alt text](./kam/static/assets/images/azure_acc.jpg)
 
 ```
-- The result has made an impact.  For instance, I asked "Can you provide inspirational quotes to get over my accident?"
+- The result has made an impact.
+For instance, I asked "Can you provide inspirational quotes to get over my accident?"
 
-- Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick. Don't lose faith." and "You may find your exasperation turns to inspiration", respectively.
+- Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick. Don't lose faith."
+and "You may find your exasperation turns to inspiration", respectively.
 
-- I hope to continue improving the app so that runners can focus on their perspective to transform challenges into growth.  Maybe runners with like-minded reasons for getting through the marathon could run together as a group.  This would be something cool to build upon.
+- I hope to continue improving the app so that runners can focus on their perspective to transform
+challenges into growth.
+
+-Maybe runners with like-minded reasons for getting through the marathon
+could run together as a group.  This would be something cool to build upon.
 ```
 
 <video controls src="kam/static/raghack.mp4" title="Title"></video>
+- Video: https://drive.google.com/file/d/1803szzAFOaZnbmmcTiGDK0iUmWEitYHW/view?usp=drive_link
 
 ## Configuration
 - command: pip freeze > requirements.txt
@@ -97,8 +108,6 @@
 
 ## Visualize
 - Plotly and Dash
-
-![alt text](./kam/static/assets/images/cover_page.jpg)
 
 ![alt text](./kam/static/assets/images/dash_touch_image.jpg)
 
