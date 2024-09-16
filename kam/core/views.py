@@ -62,7 +62,7 @@ def azure_more():
 
     ##### Microsoft ######
 	with open("/kam_second/data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
-		reader = csv.reader(file, delimiter=",")
+		reader = csv.reader(file)
 		response = list(reader)
 
 		return render_template('upload_azure_more.html', response=response)
@@ -83,9 +83,9 @@ def azure_refactor():
     ##### Microsoft ######
 	df = pd.read_csv('/kam_second/data/postdefined_users_azure_data.csv', index_col=0, encoding = "ISO-8859-1")
 
-	question = request.form['question']
-
 	if request.method == 'POST':
+
+		question = request.form['question']
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=10)
 
