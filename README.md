@@ -61,8 +61,8 @@ can have an affect with LLM's and learned the limitations of my app to make futu
 - The result has made an impact.
 For instance, I asked "Can you provide inspirational quotes to get over my accident?"
 
-- Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick. Don't lose faith."
-and "You may find your exasperation turns to inspiration", respectively.
+- Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick.
+Don't lose faith." and "You may find your exasperation turns to inspiration", respectively.
 
 
 - The intention is to feel better after reading these positive thoughts.

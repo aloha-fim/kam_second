@@ -25,7 +25,7 @@ client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
-df = pd.read_csv("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1")
+df = pd.read_csv("./data/postdefined_users_azure_data.csv", encoding = "utf-8")
 
 
 def cosine_similarity(a, b):
@@ -39,7 +39,7 @@ def search_docs(df, user_query, top_n=10, to_print=True):
         user_query,
         model="text-embedding-ada-002" # model should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
     )
-    df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(str(x), str(embedding)))
+    df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(x, embedding))
 
     res = (
         df.sort_values("similarities", ascending=False)
