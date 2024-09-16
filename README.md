@@ -12,6 +12,7 @@
 - App to show more than just records of running times of the Zurich marathon.
 
 - Azure AI is introduced to improve the "mental" aspect of running a marathon.
+
 - A feature of uplifting and inspiration quotes is attached to the original dataset, on how each runner provides their reason for running the race.
 
 - This feature was embedded with Azure AI in python and postgres to provide recommendations
