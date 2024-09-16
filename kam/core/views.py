@@ -81,9 +81,9 @@ def azure_refactor():
 	#file.close()
 
     ##### Microsoft ######
-	with open("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
-		reader = csv.reader(file)
-		df = list(reader)
+	with open("./data/postdefined_users_azure_data.csv", index_col=[0], encoding = "ISO-8859-1") as file:
+		df = csv.reader(file)
+
 
 	if request.method == 'POST':
 
