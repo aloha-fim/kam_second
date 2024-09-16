@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, jsonify, Response, Blueprint,
 #from werkzeug.utils import secure_filename
 import requests
 import json
+import csv
 
 #from flask_login import current_user, login_required
 from kam import Db
@@ -36,7 +37,7 @@ def load_data():
 	return jsonify(users_json)
 
 
-# GPT RAG prompt input, using LangChain to link with json route /load_data.
+# Chat GPT prompt input using LangChain.
 @core.route('/gpt_more', methods=['GET','POST'])
 def gpt_more():
 
@@ -50,6 +51,20 @@ def gpt_more():
 		return render_template('upload_gpt_more.html', response=response)
 
 	return render_template('upload_gpt_more.html')
+
+
+# GPT RAG Azure prompt input using Azure AI.
+@core.route('/azure_more', methods=['GET','POST'])
+def azure_more():
+
+    ##### Microsoft ######
+	with open("./kam_second/data/postdefined_users_azure_result.csv", encoding = "ISO-8859-1") as file:
+		reader = csv.reader(file, delimiter=",")
+		response = list(reader)
+
+		return render_template('upload_azure_more.html', response=response)
+
+	return render_template('upload_azure_more.html')
 
 
 

@@ -1,6 +1,11 @@
-# Kamuno Analytics
+# Swiss Analytics
 
-![alt text](./kam/static/assets/images/cover_page.jpg)
+## LLM AI
+- Azure Cloud
+
+
+
+
 
 ## Configuration
 - command: pip freeze > requirements.txt
@@ -46,18 +51,19 @@
 - connect to Postgres SQL database
 ```
 
-![alt text](./kam/static/assets/images/psql_records-2.jpg)
+![alt text](./kam/static/assets/images/psql_records.jpg)
 
 
 ## Visualize
 - Plotly and Dash
 
+![alt text](./kam/static/assets/images/cover_page.jpg)
+
 ![alt text](./kam/static/assets/images/dash_touch_image.jpg)
 
-![alt text]./kam/static/assets/images/(dash_filter_image.jpg)
+![alt text](./kam/static/assets/images/dash_filter_image.jpg)
 
-![alt text]./kam/static/assets/images/(simple_graph_image.jpg)
+![alt text](./kam/static/assets/images/simple_graph_image.jpg)
 
-## LLM AI
-- Azure Cloud
+
 

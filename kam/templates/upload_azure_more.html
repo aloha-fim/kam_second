@@ -1,0 +1,38 @@
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>Azure RAG</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+<body>
+
+<div class="container">
+  <br>
+  <h5>Azure AI</h5>
+
+  <p>
+  <div class="col-sm-offset-2 col-sm-10">
+  <div class="card border-info mb-3" style="max-width: 20rem;">
+    <div class="card-header">
+      Insight from "Can you find inspiration advice to get over my accident?"
+    </div>
+    <div class="card-body text-info">
+      <h5 class="card-title"></h5>
+      <p class="card-text">{{ response }}</p>
+      <!--<a href="#" class="btn btn-primary">Activate</a>-->
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
+
+{% endblock %}
