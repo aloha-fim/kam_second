@@ -61,7 +61,7 @@ def gpt_more():
 def azure_more():
 
     ##### Microsoft ######
-	with open("./kam_second/data/postdefined_users_azure_result.csv", encoding = "ISO-8859-1") as file:
+	with open("/kam_second/data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
 		reader = csv.reader(file, delimiter=",")
 		response = list(reader)
 
@@ -74,11 +74,14 @@ def azure_more():
 @core.route('/azure_refactor', methods=['GET','POST'])
 def azure_refactor():
 
-	df = pd.read_pickle('./data/postdefined_users_azure_data.pkl')
+	#df = pd.read_pickle('./data/postdefined_users_azure_data.pkl')
 
 	#file = open('./data/postdefined_users_azure_data.pkl', 'rb')   # 'rb' for reading binary file
 	#df = joblib.load(file)
 	#file.close()
+
+    ##### Microsoft ######
+	df_users = pd.read_csv('/kam_second/data/postdefined_users_azure_data.csv', index_col=0, encoding = "ISO-8859-1")
 
 	question = request.form['question']
 
