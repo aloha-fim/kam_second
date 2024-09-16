@@ -50,9 +50,8 @@ and share their guidance on how to push through the mental challenge.
 - Then I made improvements using Azure AI.
 - I took in advice from the Microsoft RAGHack livestreams such how adding markdowns to csv
 can have an affect with LLM's and learned the limitations of my app to make future improvements.
-I am now aware Flask does not the async functionality of FastAPI for faster processing from the LLM.
-I understand the importance of providing sources to LLM results and have them
-in my dataset.
+* Flask does not the async functionality of FastAPI for faster processing from the LLM.
+* Importance of providing sources to LLM results and have them in my dataset.
 
 ```
 
@@ -64,9 +63,10 @@ For instance, I asked "Can you provide inspirational quotes to get over my accid
 
 - Azure AI responded from Ebert and Liedtke with "Sometimes life hits you in the head with a brick. Don't lose faith."
 and "You may find your exasperation turns to inspiration", respectively.
-I actually feel better reading these positive thoughts.
 
-- I hope to continue improving the app so that runners can focus on their perspective to transform
+
+- The intention is to feel better after reading these positive thoughts.
+- I hope to continue improving the app so that runners can focus on their perspective that can transform
 challenges into growth.
 
 - In the future, runners with like-minded reasons for getting through the
