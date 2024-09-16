@@ -10,13 +10,14 @@
  And it's not only the marathon but the training."
 -Bill Buffum, Boulder Road Runners
 
+- Marathon sites focus on the physical metrics as a measure of performance.
 - The App shows more than just running time records of the Zurich marathon.
 - We introduce the "mental" aspect of running a marathon.
 
 - A feature of uplifting and inspiration quotes is attached to the original dataset,
 on how each runner provides their reason for running the race.
 
-- Azure AI created embeddings of this feature in python and postgres to provide
+- Azure AI creates embeddings of this feature in python and postgres to provide
  recommendations for current and potential runners on how to succeed.
 
 - Runners can now query what on their mind is causing a roadblock.
@@ -49,7 +50,7 @@ and share their guidance on how to push through the mental challenge.
 - Then I made improvements using Azure AI.
 - I took in advice from the Microsoft RAGHack livestreams such how adding markdowns to csv
 can have an affect with LLM's and learned the limitations of my app to make future improvements.
-I am now aware Flask does not the async functionality of FastAPI for faster processing of LLM.
+I am now aware Flask does not the async functionality of FastAPI for faster processing from the LLM.
 I understand the importance of providing sources to LLM results and have them
 in my dataset.
 
