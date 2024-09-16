@@ -25,7 +25,9 @@ client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
-df = pd.read_csv('./data/postdefined_users_azure_data.csv', encoding = "ISO-8859-1")
+with open("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
+		reader = csv.reader(file)
+		df = list(reader)
 
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))

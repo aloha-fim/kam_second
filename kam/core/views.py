@@ -11,7 +11,7 @@ from kam import Db
 from kam.models import KamUser
 #from kam.core.forms import KamPostForm
 from kam.pdf_processor import process_json_magic
-from kam.pdf_processor_azure import search_docs
+from kam.pdf_processor_azure import search_docs, get_embedding, cosine_similarity
 
 from dotenv import load_dotenv
 
@@ -81,7 +81,9 @@ def azure_refactor():
 	#file.close()
 
     ##### Microsoft ######
-	df = pd.read_csv('./data/postdefined_users_azure_data.csv', index_col=0, encoding = "ISO-8859-1")
+	with open("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
+		reader = csv.reader(file)
+		df = list(reader)
 
 	if request.method == 'POST':
 
