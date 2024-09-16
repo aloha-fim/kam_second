@@ -11,16 +11,18 @@
 -Bill Buffum, Boulder Road Runners
 
 - The App shows more than just running time records of the Zurich marathon.
-- Azure AI is introduced to improve the "mental" aspect of running a marathon.
+- We introduce the "mental" aspect of running a marathon.
 
-- A feature of uplifting and inspiration quotes is attached to the original dataset, on how each runner provides their reason for running the race.
+- A feature of uplifting and inspiration quotes is attached to the original dataset,
+on how each runner provides their reason for running the race.
 
-- This feature was embedded with Azure AI in python and postgres to provide recommendations
-for current and potential runners on how to succeed.
+- Azure AI created embeddings of this feature in python and postgres to provide
+ recommendations for current and potential runners on how to succeed.
 
-- Runners can query what on their mind is causing a roadblock.
+- Runners can now query what on their mind is causing a roadblock.
+
 Azure AI will recommend runners who feel the same way
-and share their guidance to push through the mental challenge.
+and share their guidance on how to push through the mental challenge.
 ```
 
 # Motivation for App
