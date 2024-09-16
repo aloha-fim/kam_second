@@ -148,7 +148,7 @@ def process_json_magic(query):
 
     ##### Microsoft ######
     with open("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1") as file:
-        reader = csv.reader(file, delimiter=",")
+        reader = csv.reader(file)
         text_reader = list(reader)
 
     # gpt rate limit of token
