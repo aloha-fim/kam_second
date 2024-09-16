@@ -1,5 +1,7 @@
 # Swiss Analytics
 
+## URL: https://kam-second.onrender.com/
+
 ## LLM AI
 - Azure Cloud
 
