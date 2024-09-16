@@ -46,6 +46,7 @@
 - I hope to continue improving the app so that runners can focus on their perspective to transform challenges into growth.  Maybe runners with like-minded reasons for getting through the marathon could run together as a group.  This would be something cool to build upon.
 ```
 
+<video controls src="kam/static/raghack.mp4" title="Title"></video>
 
 ## Configuration
 - command: pip freeze > requirements.txt
