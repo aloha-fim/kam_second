@@ -40,7 +40,7 @@ def search_docs(df, user_query, top_n=10, to_print=True):
         user_query,
         model="text-embedding-ada-002" # model should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
     )
-    df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(x, embedding))
+    df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(float(x), float(embedding)))
 
     res = (
         df.sort_values("similarities", ascending=False)
