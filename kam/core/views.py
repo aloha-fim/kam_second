@@ -4,6 +4,7 @@ import requests
 import json
 import csv
 import pandas as pd
+import joblib
 
 #from flask_login import current_user, login_required
 from kam import Db
@@ -73,7 +74,12 @@ def azure_more():
 @core.route('/azure_refactor', methods=['GET','POST'])
 def azure_refactor():
 
-	df = pd.read_csv('./data/postdefined_users_azure_data.csv', encoding = "ISO-8859-1")
+	df = pd.read_pickle('./data/postdefined_users_azure_data.pkl')
+
+	#file = open('./data/postdefined_users_azure_data.pkl', 'rb')   # 'rb' for reading binary file
+	#df = joblib.load(file)
+	#file.close()
+
 	question = request.form['question']
 
 	if request.method == 'POST':
