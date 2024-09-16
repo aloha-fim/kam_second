@@ -80,10 +80,7 @@ def azure_refactor():
 	#df = joblib.load(file)
 	#file.close()
 
-    ##### Microsoft ######
-	with open("./data/postdefined_users_azure_data.csv") as file:
-		df = csv.reader(file)
-
+	df = pd.read_csv("./data/postdefined_users_azure_data.csv")
 
 	if request.method == 'POST':
 

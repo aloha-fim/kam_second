@@ -25,8 +25,7 @@ client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
-with open("./data/postdefined_users_azure_data.csv") as file:
-		df = csv.reader(file)
+df = pd.read_csv("./data/postdefined_users_azure_data.csv")
 
 
 def cosine_similarity(a, b):
