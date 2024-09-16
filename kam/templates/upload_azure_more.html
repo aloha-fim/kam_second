@@ -4,7 +4,7 @@
 <html lang="en">
     <head>
 
-        <title>Azure RAG</title>
+        <title>Azure AI</title>
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,21 +15,44 @@
 
 <div class="container">
   <br>
-  <h5>Azure AI</h5>
-
+  <h5>Azure RAG</h5>
+  <form class="form-horizontal" action="{{ url_for('core.azure_refactor') }}" method="POST" enctype="multipart/form-data">
+    <br>
+    <div class="form-group">
+      <div class="col-sm-10">
+        <input type="text" class="form-control" id="question" placeholder="Azure AI their thoughts ..." name="question" required>
+      </div>
+    </div>
+    <br>
+    <div class="form-group">
+      <div class="col-sm-offset-2 col-sm-10">
+        <button type="submit" value="Submit" class="btn btn-outline-dark btn-md px-3">Submit</button>
+      </div>
+    </div>
+    <br>
+  </form>
+  {% if response %}
   <p>
   <div class="col-sm-offset-2 col-sm-10">
   <div class="card border-info mb-3" style="max-width: 20rem;">
     <div class="card-header">
-      Insight from "Can you find inspiration advice to get over my accident?"
+      Insight
     </div>
     <div class="card-body text-info">
       <h5 class="card-title"></h5>
-      <p class="card-text">{{ response }}</p>
+      <p class="card-text">{{ response['quote'] }}</p>
       <!--<a href="#" class="btn btn-primary">Activate</a>-->
     </div>
   </div>
-
+  {% else %}
+  <p>
+    <div class="col-lg-4 col-sm-6 mb-4">
+    <!-- Portfolio item 3-->
+      <div class="portfolio-item">
+        <img src="{{url_for('static', filename='assets/images/other_graph.jpg')}}" alt="ChatGPT" class="form-control">
+      </div>
+    </div>
+  {% endif %}
 </div>
 
 </body>

@@ -3,12 +3,14 @@ from flask import Flask, request, render_template, jsonify, Response, Blueprint,
 import requests
 import json
 import csv
+import pandas as pd
 
 #from flask_login import current_user, login_required
 from kam import Db
 from kam.models import KamUser
 #from kam.core.forms import KamPostForm
 from kam.pdf_processor import process_json_magic
+from kam.pdf_processor_azure import search_docs
 
 from dotenv import load_dotenv
 
@@ -67,9 +69,22 @@ def azure_more():
 	return render_template('upload_azure_more.html')
 
 
+# GPT RAG Azure prompt input using Azure AI (refactored).
+@core.route('/azure_refactor', methods=['GET','POST'])
+def azure_refactor():
 
-# Define dashapp route
-@core.route('/dashapp/', methods=['GET','POST'])
+	df = pd.read_csv('./data/postdefined_users_azure_data.csv', encoding = "ISO-8859-1")
+	question = request.form['question']
 
-def redirect_to_dashapp():
-    return redirect('/dashapp/')
+	if request.method == 'POST':
+    ##### Microsoft ######
+		response = search_docs(df, question, top_n=10)
+
+		return render_template('upload_azure_more.html', response=response)
+
+	return render_template('upload_azure_more.html')
+
+
+
+
+

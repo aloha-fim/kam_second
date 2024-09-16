@@ -40,5 +40,11 @@ def redirect_to_dashboth():
 def redirect_to_dashintro():
     return redirect('/dashintro/')
 
+# Define dashapp route
+@graph.route('/dashapp/', methods=['GET','POST'])
+
+def redirect_to_dashapp():
+    return redirect('/dashapp/')
+
 
 
