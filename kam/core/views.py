@@ -87,13 +87,14 @@ def azure_refactor():
 
 		question = request.form['question']
 
-
+	# for later: https://atoonk.medium.com/diving-into-ai-an-exploration-of-embeddings-and-vector-databases-a7611c4ec063
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=2)
 		# https://blog.finxter.com/5-best-ways-to-convert-a-pandas-dataframe-to-a-jinja2-table/
-		html_table = response.to_html()
+		quote_table = response['quote'].to_html()
+		runner_table = response['full_name'].to_html()
 
-		return render_template('upload_azure_more.html', html_table=html_table)
+		return render_template('upload_azure_more.html', quote_table=quote_table, runner_table=runner_table)
 
 	return render_template('upload_azure_more.html')
 
