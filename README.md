@@ -3,7 +3,6 @@
 ## URL: https://kam-second.onrender.com/
 
 ## LLM AI
-- Azure Cloud
 
 ```
 "The marathon is not really about the marathon - it's about the shared struggle.
@@ -13,18 +12,23 @@
 - Marathon sites focus on the physical metrics as a measure of performance.
 - The App shows more than just running time records of the Zurich marathon.
 - We introduce the "mental" aspect of running a marathon.
+```
 
+- Azure AI Cloud
+
+```
 - A feature of uplifting and inspiration quotes is attached to the original dataset,
 on how each runner provides their reason for running the race.
 
 - Azure AI creates embeddings of this feature in python and postgres to provide
  recommendations for current and potential runners on how to succeed.
+```
 
 - Runners can now query what on their mind is causing a roadblock.
 
-Azure AI will recommend runners who feel the same way
+- Azure AI will recommend runners who feel the same way
 and share their guidance on how to push through the mental challenge.
-```
+
 
 # Motivation for App
 
