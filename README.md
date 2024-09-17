@@ -33,13 +33,14 @@ and share their guidance on how to push through the mental challenge.
 # Motivation for App
 
 ```
-- 2 days ago I was involved in a serious bicycle accident that cracked my helmet.
+- 2 days ago I was involved in a serious bicycle accident to an extend my helmet cracked.
  It put me in a tough spot.
 
 - I needed a reason to Motivate and push through the challenges of doubt and injury.
-
-- So I though of creating an app with inspirational quotes to reframe my mindset.
+- So I thought of creating an app with inspirational quotes to reframe my mindset.
 ```
+
+# First Attempt without Azure AI
 
 ![alt text](./kam/static/assets/images/first_attempt.jpg)
 
@@ -47,6 +48,8 @@ and share their guidance on how to push through the mental challenge.
 - First, I tried to hack the embeddings with Langchain.
 - However, recommendations were sparse and even unavailable from the LLM.
 ```
+
+# Improvement with Azure AI
 
 ![alt text](./kam/static/assets/images/recommend_azure.jpg)
 
