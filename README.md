@@ -69,13 +69,21 @@ Don't lose faith." and "You may find your exasperation turns to inspiration", re
 - I hope to continue improving the app so that runners can focus on their perspective that can transform
 challenges into growth.
 
-- In the future, runners with like-minded reasons for getting through the
-marathon could run together as a group. This would be something cool to build upon.
+- In the future, the app could find runners with like-minded reasons
+for overcoming the marathon to run together as a group.
+- They can validate their success after the race.
+This would be something cool to build upon.
 ```
 
 - app has bugs, but ipynb (graphs_azure.ipynb) shows working example of Azure AI.
 <video controls src="kam/static/raghack.mp4" title="Title"></video>
 - Video: https://drive.google.com/file/d/1803szzAFOaZnbmmcTiGDK0iUmWEitYHW/view?usp=drive_link
+
+
+## Running for Cause over for Records
+![alt text](./kam/static/assets/images/group_4.jpg)
+![alt text](./kam/static/assets/images/group_5.jpg)
+![alt text](./kam/static/assets/images/group_6.jpg)
 
 ## Configuration
 - command: pip freeze > requirements.txt
