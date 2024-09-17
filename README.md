@@ -42,8 +42,6 @@ and share their guidance
 ```
 
 # First Attempt without Azure AI
-![alt text](./kam/static/assets/images/gpt_cover.jpg)
-![alt text](./kam/static/assets/images/gpt_query.jpg)
 ![alt text](./kam/static/assets/images/first_attempt.jpg)
 
 ```
@@ -52,7 +50,7 @@ and share their guidance
 ```
 
 # Improvement with Azure AI
-
+![alt text](./kam/static/assets/images/azure_front.jpg)
 ![alt text](./kam/static/assets/images/azure_cover.jpg)
 ![alt text](./kam/static/assets/images/recommend_azure.jpg)
 
