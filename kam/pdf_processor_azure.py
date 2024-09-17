@@ -40,6 +40,10 @@ def search_docs(df, user_query, top_n=10, to_print=True):
         user_query,
         model="text-embedding-ada-002" # model should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
     )
+    # Editing of embedding
+    df['ada_v2'].str.replace('\,$','K',regex=True)
+    df['ada_v2'] = df['ada_v2'] + "]"
+
     # https://anupampawar.com/2024/04/03/ufuncnolooperror-ufunc-multiply-did-not-contain-a-loop-with-signature-matching-types/
     # Convert embeddings from string format back to numpy array
     df['ada_v2'] = df['ada_v2'].apply(lambda x: np.array(ast.literal_eval(x)))
