@@ -50,14 +50,14 @@
   <p>
     <p>
     <div class="col-sm-offset-2 col-sm-10">
-    <div class="card border-info mb-3" style="max-width: 20rem;">
+    <div class="card border-info mb-3" style="max-width: 40rem;">
       <div class="card-header">
-        Azure AI
+
       </div>
       <div class="card-body text-info">
         <h5 class="card-title"></h5>
 
-        <p class="card-text">{{ html_table|safe }}</p>
+        <p class="card-text">Runner {{ html_table.full_name|safe }} : {{ html_table.quote|safe }}</p>
           <!--<a href="#" class="btn btn-primary">Activate</a>-->
 
       </div>
