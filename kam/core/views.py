@@ -84,10 +84,9 @@ def azure_refactor():
 
 	if request.method == 'POST':
 
-		#question = request.form['question']
+		question = request.form['question']
 
-		# hack
-		question = "Can you find inspiration advice to get over my accident?"
+
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=10)
 
