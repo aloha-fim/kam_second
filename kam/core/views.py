@@ -4,6 +4,7 @@ import requests
 import json
 import csv
 import pandas as pd
+from pandas import DataFrame
 import joblib
 
 #from flask_login import current_user, login_required
@@ -90,7 +91,9 @@ def azure_refactor():
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=2)
 
-		return render_template('upload_azure_more.html', response=response)
+		html_table = response.to_html()
+
+		return render_template('upload_azure_more.html', html_table=html_table)
 
 	return render_template('upload_azure_more.html')
 
