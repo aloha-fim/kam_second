@@ -54,7 +54,7 @@ def search_docs(df, user_query, top_n=2, to_print=True):
     df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(x, embedding))
 
     response = (
-        df['full_name','quote','similarities'].sort_values("similarities", ascending=False)
+        df[['full_name','quote','similarities']].sort_values("similarities", ascending=False)
         .head(top_n)
     )
 
