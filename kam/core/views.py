@@ -88,7 +88,7 @@ def azure_refactor():
 
 
     ##### Microsoft ######
-		response = search_docs(df, question, top_n=10)
+		response = search_docs(df, question, top_n=2)
 
 		return render_template('upload_azure_more.html', response=response)
 

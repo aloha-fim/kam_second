@@ -50,7 +50,6 @@ and share their guidance
 ```
 
 # Improvement with Azure AI
-![alt text](./kam/static/assets/images/azure_front.jpg)
 ![alt text](./kam/static/assets/images/azure_cover.jpg)
 ![alt text](./kam/static/assets/images/recommend_azure.jpg)
 
@@ -74,8 +73,7 @@ Don't lose faith." and "You may find your exasperation turns to inspiration", re
 
 
 - The intention is to feel better after reading these positive thoughts.
-- I hope to continue improving the app so
-that runners can focus on their perspective that can transform
+- I hope to continue improving the app so that runners can focus on their perspective that can transform
 challenges into growth.
 
 - In the future, the app could find runners with like-minded reasons for overcoming the marathon
