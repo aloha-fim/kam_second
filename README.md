@@ -69,8 +69,8 @@ Don't lose faith." and "You may find your exasperation turns to inspiration", re
 - I hope to continue improving the app so that runners can focus on their perspective that can transform
 challenges into growth.
 
-- In the future, the app could find runners with like-minded reasons
-for overcoming the marathon to run together as a group.
+- In the future, the app could find runners with like-minded reasons for overcoming the marathon
+to run together as a group or at least know they are in the race.
 - They can validate their success after the race.
 This would be something cool to build upon.
 ```
