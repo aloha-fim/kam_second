@@ -43,7 +43,7 @@ def search_docs(df, user_query, top_n=10, to_print=True):
     # Editing of embedding
     #df['ada_v2'] = df['ada_v2'].str[1:3000].tolist()
 
-    df['ada_v2'] = df['ada_v2'][0:20000] + "]"
+    df['ada_v2'] = df['ada_v2'].str[:1000] + "]"
 
     # https://anupampawar.com/2024/04/03/ufuncnolooperror-ufunc-multiply-did-not-contain-a-loop-with-signature-matching-types/
     # Convert embeddings from string format back to numpy array
