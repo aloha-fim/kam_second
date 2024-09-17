@@ -22,7 +22,7 @@ After a serious bicycle accident that left me questioning my own resilience, I r
 - **Mental Health Support:** Using Azure AI, the app offers recommendations based on mental barriers and connects users with others who share similar experiences.
 - **Enhanced Recommendations:** Improvements with Azure AI have led to more accurate and helpful recommendations compared to previous attempts.
 
-
+![alt text](kam/static/assets/images/azure_result.jpg)
 
 ## 💡 How It Works
 
