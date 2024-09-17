@@ -89,7 +89,7 @@ def azure_refactor():
 
 	# for later: https://atoonk.medium.com/diving-into-ai-an-exploration-of-embeddings-and-vector-databases-a7611c4ec063
     ##### Microsoft ######
-		response = search_docs(df, question, top_n=2)
+		response = search_docs(df, question, top_n=5)
 		# https://blog.finxter.com/5-best-ways-to-convert-a-pandas-dataframe-to-a-jinja2-table/
 
 		runner_table = response.to_html()
