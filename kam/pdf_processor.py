@@ -147,7 +147,7 @@ def process_json_magic(query):
     #text = open("./data/postdefined_users_gpt.csv", "r")
 
     ##### Microsoft ######
-    with open("./data/postdefined_users_azure_data_v4.csv", encoding = "ISO-8859-1") as file:
+    with open("./data/postdefined_users_azure_data_v2.csv", encoding = "ISO-8859-1") as file:
         reader = csv.reader(file, delimiter=",")
         text_reader = list(reader)
 
@@ -162,8 +162,8 @@ def process_json_magic(query):
             text = text.replace(" ", " | ")
 
     # split into chunks
-    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000,
-                                               chunk_overlap=200, length_function=len)
+    char_text_splitter = CharacterTextSplitter(separator="\n", chunk_size=2000,
+                                               chunk_overlap=400, length_function=len)
 
     text_chunks = char_text_splitter.split_text(text)
 
