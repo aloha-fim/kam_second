@@ -57,8 +57,7 @@ def search_docs(df, user_query, top_n=2, to_print=True):
         df.sort_values("similarities", ascending=False)
         .head(top_n)
     )
-    if to_print:
-        display(response)
+
     return response
 
 
