@@ -47,7 +47,7 @@ def search_docs(df, user_query, top_n=2, to_print=True):
 
     # https://anupampawar.com/2024/04/03/ufuncnolooperror-ufunc-multiply-did-not-contain-a-loop-with-signature-matching-types/
     # Convert embeddings from string format back to numpy array
-    df['ada_v2'] = df['ada_v2'].apply(lambda x: np.array(ast.literal_eval(x)))
+    #df['ada_v2'] = df['ada_v2'].apply(lambda x: np.array(ast.literal_eval(x)))
 
     df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(x, embedding))
 
