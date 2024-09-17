@@ -41,7 +41,7 @@ def search_docs(df, user_query, top_n=10, to_print=True):
         model="text-embedding-ada-002" # model should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
     )
     # Editing of embedding
-    df['ada_v2'] = df['ada_v2'].str[0:32758] + "]"
+    df['ada_v2'] = df['ada_v2'].str[1:15000].tolist()
 
     #df['ada_v2'] = df['ada_v2'].str[1:32000].tolist()
 
