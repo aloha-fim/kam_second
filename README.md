@@ -27,7 +27,8 @@ on how each runner provides their reason for running the race.
 - Runners can now query what on their mind is causing a roadblock.
 
 - Azure AI will recommend runners who feel the same way
-and share their guidance on how to push through the mental challenge.
+and share their guidance
+ on how to push through the mental challenge.
 
 
 # Motivation for App
@@ -41,7 +42,8 @@ and share their guidance on how to push through the mental challenge.
 ```
 
 # First Attempt without Azure AI
-
+![alt text](./kam/static/assets/images/gpt_cover.jpg)
+![alt text](./kam/static/assets/images/gpt_query.jpg)
 ![alt text](./kam/static/assets/images/first_attempt.jpg)
 
 ```
@@ -51,6 +53,7 @@ and share their guidance on how to push through the mental challenge.
 
 # Improvement with Azure AI
 
+![alt text](./kam/static/assets/images/azure_cover.jpg)
 ![alt text](./kam/static/assets/images/recommend_azure.jpg)
 
 ```
@@ -73,13 +76,13 @@ Don't lose faith." and "You may find your exasperation turns to inspiration", re
 
 
 - The intention is to feel better after reading these positive thoughts.
-- I hope to continue improving the app so that runners can focus on their perspective that can transform
+- I hope to continue improving the app so
+that runners can focus on their perspective that can transform
 challenges into growth.
 
 - In the future, the app could find runners with like-minded reasons for overcoming the marathon
 to run together as a group or at least know they are in the race.
-- They can validate their success after the race.
-This would be something cool to build upon.
+- They can validate their success after the race. This would be something cool to build upon.
 ```
 
 - app has bugs, but ipynb (graphs_azure.ipynb) shows working example of Azure AI.
