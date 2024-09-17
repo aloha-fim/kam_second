@@ -26,7 +26,7 @@ client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
 )
 
-df = pd.read_csv("./data/postdefined_users_azure_data.csv", encoding = "ISO-8859-1")
+#df = pd.read_csv("./data/postdefined_users_azure_data_v4.csv")
 
 
 def cosine_similarity(a, b):
@@ -48,16 +48,18 @@ def search_docs(df, user_query, top_n=2, to_print=True):
     # https://anupampawar.com/2024/04/03/ufuncnolooperror-ufunc-multiply-did-not-contain-a-loop-with-signature-matching-types/
     # Convert embeddings from string format back to numpy array
     #df['ada_v2'] = df['ada_v2'].apply(lambda x: np.array(ast.literal_eval(x)))
+    # https://atoonk.medium.com/diving-into-ai-an-exploration-of-embeddings-and-vector-databases-a7611c4ec063
+    df['ada_v2'] = df['ada_v2'].apply(eval).apply(np.array)
 
     df["similarities"] = df.ada_v2.apply(lambda x: cosine_similarity(x, embedding))
 
-    res = (
+    response = (
         df.sort_values("similarities", ascending=False)
         .head(top_n)
     )
     if to_print:
-        display(res)
-    return res
+        display(response)
+    return response
 
 
 

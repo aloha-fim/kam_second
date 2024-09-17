@@ -40,8 +40,10 @@
     </div>
     <div class="card-body text-info">
       <h5 class="card-title"></h5>
-      <p class="card-text">{{ response["quote"] }}</p>
+      {% for res in response %}
+      <p class="card-text">{{ res["quote"] }}</p>
       <!--<a href="#" class="btn btn-primary">Activate</a>-->
+      {% endfor %}
     </div>
   </div>
   {% else %}
