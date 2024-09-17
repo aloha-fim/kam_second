@@ -91,10 +91,10 @@ def azure_refactor():
     ##### Microsoft ######
 		response = search_docs(df, question, top_n=2)
 		# https://blog.finxter.com/5-best-ways-to-convert-a-pandas-dataframe-to-a-jinja2-table/
-		quote_table = response['quote'].to_html()
-		runner_table = response['full_name'].to_html()
 
-		return render_template('upload_azure_more.html', quote_table=quote_table, runner_table=runner_table)
+		runner_table = response.to_html()
+
+		return render_template('upload_azure_more.html', runner_table=runner_table)
 
 	return render_template('upload_azure_more.html')
 

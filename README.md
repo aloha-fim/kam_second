@@ -14,11 +14,15 @@ Swiss Analytics goes beyond traditional marathon metrics. While most marathon ap
 
 After a serious bicycle accident that left me questioning my own resilience, I realized the power of motivational support. This app was born from the need to overcome doubt and injury by providing uplifting quotes and mental support to runners. The goal is to help users transform their challenges into personal growth through shared experiences and advice.
 
+![alt text](kam/static/assets/images/azure_cover.jpg)
+
 ## 🛠️ Key Features
 
 - **Inspirational Quotes:** Integrated with Azure AI, our app provides motivational quotes tailored to each runner’s personal reasons for participating in the marathon.
 - **Mental Health Support:** Using Azure AI, the app offers recommendations based on mental barriers and connects users with others who share similar experiences.
 - **Enhanced Recommendations:** Improvements with Azure AI have led to more accurate and helpful recommendations compared to previous attempts.
+
+
 
 ## 💡 How It Works
 
@@ -27,6 +31,8 @@ After a serious bicycle accident that left me questioning my own resilience, I r
 3. **Data Enrichment:** Refine the dataset to include age groups and additional metrics with `refine_seed.py`.
 4. **API Integration:** Flask is used to create API routes for data interaction, with endpoints like `/load_data` for record output.
 5. **Visualization:** Leverage Plotly and Dash for interactive data visualizations.
+6. **AZURE AI:** Finally the value add with AI innovation.  Embeddings for
+similarity search with Flask and Postgres.
 
 ## 🛠️ Setup and Configuration
 
@@ -48,6 +54,7 @@ After a serious bicycle accident that left me questioning my own resilience, I r
 - **Scraping:** Use Beautiful Soup to scrape data into text or CSV files.
 - **Database Import:** Transfer CSV files into Postgres using `seed_db.py` and validate timestamps and dates.
 - **Refinement:** Update the dataset to include age groups using `refine_seed.py`.
+- **Implementation:** Full dataset to implement Azure AI using `graphs_azure.ipynb`.
 
 ## 📈 Visualization
 
@@ -60,6 +67,9 @@ Watch our [demo video](https://drive.google.com/file/d/1803szzAFOaZnbmmcTiGDK0iU
 ## 🚧 Known Issues
 
 The app is a work in progress and may contain bugs. The notebook `graphs_azure.ipynb` contains examples of working Azure AI integrations and visualizations.
+Microsoft livestreams provided useful improvements such as adding markdowns in
+csv to improve LLM response.  Moreover, limitations were brought up dealing with
+lack of async functions in Flask over FastAPI.
 
 ## 🛠️ Future Plans
 
