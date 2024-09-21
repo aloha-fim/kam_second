@@ -19,10 +19,10 @@ def download_pdf(lnk):
 
     print("Downloading file from link: {}".format(lnk))
 
-    driver = webdriver.Chrome(chrome_options = options)
+    driver = webdriver.Chrome(options = options)
     driver.get(lnk)
 
-    filename = "from_pdf.pdf"
+    filename = lnk.split("/")[5].split(".htm")[0]
     print("File: {}".format(filename))
 
     print("Status: Download Complete.")
@@ -31,4 +31,4 @@ def download_pdf(lnk):
     driver.close()
 
 
-download_pdf("https://services.datasport.com/2014/lauf/zuerich/alfab.htm")
+download_pdf("https://www.datasport.com/en/diploma/?racenr=16913&stnr=1100")
