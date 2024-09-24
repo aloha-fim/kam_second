@@ -4,7 +4,7 @@ Welcome to Swiss Analytics! This application offers a unique perspective on mara
 
 ## 🚀 Project Overview
 
-Swiss Analytics goes beyond traditional marathon metrics. While most marathon apps focus on physical performance like running time, we emphasize the mental journey of running a marathon. Inspired by a personal challenge, the app combines inspirational quotes with marathon data to help runners overcome mental hurdles.
+Swiss Analytics goes beyond traditional marathon metrics. While most marathon apps focus on physical performance like running time, we emphasize the mental journey of running a marathon. Inspired by a personal challenge from a biking accident, the app combines inspirational quotes with marathon data to help runners overcome mental hurdles.
 
 ## 🌐 Access the App
 
